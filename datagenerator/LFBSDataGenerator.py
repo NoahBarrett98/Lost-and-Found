@@ -10,7 +10,7 @@ class LFBSDataGenerator:
     _lNames = []
     _sports = []
     _brands = []
-
+    
     _idSuffix = []
 
     # Current user ID offset
@@ -106,3 +106,27 @@ class LFBSDataGenerator:
         dsList = file.read().splitlines()
         file.close()
         return dsList
+    
+    def read_all(self, data_dir){
+         """
+         reads all files in given directory
+         
+         returns a dict with all the read in files with the keys as their names
+         """
+         data = {}
+         #iterate through entire directory
+         for root, dirs, files in os.walk(data_dir):
+            for i, f in enumerate(files):
+                #if not a readable file according to load dataset, continue to next file
+                try:
+                    #key does not have .txt, .csv, etc
+                    fsplit = f.split('.')
+                    #save data set with name key 
+                    data[fsplit[0]] = _loadDataset(f)
+                except:
+                    continue
+            return data
+        
+    }
+        
+        
