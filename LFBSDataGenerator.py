@@ -24,18 +24,22 @@ class LFBSDataGenerator:
 
     """
     Generate set of users in csv format, and write contents to text file.
-    :param numUsers: number of users to be generated
+    
+    Args:
+        numUsers (int) : number of users to be generated
     """
     def genUserSet(self, numUsers):
+        # Todo: create users and write to text file
         return None
 
 
     """
     Generate a single user in csv format
-    Format: id,fName,lName,address
+    
+    Returns:
+        user (str) : id,fName,lName,address
     """
     def _genUser(self):
-        user = ""
         user = self._genUserId() \
                + ',' + self._genFirstName() \
                + ',' + self._genLastName()
@@ -105,3 +109,17 @@ class LFBSDataGenerator:
         self._lNames.append("hall")
         self._lNames.append("rupp")
         self._lNames.append("kipchoge")
+
+
+    """
+    Loads dataset from text file into list
+    
+    Args:
+        fileName (str) : name of dataset file
+        datasetList (list[str]) : list where data will be stored
+    """
+    def _loadDataset(self, fileName, datasetList):
+        file = open(fileName, 'r')
+        datasetList = file.readlines()
+        file.close()
+
