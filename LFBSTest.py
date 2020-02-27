@@ -16,15 +16,15 @@ def testGenMultUser(numUsers):
 
 
 def testLoadDataSetFNames():
-    generater = gen()
+    generator = gen()
     # load first names into first name list
-    gen._loadDataset("first_names.txt", gen._fNames)
-    for name in gen._fNames:
+    generator.loadFirstNameDataset("first_names.txt")
+    for name in generator._fNames:
         print(name)
 
 
 
 """ UNCOMMENT LINE TO RUN TEST """
 
-testGenMultUser(15)
-# testLoadDataSetFNames()
+# testGenMultUser(15)
+testLoadDataSetFNames()
