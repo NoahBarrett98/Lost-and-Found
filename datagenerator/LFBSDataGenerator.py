@@ -1,10 +1,16 @@
 from random import seed
 from random import random
 import secrets
+import os
 
 
 class LFBSDataGenerator:
-
+    
+        
+        
+        
+        
+        
     # Datasets
     _fNames = []
     _lNames = []
@@ -15,6 +21,21 @@ class LFBSDataGenerator:
 
     # Current user ID offset
     _curId = 0
+    """
+    constructor to intialize the generator
+    """
+    def __init__(self, data_dir=None):
+        self._data = read_all(data_dir)
+        #generated functions with asscoiated field names
+        #if we have fields that can use the same fields, this will allow us to reuse the function for that field as well
+        #could just make this something we pass to object and create it in main (prob should)
+        self._gen_funcs = {
+             #we need to ensure uniformity between the file names, and fields of which are used to generate the tables
+             USERID:_genUserId, 
+             LASTNAME:_genLastName, 
+             FIRSTNAME:_genFirstName
+        }
+       
 
     """
     Generate set of users in csv format, and write contents to text file.
@@ -64,7 +85,8 @@ class LFBSDataGenerator:
                + ',' + self._genFirstName() \
                + ',' + self._genLastName()
         return user
-
+       
+        
     """
     Randomly choose and return a first name from list
     """
@@ -107,13 +129,18 @@ class LFBSDataGenerator:
         file.close()
         return dsList
     
-    def read_all(self, data_dir){
+    def read_all(self, data_dir):
          """
          reads all files in given directory
          
          returns a dict with all the read in files with the keys as their names
          """
+         #if no dir is passed to function on creation
+         #make empty dict
          data = {}
+         if data_dir == None:
+            return data
+        
          #iterate through entire directory
          for root, dirs, files in os.walk(data_dir):
             for i, f in enumerate(files):
@@ -126,7 +153,35 @@ class LFBSDataGenerator:
                 except:
                     continue
             return data
+    
+
         
-    }
+
+   def generate_list(self, format, n_lines):
+     """
+     need to establish the desired formatting for csv and sql loader
+     makes a generated list .txt, based on given format which is given on class creation
+     for each of the given fields it will either take from a pre-determined list or use the appropirate generation function
+     format: list of relations order
+     """
+     f = open("generated_data.txt", "a")
+     #for each user
+     for c in range(0, nlines):
+        line = ""
+        #for each attribute in given list
+        for r in format:
+            #if data already exists use it, else generate new data
+            try:
+                #field + ", ", random selection
+                line += str(data[r][random.randrange(len(data[r]))]) + ", "
+             except KeyError:
+                 #generate field
+                line += str(_gen_funcs[r].__call__())
+         f.write(line +'\n')
+       f.close() 
+            
+            
+        
+        
         
         
