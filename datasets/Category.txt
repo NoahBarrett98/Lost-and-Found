@@ -1,0 +1,59 @@
+Apron, APRO
+Baseball Cap, BASE
+Bathing Suit, BATH
+Belt, BELT
+Blazer, BLAZ
+Blouse, BLOU
+Bow Tie, BOWT
+Button-Down Shirt, BUTT
+Camisole, CAMI
+Capris, CAPR
+Cape, CAPE
+Cardigan, CARD
+Coat, COAT
+Costume, COST
+Cowboy Boots, COWB
+Crown, CROW
+Cuff Links, CUFF
+Dress Shirt, DRES
+Dress Pants, DREP
+Earmuffs, EARM
+Earrings, EARR
+Flannel Shirt, FLAN
+Flip-Flops, FLIP
+Fur Coat, FURC
+Gloves, GLOV
+Hand Bag, HAND
+Handkerchief, HANK
+Hawaian Shirt, HAWA
+Helmet, HELM
+High Heels, HIGH
+Hoodie, HOOD
+Housecoat/Robe, HOUS
+Jacket, JACK
+Jewelry, JEWE
+Jumpsuit, JUMP
+Khakis, KHAK
+Lab Coat, LABC
+Leggings, LEGG
+Long Johns, LONG
+Mittens, MITT
+Nightgown, NIGH
+Overalls, OVER
+Pajamas, PAJA?Pants, PANT
+Parka, PARK
+Raincoat, RAIN
+Sandals, SAND
+Shorts, SHOR
+Slippers, SLIP
+Sneakers, SNEAK
+Sombrero, SOMB
+Spacesuit, SPAC
+Sunglasses, SUNG
+Sweatpants, SWEA
+Swimsuit, SWIM
+Tank top, TANK
+Turtleneck, TURT
+Umbrella, UMBR
+Waistcoat, WAIS
+Windbreaker, WIND
