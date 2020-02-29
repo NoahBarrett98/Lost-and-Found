@@ -1,20 +1,22 @@
 from random import seed
 from random import random
+import read_files
+import converter
 import secrets
-
+import numpy as np
 
 class LFBSDataGenerator:
-
     # Datasets
     _fNames = []
     _lNames = []
     _sports = []
     _brands = []
-    
     _idSuffix = []
 
+    _data = read_files.read_all()
     # Current user ID offset
     _curId = 0
+
 
     """
     Generate set of users in csv format, and write contents to text file.
@@ -70,7 +72,6 @@ class LFBSDataGenerator:
     """
     def _genFirstName(self):
        return secrets.choice(self._fNames)
-
     """
     Randomly choose and return a list name from list
     """
@@ -106,27 +107,92 @@ class LFBSDataGenerator:
         dsList = file.read().splitlines()
         file.close()
         return dsList
-    
-    def read_all(self, data_dir){
-         """
-         reads all files in given directory
-         
-         returns a dict with all the read in files with the keys as their names
-         """
-         data = {}
-         #iterate through entire directory
-         for root, dirs, files in os.walk(data_dir):
-            for i, f in enumerate(files):
-                #if not a readable file according to load dataset, continue to next file
-                try:
-                    #key does not have .txt, .csv, etc
-                    fsplit = f.split('.')
-                    #save data set with name key 
-                    data[fsplit[0]] = _loadDataset(f)
-                except:
-                    continue
-            return data
-        
+
+    items = {
+        # True = not unique, False = unique
+        'datePosted': [8, True, "d"],
+        'dateRecieved': [8, True, "d"],
+        'dateShipped': [8, True, "d"],
+        'ISBN': [13, False],
+        'itemID': [7, False],
+        'listPrice': [5, True],
+        'recyclerID': [7, False],
+        'recyclerNumber': [10, False],
+        'serialNo': [30, False],
+        'transDate': [8, True, "d"],
+        'year': [4, True, "y"]
     }
-        
-        
+
+    def generate_numeric_field(field, length, items=items):
+
+        data = []
+        try:
+            if items[field][2] == "d":
+                yr = [i for i in range(2000, 2020)]
+                day = [i for i in range(1, 31)]
+                mn = [i for i in range(1, 12)]
+                for i in range(0, length):
+                    concat = [str(np.random.choice(day)), str(np.random.choice(mn)), str(np.random.choice(yr))]
+                    for i in concat:
+                        if len(i) == 1:
+                            concat[int(i)] = '0'+i
+                    data.append(str())
+            elif items[field][2] == "y":
+                dates = [i for i in range(2000, 2020)]
+                for i in range(0, length):
+                    np.random.choice(dates)
+
+        except IndexError:
+            #if can repeat
+            if items[field][1]:
+                for i in range(0, length):
+                    val = np.random.permutation(items[field][0])
+                    val = [str(c) for c in val]
+                    data.append(''.join(val))
+            else:
+                 for i in range(0, length):
+                    s = ''
+                    num_z = items[field][0] - len(str(i))
+                    s += '0'*num_z
+                    s+=i
+                    data.append(s)
+        return data
+
+    print(generate_numeric_field(field='datePosted', length=5))
+
+    _gen_funcs = {
+        'datePosted': generate_numeric_field,
+        'dateRecieved': generate_numeric_field,
+        'dateShipped': generate_numeric_field,
+        'ISBN': generate_numeric_field,
+        'itemID': generate_numeric_field,
+        'listPrice': generate_numeric_field,
+        'recyclerID': generate_numeric_field,
+        'recyclerNumber': generate_numeric_field,
+        'serialNo': generate_numeric_field,
+        'transDate': generate_numeric_field,
+        'year': generate_numeric_field
+    }
+
+    def generate_list(self, format, n_lines, fname, _gen_funcs=_gen_funcs, _data=_data):
+        """
+        need to establish the desired formatting for csv and sql loader
+        makes a generated list .txt, based on given format which is given on class creation
+        for each of the given fields it will either take from a pre-determined list or use the appropirate generation function
+        format: list of relations order
+        """
+        f = open(fname, "a")
+        # for each user
+        for c in range(0, n_lines):
+            line = ""
+            # for each attribute in given list
+            for r in format:
+                # if data already exists use it, else generate new data
+                try:
+                    # field + ", ", random selection
+                    line += read_files.random_field(_data[r], _data) + ", "
+                except KeyError:
+                    # generate field
+                    line += str(_gen_funcs[r].__call__(r, n_lines))
+            f.write(line + '\n')
+        f.close()
