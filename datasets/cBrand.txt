@@ -1,0 +1,66 @@
+cbrand
+Adidas, ADID
+Adidas by Stella McCartney, ADIS
+Banana Republic Woman, BANA
+Barts, BART
+Boss Hugo Boss, BOSS
+Boss Orange, BOSO
+Burlington, BURL
+Calvin Klein Jeans, CALV
+Calvin Klein Underwear, CALU
+Chantelle, CHAN
+Cheek by Lisca, CHEE
+Cocoa, COCO
+Colmar Originals, COLM
+Comma, COMM
+Desigual Accessories, DESI
+Emme by Marella, EMME
+Emporio Armani Underwear Woman, EMPO
+Etam, ETAM
+Falke, FALK
+Frank Lyman, FRAN
+Furla, FURL
+Gap, GAP
+Geox, GEOX
+Gioseppo, GIOS
+Guess, GUES
+Helly Hansen, HELL
+Inuovo, INUO
+Marc O´Polo, MARC
+Marella, MARE
+MaxMara Leisure, MAXM
+Melluso, MELL
+Menbur, MENB
+Michael Kors, MICH
+Monari, MONA
+More&More, MORE
+Nancy Swimwear, NANC
+Nero Giardini, NERO
+Nike, NIKE
+North Sails, NORTH
+Olsen, OLSE
+Oroblu, OROB
+Ory, ORY
+Palmers, PALM
+Passionata, PASS
+Patrizia Pepe, PATR
+Pedro Miralles, PEDR
+Pennyblack, PENN
+Pinko, PINK
+Pletix, PLET
+Polzela, POLZ
+Promise, PROM
+Punt Roma, PUNT
+Salsa , SALS
+Speedo, SPEE
+Tommy Hilfiger, TOMM
+Topshop, TOPS
+UGG, UGG
+Under Armour, UNDE
+Unisa, UNIS
+United Nude, UNIT
+Versace Jeans Couture, VERS
+Wallis, WALL
+Weekend MaxMara, WEEK
+Wigglesteps, WIGG
+WomenSecret, WOME
