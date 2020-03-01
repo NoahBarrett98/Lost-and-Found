@@ -28,7 +28,7 @@ CREATE TABLE Class (
         Crn         NUMBER(5)             NOT NULL,
         DeptCode    VARCHAR2(4)           NOT NULL,
         CourseNo    NUMBER(3)             NOT NULL,
-        CourseName  VARCHAR2(30),
+        CourseName  VARCHAR2(40),
         PRIMARY KEY (Crn),
         CONSTRAINT Valid_CourseNo CHECK (CourseNo > 99 AND CourseNo < 700)
 );
@@ -36,8 +36,8 @@ GRANT SELECT ON Class TO PUBLIC;
 
 
 CREATE TABLE Isbn (
-        Isbn        NUMBER(4)             NOT NULL,
-        Title       VARCHAR2(20),
+        Isbn        NUMBER(10)             NOT NULL,
+        Title       VARCHAR2(40),
         Author      VARCHAR2(40),
         Edition     NUMBER(2),
         PRIMARY KEY (Isbn)
@@ -47,7 +47,7 @@ GRANT SELECT ON Isbn TO PUBLIC;
 
 CREATE TABLE UsedIn (
         Crn         NUMBER(5),
-        Isbn        NUMBER(5),
+        Isbn        NUMBER(10),
         Year        NUMBER(4),
         PRIMARY KEY (Crn, Isbn, Year),
         CONSTRAINT FK_UsedIn_Crn    FOREIGN KEY (Crn)  REFERENCES Class(Crn),
@@ -61,9 +61,9 @@ CREATE TABLE Inventory (
         UserID      NUMBER(9)            NOT NULL,
         ListPrice   NUMBER(8, 2),
         PostDate    DATE,
-        Category    VARCHAR(10),
+        Category    VARCHAR2(10),
         PostType    CHAR(1),
-        Description VARCHAR(100),
+        Description VARCHAR2(100),
         PRIMARY KEY (ItemID),
         CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)  REFERENCES StfxUser(UserID)
 );
@@ -82,8 +82,8 @@ GRANT SELECT ON Textbook TO PUBLIC;
 
 CREATE TABLE Technology (
         ItemID        NUMBER(7),
-        Brand         VARCHAR(20),
-        DeviceType    VARCHAR(20),    
+        Brand         VARCHAR2(20),
+        DeviceType    VARCHAR2(20),    
         SerialNo      NUMBER(20),
         PRIMARY KEY   (ItemID),
         CONSTRAINT FK_Tech_ItemID   FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
@@ -93,9 +93,9 @@ GRANT SELECT ON Technology TO PUBLIC;
 
 CREATE TABLE Clothing (
         ItemID        NUMBER(7),
-        Brand         VARCHAR(20),
-        CSize         VARCHAR(10),
-        Article       VARCHAR(10),
+        Brand         VARCHAR2(20),
+        CSize         VARCHAR2(10),
+        Article       VARCHAR2(10),
         PRIMARY KEY   (ItemID),
         CONSTRAINT FK_Cloth_ItemID  FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
 );
@@ -104,7 +104,7 @@ GRANT SELECT ON Clothing TO PUBLIC;
 
 CREATE TABLE MusicalInstrument (
         ItemID        NUMBER(7),
-        InstrType     VARCHAR(20),
+        InstrType     VARCHAR2(20),
         PRIMARY KEY   (ItemID),
         CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
 );
@@ -113,7 +113,7 @@ GRANT SELECT ON MusicalInstrument TO PUBLIC;
 
 CREATE TABLE SportingGood (
         ItemID        NUMBER(7),
-        Sport         VARCHAR(20),
+        Sport         VARCHAR2(20),
         PRIMARY KEY   (ItemID),
         CONSTRAINT FK_SG_ItemID     FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
 );
@@ -135,11 +135,11 @@ GRANT SELECT ON Shipment TO PUBLIC;
 
 CREATE TABLE Recycler (
         RcyclID       NUMBER(7),
-        Name          VARCHAR(20),
+        Name          VARCHAR2(20),
         PhoneNo       NUMBER(10),
-        Email         VARCHAR(30),
-        Address       VARCHAR(40),
-        ItemCategory  VARCHAR(40),
+        Email         VARCHAR2(30),
+        Address       VARCHAR2(40),
+        ItemCategory  VARCHAR2(40),
         PRIMARY KEY   (RcyclID)
 );
 GRANT SELECT ON Recycler TO PUBLIC;
@@ -151,7 +151,7 @@ CREATE TABLE Transaction (
         GiverID       NUMBER(9),
         ReceiverID    NUMBER(9),
         TransDate     DATE,
-        Address       VARCHAR(40),
+        Address       VARCHAR2(40),
         PRIMARY KEY   (TransID),
         CONSTRAINT FK_Trans_Giver    FOREIGN KEY (GiverID)    REFERENCES StfxUser(UserID),
         CONSTRAINT FK_Trans_Receiver FOREIGN KEY (ReceiverID) REFERENCES StfxUser(UserID)
