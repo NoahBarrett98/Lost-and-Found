@@ -1,5 +1,5 @@
-Like New
-Very Good
-Good
-Fair
-Poor 
+Like New, NEW
+Very Good, VGOO
+Good, GOOD
+Fair, FAIR
+Poor, POOR
