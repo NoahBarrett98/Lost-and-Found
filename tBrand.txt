@@ -1,0 +1,21 @@
+tBrand
+Apple, APPL\
+Google, GOOG\
+Microsoft, MICR\
+Accenture, ACCE\
+Alphabet, ALPH\
+Huawei, HUAW\
+Intel, INTE\
+Samsung, SAMS\
+Cisco Systems, CICS\
+Nokia, NOKI\
+Android, ANDR\
+Linux, LINU\
+Lenovo, LENO\
+Hewlett-Packard, HEWL\
+Amazon, AMAZ\
+Rakuten, RAKU\
+IBM, IBM\
+Dell, DELL\
+Hitachi, HITA\
+Panasonic, PANA\
