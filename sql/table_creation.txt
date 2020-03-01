@@ -56,11 +56,14 @@ CREATE TABLE UsedIn (
 );
 GRANT SELECT ON UsedIn TO PUBLIC;             
 
+
 CREATE TABLE Abbrevs (
         Thing       VARCHAR2(40)             NOT NULL,
         Abbrev      VARCHAR2(4)              NOT NULL,
         PRIMARY KEY (Abbrev)
 );
+GRANT SELECT ON Abbrevs TO PUBLIC;
+
 
 CREATE TABLE Inventory (
         ItemID      NUMBER(7),
@@ -70,9 +73,11 @@ CREATE TABLE Inventory (
         Category    VARCHAR2(10),
         PostType    CHAR(1),
         Description VARCHAR2(100),
+        Condition   VARCHAR2(4),
         PRIMARY KEY (ItemID),
-        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)  REFERENCES StfxUser(UserID),
-        CONSTRAINT FK_Inv_Category  FOREIGN KEY (Category) REFERENCES Abbrevs(Abbrev)
+        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)    REFERENCES StfxUser(UserID),
+        CONSTRAINT FK_Inv_Category  FOREIGN KEY (Category)  REFERENCES Category(Abbrev),
+        CONSTRAINT FK_Inv_Condition FOREIGN KEY (Condition) REFERENCES Condition(Abbrev)
 );
 GRANT SELECT ON Inventory TO PUBLIC;
 
@@ -93,7 +98,9 @@ CREATE TABLE Technology (
         DeviceType    VARCHAR2(20),    
         SerialNo      NUMBER(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_Tech_ItemID   FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
+        CONSTRAINT FK_Tech_ItemID     FOREIGN KEY (ItemID)     REFERENCES Inventory(ItemID),
+        CONSTRAINT FK_Tech_Brand      FOREIGN KEY (Brand)      REFERENCES TBrand(Abbrev),
+        CONSTRAINT FK_Tech_Device     FOREIGN KEY (DeviceType) REFERENCES Device(Abbrev)
 );
 GRANT SELECT ON Technology TO PUBLIC;
 
@@ -104,7 +111,8 @@ CREATE TABLE Clothing (
         CSize         VARCHAR2(10),
         Article       VARCHAR2(10),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_Cloth_ItemID  FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
+        CONSTRAINT FK_Cloth_ItemID  FOREIGN KEY (ItemID)  REFERENCES Inventory(ItemID),
+        CONSTRAINT FK_Cloth_Article FOREIGN KEY (Article) REFERENCES Article(Abbrev)
 );
 GRANT SELECT ON Clothing TO PUBLIC;
 
@@ -113,7 +121,8 @@ CREATE TABLE MusicalInstrument (
         ItemID        NUMBER(7),
         InstrType     VARCHAR2(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
+        CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID)    REFERENCES Inventory(ItemID),
+        CONSTRAINT FK_Mus_Type      FOREIGN KEY (InstrType) REFERENCES InstrType(Abbrev)
 );
 GRANT SELECT ON MusicalInstrument TO PUBLIC;
 
@@ -122,7 +131,8 @@ CREATE TABLE SportingGood (
         ItemID        NUMBER(7),
         Sport         VARCHAR2(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_SG_ItemID     FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
+        CONSTRAINT FK_SG_ItemID     FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID),
+        CONSTRAINT FK_Sports_Sport   FOREIGN KEY (Sport) REFERENCES Sports(Abbrev)
 );
 GRANT SELECT ON SportingGood TO PUBLIC;
 
@@ -146,8 +156,9 @@ CREATE TABLE Recycler (
         PhoneNo       NUMBER(10),
         Email         VARCHAR2(30),
         Address       VARCHAR2(40),
-        ItemCategory  VARCHAR2(40),
-        PRIMARY KEY   (RcyclID)
+        ItemCategory  VARCHAR2(40)   NOT NULL,
+        PRIMARY KEY   (RcyclID),
+        CONSTRAINT FK_Rcycl_Article FOREIGN KEY (ItemCategory) REFERENCES Category(Abbrev)
 );
 GRANT SELECT ON Recycler TO PUBLIC;
 
