@@ -20,32 +20,32 @@ CSCI 275 Database
     - Functions for generating individual attributes (_genFirstName, _genLastName, etc)
         - **Not unique**
             - ~~First name~~
-            - Last name
-            - Article
+            - ~~Last name~~
+            - ~~Article~~
             - Sport
-            - Brand
-            - CourseDept
-            - CourseNo
-            - CourseName
+            - ~~Brand~~
+            - ~~CourseDept~~
+            - ~~CourseNo~~
+            - ~~CourseName~~
             - Address
-            - Date
-            - category
-            - condition
-            - device
+            - ~~Date~~
+            - ~~category~~
+            - ~~condition~~
+            - ~~device~~
             - edition
-            - instr type
+            - ~~instr type~~
             - item  desc
-            - item id
+            - ~~item id~~
             - key words
-            - price
+            - ~~price~~
             - post type
             - size
-            - year
+            - ~~year~~
         - **Unique** (will have to be treated differently)
-            - ID
+            - ~~ID~~
             - CRN
-            - ISBN
-            - phone number
+            - ~~ISBN~~
+            - ~~phone number~~
             - email address
     - Function- for generating individual entries (_genUser, _genUsedIn, _genClass)
         - User
