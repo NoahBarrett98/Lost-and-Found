@@ -12,6 +12,7 @@ DROP TABLE Isbn;
 DROP TABLE Class;
 DROP TABLE StfxUser;
 
+
 CREATE TABLE StfxUser (
         UserID      NUMBER(9)             NOT NULL,
         First       VARCHAR2(20)          NOT NULL,
@@ -63,7 +64,6 @@ CREATE TABLE Inventory (
         Category    VARCHAR(10),
         PostType    CHAR(1),
         Description VARCHAR(100),
-        KeyWords    VARCHAR(40),
         PRIMARY KEY (ItemID),
         CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)  REFERENCES StfxUser(UserID)
 );
