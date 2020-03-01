@@ -7,6 +7,7 @@ DROP TABLE Clothing;
 DROP TABLE Technology;
 DROP TABLE Textbook;
 DROP TABLE Inventory;
+DROP TABLE Keys;
 DROP TABLE UsedIn;
 DROP TABLE Isbn;
 DROP TABLE Class;
@@ -53,8 +54,13 @@ CREATE TABLE UsedIn (
         CONSTRAINT FK_UsedIn_Crn    FOREIGN KEY (Crn)  REFERENCES Class(Crn),
         CONSTRAINT FK_UsedIn_Isbn   FOREIGN KEY (Isbn) REFERENCES Isbn(Isbn)
 );
-GRANT SELECT ON UsedIn TO PUBLIC;
+GRANT SELECT ON UsedIn TO PUBLIC;             
 
+CREATE TABLE Keys (
+        Thing       VARCHAR2(40)             NOT NULL,
+        Key         VARCHAR2(4),             NOT NULL,
+        PRIMARY KEY (KEY)
+);
 
 CREATE TABLE Inventory (
         ItemID      NUMBER(7),
