@@ -7,7 +7,16 @@ DROP TABLE Clothing;
 DROP TABLE Technology;
 DROP TABLE Textbook;
 DROP TABLE Inventory;
-DROP TABLE Abbrevs;
+DROP TABLE sports;
+DROP TABLE tBrand;
+DROP TABLE size;
+DROP TABLE instrType;
+DROP TABLE device;
+DROP TABLE colour;
+DROP TABLE cBrand;
+DROP TABLE article;
+DROP TABLE Condition;
+DROP TABLE Category;
 DROP TABLE UsedIn;
 DROP TABLE Isbn;
 DROP TABLE Class;
@@ -64,6 +73,75 @@ CREATE TABLE Abbrevs (
 );
 GRANT SELECT ON Abbrevs TO PUBLIC;
 
+CREATE TABLE Category (
+        Category    VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON Category TO PUBLIC;
+
+CREATE TABLE Condition (
+        Condition   VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON Condition TO PUBLIC;
+
+CREATE TABLE article (
+        article     VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON article TO PUBLIC;
+
+CREATE TABLE cBrand (
+        cBrand      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON cBrand TO PUBLIC;
+
+CREATE TABLE colour (
+        colour      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON colour TO PUBLIC;
+
+CREATE TABLE device (
+        device      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON device TO PUBLIC;
+
+CREATE TABLE instrType (
+        intrType    VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON instrType TO PUBLIC;
+
+CREATE TABLE size (
+        size        VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON size TO PUBLIC;
+
+CREATE TABLE tBrand (
+        tBrand      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON tBrand TO PUBLIC;
+
+CREATE TABLE sports (
+        sports      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev),
+);
+GRANT SELECT ON sports TO PUBLIC;
 
 CREATE TABLE Inventory (
         ItemID      NUMBER(7),
@@ -131,7 +209,7 @@ CREATE TABLE SportingGood (
         ItemID        NUMBER(7),
         Sport         VARCHAR2(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_SG_ItemID     FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID),
+        CONSTRAINT FK_SG_ItemID      FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID),
         CONSTRAINT FK_Sports_Sport   FOREIGN KEY (Sport) REFERENCES Sports(Abbrev)
 );
 GRANT SELECT ON SportingGood TO PUBLIC;
