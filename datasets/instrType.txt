@@ -1,0 +1,74 @@
+Accordion, ACCO
+Bagpipes, BAGP
+Banjo, BANJ
+Bass guitar, BASG
+Bassoon, BASS
+Berimbau, BERI
+Bongo, BONG
+Cello, CELL
+Clarinet, CLAR
+Clavichord, CLAV
+Cor anglais, CORA
+Cornet, CORN
+Cymbal, CYMB
+Dhime, DHIN
+Didgeridoo, DIDG
+Dizi, DIZI
+Double bass, DOUB
+Drum kit, DRUM
+Erhu, ERHU
+Euphonium, EUPH
+Fiddle, FIDD
+Flute, FLUT
+French horn, FREN
+Glass harmonica, GLAS
+Glockenspiel, GLOC
+Gong, GONG
+Guitar, GUIT
+Hang, HANG
+Harmonica, HARM
+Harmonium, HARN
+Harp, HARP
+Harpsichord, HARD
+Hammered dulcimer, HAMM
+Hulusi, HULU
+Hurdy gurdy, HURD
+Jew’s harp, JEWS
+Kalimba, KALI
+Lute, LUTE
+Lyre, LYRE
+Mandolin, MAND
+Marimba, MARI
+Melodica, MELO
+Oboe, OBOE
+Organ, ORGA
+Pennywhistle, PENN
+Piano, PIAN
+Piccolo, PICC
+Pipa, PIPA
+Pungi, PUNG
+Recorder, RECO
+Santoor, SANT
+Sarod, SARO
+Saxophone, SAXO
+Shehnai, SHEH
+Sheng, SHEN
+Sitar, SITA
+Steelpan, STEE
+Suona, SUON
+Synthesizer, SYNT
+Tabla, TABL
+Tambourine, TAMB
+Timpani, TIMP
+Triangle, TRIA
+Trombone, TROM
+Trumpet, TRUM
+Theremin, THER
+Tuba, TUBA
+Ukulele, UKEL
+Viola, VIOA
+Violin, VIOL
+Vocal cords, VOCA
+Whamola, WHAM
+Xylophone, XYLO
+Zither, ZITH
