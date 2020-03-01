@@ -9,7 +9,7 @@ DROP TABLE Textbook;
 DROP TABLE Inventory;
 DROP TABLE sports;
 DROP TABLE tBrand;
-DROP TABLE size;
+DROP TABLE cSize;
 DROP TABLE instrType;
 DROP TABLE device;
 DROP TABLE colour;
@@ -115,12 +115,12 @@ CREATE TABLE instrType (
 );
 GRANT SELECT ON instrType TO PUBLIC;
 
-CREATE TABLE size (
-        size        VARCHAR(40)         NOT NULL,
+CREATE TABLE cSize (
+        cSize        VARCHAR(40)         NOT NULL,
         Abbrev      VARCHAR(4)          NOT NULL,
         PRIMARY KEY (Abbrev)
 );
-GRANT SELECT ON size TO PUBLIC;
+GRANT SELECT ON cSize TO PUBLIC;
 
 CREATE TABLE tBrand (
         tBrand      VARCHAR(40)         NOT NULL,
