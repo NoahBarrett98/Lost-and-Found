@@ -260,30 +260,30 @@ Size 13, 13
 Size 14, 14
 Size 15, 15
 Size 16, 16
-Apple, APPL\
-Google, GOOG\
-Microsoft, MICR\
-Accenture, ACCE\
-Alphabet, ALPH\
-Huawei, HUAW\
-Intel, INTE\
-Samsung, SAMS\
-Cisco Systems, CICS\
-Nokia, NOKI\
-Android, ANDR\
-Linux, LINU\
-Lenovo, LENO\
-Hewlett-Packard, HEWL\
-Amazon, AMAZ\
-Rakuten, RAKU\
-IBM, IBM\
-Dell, DELL\
-Hitachi, HITA\
-Panasonic, PANA\
-Technology, TECH\
-Homeware. HOME\
-Clothing, CLOT\
-Sporting goods, SPOR\
-Textbook, TEXT\
-Musical instruments, MUSI\
-Miscellaneous, NULL \
+Apple, APPL
+Google, GOOG
+Microsoft, MICR
+Accenture, ACCE
+Alphabet, ALPH
+Huawei, HUAW
+Intel, INTE
+Samsung, SAMS
+Cisco Systems, CISC
+Nokia, NOKI
+Android, ANDR
+Linux, LINU
+Lenovo, LENO
+Hewlett-Packard, HEWL
+Amazon, AMAZ
+Rakuten, RAKU
+IBM, IBM
+Dell, DELL
+Hitachi, HITA
+Panasonic, PANA
+Technology, TECH
+Homeware. HOME
+Clothing, CLOT
+Sporting goods, SPOR
+Textbook, TEXT
+Musical instruments, MUSI
+Miscellaneous, NULL
