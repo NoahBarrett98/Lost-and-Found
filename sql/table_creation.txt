@@ -66,13 +66,6 @@ CREATE TABLE UsedIn (
 GRANT SELECT ON UsedIn TO PUBLIC;             
 
 
-CREATE TABLE Abbrevs (
-        Thing       VARCHAR2(40)             NOT NULL,
-        Abbrev      VARCHAR2(4)              NOT NULL,
-        PRIMARY KEY (Abbrev)
-);
-GRANT SELECT ON Abbrevs TO PUBLIC;
-
 CREATE TABLE Category (
         Category    VARCHAR(40)         NOT NULL,
         Abbrev      VARCHAR(4)          NOT NULL,
