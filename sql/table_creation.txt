@@ -7,7 +7,7 @@ DROP TABLE Clothing;
 DROP TABLE Technology;
 DROP TABLE Textbook;
 DROP TABLE Inventory;
-DROP TABLE Keys;
+DROP TABLE Abbrevs;
 DROP TABLE UsedIn;
 DROP TABLE Isbn;
 DROP TABLE Class;
@@ -56,10 +56,10 @@ CREATE TABLE UsedIn (
 );
 GRANT SELECT ON UsedIn TO PUBLIC;             
 
-CREATE TABLE Keys (
+CREATE TABLE Abbrevs (
         Thing       VARCHAR2(40)             NOT NULL,
-        Key         VARCHAR2(4),             NOT NULL,
-        PRIMARY KEY (KEY)
+        Abbrev      VARCHAR2(4)              NOT NULL,
+        PRIMARY KEY (Abbrev)
 );
 
 CREATE TABLE Inventory (
@@ -71,7 +71,8 @@ CREATE TABLE Inventory (
         PostType    CHAR(1),
         Description VARCHAR2(100),
         PRIMARY KEY (ItemID),
-        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)  REFERENCES StfxUser(UserID)
+        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)  REFERENCES StfxUser(UserID),
+        CONSTRAINT FK_Inv_Category  FOREIGN KEY (Category) REFERENCES Abbrevs(Abbrev)
 );
 GRANT SELECT ON Inventory TO PUBLIC;
 
