@@ -2,16 +2,17 @@ DELETE FROM Inventory;
 DELETE FROM UsedIn;
 DELETE FROM Class;
 DELETE FROM Isbn;
-DELETE FROM Keys;
+DELETE FROM Condition;
+DELETE FROM Category;
 DELETE FROM StfxUser;
 
 INSERT INTO StfxUser VALUES (201501234, 'Cheese', 'Pizza', '133 Summit Rd');
 
 INSERT INTO StfxUser VALUES (201600000, 'French', 'Fries', NULL);
 
-INSERT INTO StfxUser VALUES (201501234, 'Hot', 'Dog', '40 Summer Ave');
+INSERT INTO Category VALUES ('Textbook', 'TEXT');
 
-INSERT INTO Keys VALUES ('TEXT', 'Textbook');
+INSERT INTO Condition VALUES ('Mint Condition', 'MINT');
 
 INSERT INTO Isbn VALUES (9876543210, 'Principles of Chicken Nuggets', 'Dr. Ham', 1);
 
@@ -19,4 +20,4 @@ INSERT INTO Class VALUES (12345, 'COOK', 199, 'Theory of Tomato Sauce');
 
 INSERT INTO UsedIn VALUES (12345, 9876543210, 2014);
 
-INSERT INTO Inventory VALUES (1234567, 201501234, 50.02, TO_DATE('1-Jan-2015'), 'TEXT', 'S', 'Selling my textbook, possibly trade for some greco coupons');
+INSERT INTO Inventory VALUES (1234567, 201501234, 50.02, TO_DATE('1-Jan-2015'), 'TEXT', 'S', 'Selling my textbook, possibly trade for some greco coupons', 'MINT');
