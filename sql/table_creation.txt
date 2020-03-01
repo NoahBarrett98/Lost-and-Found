@@ -9,7 +9,7 @@ DROP TABLE Textbook;
 DROP TABLE Inventory;
 DROP TABLE sports;
 DROP TABLE tBrand;
-DROP TABLE cSize;
+DROP TABLE CSize;
 DROP TABLE instrType;
 DROP TABLE device;
 DROP TABLE colour;
@@ -73,12 +73,14 @@ CREATE TABLE Category (
 );
 GRANT SELECT ON Category TO PUBLIC;
 
+
 CREATE TABLE Condition (
         Condition   VARCHAR(40)         NOT NULL,
         Abbrev      VARCHAR(4)          NOT NULL,
         PRIMARY KEY (Abbrev)
 );
 GRANT SELECT ON Condition TO PUBLIC;
+
 
 CREATE TABLE article (
         article     VARCHAR(40)         NOT NULL,
@@ -87,12 +89,14 @@ CREATE TABLE article (
 );
 GRANT SELECT ON article TO PUBLIC;
 
+
 CREATE TABLE cBrand (
         cBrand      VARCHAR(40)         NOT NULL,
         Abbrev      VARCHAR(4)          NOT NULL,
         PRIMARY KEY (Abbrev)
 );
 GRANT SELECT ON cBrand TO PUBLIC;
+
 
 CREATE TABLE colour (
         colour      VARCHAR(40)         NOT NULL,
@@ -101,12 +105,14 @@ CREATE TABLE colour (
 );
 GRANT SELECT ON colour TO PUBLIC;
 
+
 CREATE TABLE device (
         device      VARCHAR(40)         NOT NULL,
         Abbrev      VARCHAR(4)          NOT NULL,
         PRIMARY KEY (Abbrev)
 );
 GRANT SELECT ON device TO PUBLIC;
+
 
 CREATE TABLE instrType (
         intrType    VARCHAR(40)         NOT NULL,
@@ -115,12 +121,14 @@ CREATE TABLE instrType (
 );
 GRANT SELECT ON instrType TO PUBLIC;
 
-CREATE TABLE cSize (
-        cSize        VARCHAR(40)         NOT NULL,
+
+CREATE TABLE CSize (
+        CSize       VARCHAR(40)         NOT NULL,
         Abbrev      VARCHAR(4)          NOT NULL,
         PRIMARY KEY (Abbrev)
 );
-GRANT SELECT ON cSize TO PUBLIC;
+GRANT SELECT ON CSize TO PUBLIC;
+
 
 CREATE TABLE tBrand (
         tBrand      VARCHAR(40)         NOT NULL,
@@ -129,12 +137,14 @@ CREATE TABLE tBrand (
 );
 GRANT SELECT ON tBrand TO PUBLIC;
 
+
 CREATE TABLE sports (
         sports      VARCHAR(40)         NOT NULL,
         Abbrev      VARCHAR(4)          NOT NULL,
         PRIMARY KEY (Abbrev)
 );
 GRANT SELECT ON sports TO PUBLIC;
+
 
 CREATE TABLE Inventory (
         ItemID      NUMBER(7),
@@ -183,7 +193,8 @@ CREATE TABLE Clothing (
         Article       VARCHAR2(10),
         PRIMARY KEY   (ItemID),
         CONSTRAINT FK_Cloth_ItemID  FOREIGN KEY (ItemID)  REFERENCES Inventory(ItemID),
-        CONSTRAINT FK_Cloth_Article FOREIGN KEY (Article) REFERENCES Article(Abbrev)
+        CONSTRAINT FK_Cloth_Article FOREIGN KEY (Article) REFERENCES Article(Abbrev),
+        CONSTRAINT FB_Cloth_Size    FOREIGN KEY (CSize)   REFERENCES CSize(Abbrev)
 );
 GRANT SELECT ON Clothing TO PUBLIC;
 
@@ -245,4 +256,3 @@ CREATE TABLE Transaction (
         CONSTRAINT FK_Trans_Giver    FOREIGN KEY (GiverID)    REFERENCES StfxUser(UserID),
         CONSTRAINT FK_Trans_Receiver FOREIGN KEY (ReceiverID) REFERENCES StfxUser(UserID)
 );
-GRANT SELECT ON Transaction TO PUBLIC;
