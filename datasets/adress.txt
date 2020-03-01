@@ -1,0 +1,202 @@
+adress
+West Elmwood St.\
+Val-d'Or, QC J9P 7P7\
+725 Carriage Circle\
+Doaktown, NB E9C 8T4\
+9 Catherine St.\
+Wolfville, NS B4P 2J7\
+62 Ridge Street\
+Boucherville, QC J4B 5S2\
+22 Union St.\
+Louisbourg, NS B1C 5K5\
+762 Temple St.\
+La Plaine, QC J7M 5E7\
+296 W. Young Drive\
+Quesnel, BC V2J 8V4\
+68 Ketch Harbour St.\
+Duncan, BC V9L 4V1\
+692 Third Dr.\
+Selkirk, MB R1A 9S4\
+425 E. Ketch Harbour Dr.\
+Fort Frances, ON P9A 3V9\
+856 Franklin St.\
+Metchosin, BC V9C 9G8\
+51 Arcadia St.\
+Debec, NB E7N 7L2\
+7149 William St.\
+Quispamsis, NB E2G 6Y5\
+11 Wakehurst St.\
+Tillsonburg, ON N4G 7V1\
+7569 Young Lane\
+White Rock, BC V4B 7H9\
+8953 North Spruce St.\
+Masson-Angers, QC J8M 6L5\
+7526 Addison Street\
+Gagetown, NB E5M 9S2\
+530 West Talbot Drive\
+Kentville, NS B4N 5E6\
+947 Southampton Court\
+Ingersoll, ON N5C 2E9\
+64 Meadowbrook Court\
+Mont\'e9r\'e9gie-Est, QC J0J 4P7\
+95 East Arcadia St.\
+Lachute, QC J8H 9G4\
+9810 Fairground Avenue\
+Greely, ON K4P 4M4\
+972 Liberty Street\
+Cobourg, ON K9A 8A7\
+747 Woodland Ave.\
+St. George, NB E5C 9X3\
+1 Summerhouse St.\
+Ste. Anne, MB R5H 7K4\
+42 Primrose St.\
+Chelsea, QC J9B 6T4\
+8829 SE. Summerhouse Dr.\
+Laval-des-Rapides, QC H7N 0J3\
+91 Overlook Ave.\
+Saint-Antoine, NB E4V 9J8\
+7231 Sycamore St.\
+Holland Landing, ON L9N 9A0\
+522 Addison Court\
+Unit 77\
+Bromont, QC J2L 7R5\
+874 West Bohemia Rd.\
+Maple, ON L6A 0N7\
+9569 Cemetery Ave.\
+Collingwood, ON L9Y 4K7\
+33 Linda St.\
+Boiestown, NB E6A 4C4\
+8592 S. Ridgeview Street\
+Torbay, LB A1K 2E0\
+9812 E. 3rd Ave.\
+Hamilton, ON L8E 6H0\
+1 Airport Street\
+Nepean, ON K2G 5X2\
+735 Pendergast Street\
+Penticton, BC V2A 1C4\
+37 Harvey Rd.\
+Taber, AB T1G 6G2\
+83 South Iroquois St.\
+Sainte-Julie, QC J3E 1G2\
+88 Ryan Ave.\
+Listowel, ON N4W 4G9\
+2 Glendale St.\
+Manitoulin, ON P0P 3C3\
+7985 Academy Drive\
+Campobello Island, NB E5E 7V9\
+9933 Greenview St.\
+Ponoka, AB T4J 2V0\
+64 Homestead Ave.\
+Juan de Fuca Shore, BC V0S 8H9\
+7707 University Court\
+R\'e9gion d'Oka, QC J0N 2J4\
+313 Creek Dr.\
+Queens County, NS B0T 0L8\
+51 Piper Street\
+Ladysmith, BC V9G 5M6\
+66 Lower River Drive\
+\'celes-Laval, QC H7Y 5B6\
+48 Andover Street\
+Trail, BC V1R 9T9\
+49 N. Church Dr.\
+Hampton, NB E5N 4X6\
+45 Sheffield Ave.\
+Delhi, ON N4B 8N5\
+9108 Oakwood Rd.\
+Rivi\'e8re-du-Loup, QC G5R 4V1\
+67 Airport Ave.\
+Saint-Prime, QC G8J 3T5\
+9407 Longfellow St.\
+Joliette, QC J6E 6E8\
+7905 Spring Ave.\
+Antigonish, NS B2G 8T9\
+7 Rockville St.\
+Fort St. John, BC V1J 1Y4\
+838 Walnut St.\
+Elgin, ON N0L 7P9\
+22 Dunbar St.\
+La Baie, QC G7B 7N2\
+8861 Depot St.\
+Deer Island, NB E5V 7G3\
+71 Livingston St.\
+Saint-Quentin, NB E8A 0A2\
+61 Andover Ave.\
+Albanel, QC G8M 5B6\
+9 Hawthorne St.\
+Caraquet, NB E1W 5K4\
+3 Kirkland Rd.\
+La Sarre, QC J9Z 5N3\
+3 Glenholme Court\
+H\'e9bertville, QC G8N 3V0\
+646 Sherwood Ave.\
+Dorval Outskirts, QC H9P 9S5\
+7564 Longbranch Rd.\
+Dauphin, MB R7N 1N5\
+4 East Chestnut Street\
+Coverdale, NB E1J 6E2\
+170 East Gartner Ave.\
+L'Erable, QC G0Y 8C4\
+456 Lakeview Road\
+Christmas Island, NS B1T 9G0\
+77 Coffee Dr.\
+Youngs Cove, NB E4C 9R7\
+53 Edgewood St.\
+Appalaches, QC G0R 4C7\
+8435 Rockaway Circle\
+Cap-Rouge, QC G1Y 8A4\
+169 East Valley View St.\
+Gasp\'e9sie-Sud, QC G0C 8B8\
+718 Leatherwood St.\
+Comox, BC V9M 6C5\
+84 Brown St.\
+Laterri\'e8re, QC G7N 4R1\
+1 Grand Street\
+Innisfil, ON L9S 1H8\
+269 Carpenter Drive\
+Hawkesbury, ON K6A 6V9\
+588 Purple Finch Road\
+Lepreau, NB E5J 0E3\
+486 Union Street\
+Cranbrook, BC V1C 6H6\
+8691 Fulton Street\
+Stouffville, ON L4A 9V3\
+8903 West Meadow Court\
+Tour de la Bourse, QC H4Z 6J4\
+794 W. Monroe Street\
+Perth, ON K7H 3A5\
+636 Chestnut St.\
+Vermilion, AB T9X 7N3\
+7568 Thompson Street\
+Sturgeon Falls, ON P2B 5T4\
+72 Garden Dr.\
+Meadow Lake, SK S9X 9V3\
+866 Sutor Street\
+Gananoque, ON K7G 8R5\
+8044 Logan Street\
+Dufferin County, ON L0N 0L9\
+85 Crescent Lane\
+Thompson, MB R8N 3R4\
+6 Purple Finch Dr.\
+Carbonear, LB A1Y 5H1\
+72 Parker Dr.\
+Woodstock, NB E7M 9X9\
+7380 Meadow Ave.\
+Kincardine, ON N2Z 1S6\
+8037 E. Race Ave.\
+Courtice, ON L1E 5G5\
+8973 West Miles Ave.\
+Kananaskis Country, AB T0L 5L5\
+30 Oak Meadow Ave.\
+Centreville, NB E7K 8H4\
+564 W. Philmont St.\
+Hants County, NS B0N 8H5\
+764 Snake Hill Drive\
+Kingston, ON K7K 2M8\
+370 Golden Star Ave.\
+Athabasca, AB T9S 6Y4\
+886 Wakehurst St.\
+Morden, MB R6M 3K2\
+9314 Canterbury Ave.\
+New Glasgow, NS B2H 6R1\
+7005 S. Brandywine Drive\
+Burin Peninsula, LB A0E 3X5\
