@@ -40,7 +40,7 @@ CREATE TABLE Class (
         CourseNo    NUMBER(3)             NOT NULL,
         CourseName  VARCHAR2(40),
         PRIMARY KEY (Crn),
-        CONSTRAINT Valid_CourseNo CHECK (CourseNo > 99 AND CourseNo < 700)
+        CONSTRAINT Valid_CourseNo CHECK (CourseNo > 0 AND CourseNo < 999)
 );
 GRANT SELECT ON Class TO PUBLIC;
 
