@@ -1,0 +1,6 @@
+userid=stfx@csci275
+control=UsedIn.ctl
+log=UsedIn.log
+bad=UsedIn.bad
+data=UsedIn.dat
+direct=true

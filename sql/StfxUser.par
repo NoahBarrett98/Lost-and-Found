@@ -1,0 +1,6 @@
+userid=stfx@csci275
+control=StfxUser.ctl
+log=StfxUser.log
+bad=StfxUser.bad
+data=StfxUser.dat
+direct=true

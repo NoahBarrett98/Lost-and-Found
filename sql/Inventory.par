@@ -1,0 +1,6 @@
+userid=stfx@csci275
+control=Inventory.ctl
+log=Inventory.log
+bad=Inventory.bad
+data=Inventory.dat
+direct=true
