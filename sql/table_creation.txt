@@ -247,12 +247,14 @@ GRANT SELECT ON Recycler TO PUBLIC;
 
 CREATE TABLE Transaction (
         TransID       NUMBER(7),
+        ItemID        NUMBER(7),
         TransPrice    NUMBER(8, 2),
         GiverID       NUMBER(9),
         ReceiverID    NUMBER(9),
         TransDate     DATE,
         Address       VARCHAR2(40),
         PRIMARY KEY   (TransID),
+        CONSTRAINT FK_Trans_ItemId   FOREIGN KEY (ItemID)     REFERENCES Inventory(ItemID),
         CONSTRAINT FK_Trans_Giver    FOREIGN KEY (GiverID)    REFERENCES StfxUser(UserID),
         CONSTRAINT FK_Trans_Receiver FOREIGN KEY (ReceiverID) REFERENCES StfxUser(UserID)
 );
