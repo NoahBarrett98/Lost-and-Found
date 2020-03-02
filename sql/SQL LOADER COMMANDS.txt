@@ -8,3 +8,6 @@ loader commands
 
 \\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql\Class.ctl
 
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql\UsedIn.ctl
+
+
