@@ -1,25 +1,24 @@
-size
-XXS, XXS
-XS, XS
-S, S
-M, M
-L, L
-XL, XL
-XXL, XXL
-Size 00, 00
-Size 1, 1
-Size 2, 2
-Size 3, 3
-Size 4, 4
-Size 5, 5
-Size 6, 6
-Size 7, 7
-Size 8, 8
-Size 9, 9
-Size 10, 10
-Size 11, 11
-Size 12, 12
-Size 13, 13
-Size 14, 14
-Size 15, 15
-Size 16, 16
+XXS
+XS
+S
+M
+L
+XL
+XXL
+00
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
