@@ -1,36 +1,35 @@
-sports
-Archery, ARCH
-Badminton, BADM
-Cricket, CRIK
-Bowling, BOWL
-Boxing, BOXI
-Curling, CURL
-Tennis, TENN
-Skateboarding, SKAT
-Surfing, SURF
-Hockey, HOCK
-Figure skating, FIGU
-Yoga, YOGA
-Fencing, FENC
-Fitness, FITN
-Gymnastics, GYMN
-Karate, KARA
-Volleyball, VOLL
-Weightlifting, WEIG
-Basketball, BASK
-Baseball, BASE
-Rugby, RUGB
-Wrestling, WRES
-High jumping, HJUM
-Hang gliding, HANG
-Car racing, CARR
-Cycling, CYCL
-Running, RUNN
-Table tennis, TTEN
-Fishing, FISH
-Judo, JUDO
-Climbing, CLIM
-Pool, POOL
-Horse racing, HRAC
-Horseback riding, HRID
-Golf, GOLF
+ARCH
+BADM
+CRIK
+BOWL
+BOXI
+CURL
+TENN
+SKAT
+SURF
+HOCK
+FIGU
+YOGA
+FENC
+FITN
+GYMN
+KARA
+VOLL
+WEIG
+BASK
+BASE
+RUGB
+WRES
+HJUM
+HANG
+CARR
+CYCL
+RUNN
+TTEN
+FISH
+JUDO
+CLIM
+POOL
+HRAC
+HRID
+GOLF
