@@ -1,15 +1,15 @@
-Televisions, TELE
-DVD Player, DVDP
-Cassette Player, CASS
-Laptop, LAPT
-Desktop Computer, DESK
-Mobile Phone, MOBI
-iPod, IPOD
-MP3 Player, MP3P
-Camera, CAME
-Gaming Consoles, GAMI
-Printer, PRIN
-Radio, RADI
-Tablet, TABL
-eReader, EREA
-Moniter, MONI
+TELE
+DVDP
+CASS
+LAPT
+DESK
+MOBI
+IPOD
+MP3P
+CAME
+GAMI
+PRIN
+RADI
+TABL
+EREA
+MONI
