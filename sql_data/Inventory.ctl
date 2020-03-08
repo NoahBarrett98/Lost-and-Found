@@ -1,6 +1,6 @@
 LOAD DATA 
-INTO TABLE InstrType
 INFILE "C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql\Inventory.dat"
+INTO TABLE InstrType
 FIELDS TERMINATED BY ','
-(itemID,userID,listPrice,datePosted,category,postType,itemDescription,keywords,condition
+(itemID,userID,listPrice,PostDate,category,postType,Description,keywords,condition
 )

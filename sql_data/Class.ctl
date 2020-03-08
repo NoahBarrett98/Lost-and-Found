@@ -1,5 +1,5 @@
 LOAD DATA 
-INTO TABLE Class
 INFILE "C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql\Class.dat"
+INTO TABLE Class
 FIELDS TERMINATED BY ','
-(CRN,deptCode,courseNum,courseName)
+(Crn,DeptCode,CourseNo,CourseName)

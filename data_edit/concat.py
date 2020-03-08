@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+file io workspace
 
-This is a temporary script file.
-"""
 
 #making crns same
 Class = open('class.txt', "r")
@@ -34,5 +32,11 @@ Isbn.close()
 Usedin.close()
 UsedInNew.close()
  
+"""
 
-    
+text = open("Textbook.txt", "r")
+write = open("Textbook.dat", "w")
+for line in text.readlines():
+    write.write(line[:-3]+ '\n')
+write.close()
+text.close()

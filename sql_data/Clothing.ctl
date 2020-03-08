@@ -1,5 +1,5 @@
 LOAD DATA 
-INTO TABLE Clothing
 INFILE "C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql\Clothing.dat"
+INTO TABLE Clothing
 FIELDS TERMINATED BY ','
-(userID,fName,lName,userAddress)
+(ItemID,Brand,CSize,Article)

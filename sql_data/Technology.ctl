@@ -1,5 +1,5 @@
 LOAD DATA 
-INTO TABLE Technology
 INFILE "C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql\Technology.dat"
+INTO TABLE Technology
 FIELDS TERMINATED BY ','
-(ItemID,tBrand,Device,SerialNo)
+(ItemID,Brand,DeviceType,SerialNo)
