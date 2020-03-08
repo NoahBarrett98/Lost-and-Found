@@ -24,14 +24,13 @@ DROP TABLE StfxUser;
 
 
 CREATE TABLE StfxUser (
-        UserID      NUMBER(9)             NOT NULL,
-        fName       VARCHAR2(20)          NOT NULL,
-        lName        VARCHAR2(20)          NOT NULL,
-        userAddress     VARCHAR2(40),
+        UserID      VARCHAR2(9)             NOT NULL,
+        First       VARCHAR2(20)          NOT NULL,
+        Last        VARCHAR2(20)          NOT NULL,
+        Address     VARCHAR2(40),
         PRIMARY KEY (UserID),
-        CONSTRAINT Valid_UID CHECK (UserID > 201000000 AND UserID < 299999999)
 );
-GRANT SELECT ON User TO PUBLIC;
+GRANT SELECT ON StfxUser TO PUBLIC;
 
 
 CREATE TABLE Class (
@@ -49,6 +48,7 @@ CREATE TABLE Isbn (
         Isbn        NUMBER(10)             NOT NULL,
         Title       VARCHAR2(40),
         Author      VARCHAR2(40),
+        Edition     NUMBER(2),
         PRIMARY KEY (Isbn)
 );
 GRANT SELECT ON Isbn TO PUBLIC;
@@ -65,26 +65,100 @@ CREATE TABLE UsedIn (
 GRANT SELECT ON UsedIn TO PUBLIC;             
 
 
+CREATE TABLE Category (
+        Category    VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON Category TO PUBLIC;
+
+
+CREATE TABLE Condition (
+        Condition   VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON Condition TO PUBLIC;
+
+
+CREATE TABLE article (
+        article     VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON article TO PUBLIC;
+
+
+CREATE TABLE cBrand (
+        cBrand      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON cBrand TO PUBLIC;
+
+
+CREATE TABLE colour (
+        colour      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON colour TO PUBLIC;
+
+
+CREATE TABLE device (
+        device      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON device TO PUBLIC;
+
+
+CREATE TABLE instrType (
+        intrType    VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON instrType TO PUBLIC;
+
+
+CREATE TABLE CSize (
+        CSize       VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON CSize TO PUBLIC;
+
+
+CREATE TABLE tBrand (
+        tBrand      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
+);
+GRANT SELECT ON tBrand TO PUBLIC;
+
+
 CREATE TABLE sports (
-        ItemID     NUMBER(7)          NOT NULL,
-        Sport      VARCHAR(4)          NOT NULL,
-        PRIMARY KEY (ItemID)
+        sports      VARCHAR(40)         NOT NULL,
+        Abbrev      VARCHAR(4)          NOT NULL,
+        PRIMARY KEY (Abbrev)
 );
 GRANT SELECT ON sports TO PUBLIC;
 
 
 CREATE TABLE Inventory (
         ItemID      NUMBER(7),
-        UserID      NUMBER(9)            NOT NULL,
+        UserID      VARCHAR2(9)            NOT NULL,
         ListPrice   NUMBER(8, 2),
         PostDate    DATE,
         Category    VARCHAR2(10),
         PostType    CHAR(1),
         Description VARCHAR2(100),
-	keywords    VARCHAR2(100),
+	Keywords VARCHAR2(100),
         Condition   VARCHAR2(4),
         PRIMARY KEY (ItemID),
-        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)    REFERENCES StfxUser(UserID)
+        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)    REFERENCES StfxUser(UserID),
+        CONSTRAINT FK_Inv_Category  FOREIGN KEY (Category)  REFERENCES Category(Abbrev),
+        CONSTRAINT FK_Inv_Condition FOREIGN KEY (Condition) REFERENCES Condition(Abbrev)
 );
 GRANT SELECT ON Inventory TO PUBLIC;
 
@@ -125,14 +199,24 @@ CREATE TABLE Clothing (
 GRANT SELECT ON Clothing TO PUBLIC;
 
 
-CREATE TABLE InstrType (
+CREATE TABLE MusicalInstrument (
         ItemID        NUMBER(7),
         InstrType     VARCHAR2(20),
         PRIMARY KEY   (ItemID),
         CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID)    REFERENCES Inventory(ItemID),
         CONSTRAINT FK_Mus_Type      FOREIGN KEY (InstrType) REFERENCES InstrType(Abbrev)
 );
-GRANT SELECT ON InstrType TO PUBLIC;
+GRANT SELECT ON MusicalInstrument TO PUBLIC;
+
+
+CREATE TABLE SportingGood (
+        ItemID        NUMBER(7),
+        Sport         VARCHAR2(20),
+        PRIMARY KEY   (ItemID),
+        CONSTRAINT FK_SG_ItemID      FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID),
+        CONSTRAINT FK_Sports_Sport   FOREIGN KEY (Sport) REFERENCES Sports(Abbrev)
+);
+GRANT SELECT ON SportingGood TO PUBLIC;
 
 
 CREATE TABLE Shipment (
@@ -141,36 +225,36 @@ CREATE TABLE Shipment (
         UserAddress   VARCHAR2(40)   NOT NULL,
         RcyclAddress  VARCHAR2(40)   NOT NULL,
         DateShipped   DATE,
-        DateReceieved DATE,
         PRIMARY KEY   (ShipID),
         CONSTRAINT FB_Ship_ItemID    FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
 );
 GRANT SELECT ON Shipment TO PUBLIC;
 
 
-CREATE TABLE Recyclers (
+CREATE TABLE Recycler (
         RcyclID       NUMBER(7),
         Name          VARCHAR2(20),
         PhoneNo       NUMBER(10),
         Email         VARCHAR2(30),
         Address       VARCHAR2(40),
-        recyclerCategory  VARCHAR2(40)   NOT NULL,
+        ItemCategory  VARCHAR2(40)   NOT NULL,
         PRIMARY KEY   (RcyclID),
-        CONSTRAINT FK_Rcycl_Article FOREIGN KEY (recyclerCategory) REFERENCES Category(Abbrev)
+        CONSTRAINT FK_Rcycl_Article FOREIGN KEY (ItemCategory) REFERENCES Category(Abbrev)
 );
-GRANT SELECT ON Recyclers TO PUBLIC;
+GRANT SELECT ON Recycler TO PUBLIC;
 
 
 CREATE TABLE Transaction (
         TransID       NUMBER(7),
         ItemID        NUMBER(7),
         TransPrice    NUMBER(8, 2),
-        GiverID       NUMBER(9),
-        ReceiverID    NUMBER(9),
+        buyerID       NUMBER(9),
+        sellerID    NUMBER(9),
         TransDate     DATE,
         Address       VARCHAR2(40),
         PRIMARY KEY   (TransID),
         CONSTRAINT FK_Trans_ItemId   FOREIGN KEY (ItemID)     REFERENCES Inventory(ItemID),
-        CONSTRAINT FK_Trans_Giver    FOREIGN KEY (GiverID)    REFERENCES StfxUser(UserID),
-        CONSTRAINT FK_Trans_Receiver FOREIGN KEY (ReceiverID) REFERENCES StfxUser(UserID)
+        CONSTRAINT FK_Trans_Giver    FOREIGN KEY (buyerID)    REFERENCES StfxUser(UserID),
+        CONSTRAINT FK_Trans_Receiver FOREIGN KEY (sellerID) REFERENCES StfxUser(UserID)
 );
+

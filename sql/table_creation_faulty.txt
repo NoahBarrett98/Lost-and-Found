@@ -23,7 +23,7 @@ DROP TABLE Class;
 DROP TABLE StfxUser;
 
 
-CREATE TABLE StfxUser (
+CREATE TABLE User (
         UserID      NUMBER(9)             NOT NULL,
         fName       VARCHAR2(20)          NOT NULL,
         lName        VARCHAR2(20)          NOT NULL,
@@ -68,7 +68,7 @@ GRANT SELECT ON UsedIn TO PUBLIC;
 CREATE TABLE sports (
         ItemID     NUMBER(7)          NOT NULL,
         Sport      VARCHAR(4)          NOT NULL,
-        PRIMARY KEY (ItemID)
+        PRIMARY KEY (Abbrev)
 );
 GRANT SELECT ON sports TO PUBLIC;
 
@@ -84,7 +84,9 @@ CREATE TABLE Inventory (
 	keywords    VARCHAR2(100),
         Condition   VARCHAR2(4),
         PRIMARY KEY (ItemID),
-        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)    REFERENCES StfxUser(UserID)
+        CONSTRAINT FK_Inv_UserID    FOREIGN KEY (UserID)    REFERENCES StfxUser(UserID),
+        CONSTRAINT FK_Inv_Category  FOREIGN KEY (Category)  REFERENCES Category(Abbrev),
+        CONSTRAINT FK_Inv_Condition FOREIGN KEY (Condition) REFERENCES Condition(Abbrev)
 );
 GRANT SELECT ON Inventory TO PUBLIC;
 
@@ -132,7 +134,7 @@ CREATE TABLE InstrType (
         CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID)    REFERENCES Inventory(ItemID),
         CONSTRAINT FK_Mus_Type      FOREIGN KEY (InstrType) REFERENCES InstrType(Abbrev)
 );
-GRANT SELECT ON InstrType TO PUBLIC;
+GRANT SELECT ON MusicalInstrument TO PUBLIC;
 
 
 CREATE TABLE Shipment (
@@ -158,7 +160,7 @@ CREATE TABLE Recyclers (
         PRIMARY KEY   (RcyclID),
         CONSTRAINT FK_Rcycl_Article FOREIGN KEY (recyclerCategory) REFERENCES Category(Abbrev)
 );
-GRANT SELECT ON Recyclers TO PUBLIC;
+GRANT SELECT ON Recycler TO PUBLIC;
 
 
 CREATE TABLE Transaction (

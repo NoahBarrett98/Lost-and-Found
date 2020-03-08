@@ -1,29 +1,32 @@
 loader commands
 
-
 ****
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\User.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\StfxUser.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\ISBN.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\Class.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\Class.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\ISBN.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\UsedIn.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\UsedIn.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\Clothing.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\Inventory.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\InstrType.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\TextBook.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\Inventory.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\Technology.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\Recyclers.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\Clothing.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\Shipment.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\MusicalInstrument.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\Sports.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\SportingGood.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\Technology.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\Recycler.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\TextBook.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\Shipment.ctl
 
-\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\UsedIn.ctl
+\\caesar\apps\oracle~1\sqlldr userid=stfx/csci275@iras.ad.stfx.ca:1521/CSCI275 control=C:\Users\x2017sre\Downloads\PortableGit\Lost-and-Found\sql_data\control\Transaction.ctl
+
+
+
+
