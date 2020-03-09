@@ -162,9 +162,8 @@ GRANT SELECT ON Inventory TO PUBLIC;
 
 CREATE TABLE Textbook (
         ItemID       NUMBER(7),
-        Isbn         NUMBER(5),
+        Isbn         NUMBER(9),
         PRIMARY KEY  (ItemID),
-        CONSTRAINT FB_TB_ItemID     FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID),
         CONSTRAINT FK_TB_Isbn       FOREIGN KEY (Isbn)   REFERENCES Isbn(Isbn)
 );
 GRANT SELECT ON Textbook TO PUBLIC;
@@ -186,8 +185,7 @@ CREATE TABLE Clothing (
         Brand         VARCHAR2(20),
         CSize         VARCHAR2(10),
         Article       VARCHAR2(10),
-        PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_Cloth_ItemID  FOREIGN KEY (ItemID)  REFERENCES Inventory(ItemID)
+        PRIMARY KEY   (ItemID)
 );
 GRANT SELECT ON Clothing TO PUBLIC;
 
@@ -195,8 +193,7 @@ GRANT SELECT ON Clothing TO PUBLIC;
 CREATE TABLE MusicalInstrument (
         ItemID        NUMBER(7),
         InstrType     VARCHAR2(20),
-        PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID)    REFERENCES Inventory(ItemID) 
+        PRIMARY KEY   (ItemID)
 );
 GRANT SELECT ON MusicalInstrument TO PUBLIC;
 
@@ -205,7 +202,6 @@ CREATE TABLE SportingGood (
         ItemID        NUMBER(7),
         Sport         VARCHAR2(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_SG_ItemID      FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
 );
 GRANT SELECT ON SportingGood TO PUBLIC;
 
@@ -238,8 +234,8 @@ CREATE TABLE Transaction (
         TransID       NUMBER(7),
         ItemID        NUMBER(7),
         TransPrice    NUMBER(8, 2),
-        buyerID       NUMBER(9),
-        sellerID    NUMBER(9),
+        buyerID       VARCHAR2(8),
+        sellerID    VARCHAR2(8),
         TransDate     VARCHAR2(10),
         Address       VARCHAR2(40),
         PRIMARY KEY   (TransID),

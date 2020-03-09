@@ -79,3 +79,13 @@ for line in text.readlines():
 write.close()
 text.close()
 """
+#eliminate lines
+text = open("Shipment.txt", "r")
+write = open("Shipment.dat", "w")
+for i, line in enumerate(text.readlines()):
+    if i%3 == 0:
+        write.write(line)
+        
+    #print(line)
+write.close()
+text.close()

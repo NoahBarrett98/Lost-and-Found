@@ -1,52 +1,51 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1000,1000001,29.00 ,x2015bht,x2019aqv,14062021,"""WestElmwoodSt.Val-d'OrQCJ9P7P7"""
+1001,1000003,19.00 ,x2018bdf,x2018atm,4082021,"""Gasp'e9sie-SudQCG0C8B8718LeatherwoodSt."""
+1002,1000005,22.00 ,x2018biz,x2015awn,4012021,"""91OverlookAve.Saint-AntoineNBE4V9J8"""
+1003,1000007,64.00 ,x2016ajm,x2020aao,18082021,"""CaraquetNBE1W5K43KirklandRd."""
+1006,1000013,43.00 ,x2015aya,x2014bbr,17022021,"""H'e9bertvilleQCG8N3V0646SherwoodAve."""
+1010,1000021,46.00 ,x2016asw,x2019adh,16042021,"""StouffvilleONL4A9V38903WestMeadowCourt"""
+1020,1000041,49.00 ,x2020bmk,x2016abz,11072021,"""AppalachesQCG0R4C78435RockawayCircle"""
+1023,1000047,120.00 ,x2019auu,x2017aof,24112021,"""Saint-PrimeQCG8J3T59407LongfellowSt."""
+1025,1000051,54.00 ,x2020aok,x2020aok,14072021,"""JuandeFucaShoreBCV0S8H97707UniversityCourt"""
+1027,1000055,28.00 ,x2019ahq,x2018azr,24032021,"""747WoodlandAve.St.GeorgeNBE5C9X3"""
+1028,1000057,79.00 ,x2015aqj,x2019bjc,15082021,"""Rivi'e8re-du-LoupQCG5R4V167AirportAve."""
+1031,1000063,51.00 ,x2014bjj,x2016bbu,14082021,"""TourdelaBourseQCH4Z6J4794W.MonroeStreet"""
+1034,1000069,90.00 ,x2015arl,x2020bkq,6102021,"""StouffvilleONL4A9V38903WestMeadowCourt"""
+1038,1000077,118.00 ,x2014asd,x2018bgp,13022021,"""StouffvilleONL4A9V38903WestMeadowCourt"""
+1040,1000081,21.00 ,x2019bjb,x2018biw,22062021,"""7231SycamoreSt.HollandLandingONL9N9A0"""
+1042,1000085,77.00 ,x2017asl,x2019api,7062021,"""LepreauNBE5J0E3486UnionStreet"""
+1046,1000093,114.00 ,x2017asj,x2017bic,18012021,"""8829SE.SummerhouseDr.Laval-des-RapidesQCH7N0J3"""
+1050,1000101,40.00 ,x2020azn,x2019bdj,3042021,"""StouffvilleONL4A9V38903WestMeadowCourt"""
+1053,1000107,12.00 ,x2019aqv,x2020ahj,6112021,"""NewGlasgowNSB2H6R17005S.BrandywineDrive"""
+1056,1000113,100.00 ,x2017acc,x2015aax,1032021,"""CentrevilleNBE7K8H4564W.PhilmontSt."""
+1058,1000117,38.00 ,x2020bda,x2019akv,2042021,"""CoverdaleNBE1J6E2170EastGartnerAve."""
+1059,1000119,57.00 ,x2017bep,x2014aag,16082021,"""Cap-RougeQCG1Y8A4169EastValleyViewSt."""
+1069,1000139,12.00 ,x2015ami,x2020bjp,5082021,"""62RidgeStreetBouchervilleQCJ4B5S2"""
+1071,1000143,49.00 ,x2014arj,x2014ass,2042021,"""DorvalOutskirtsQCH9P9S57564LongbranchRd."""
+1072,1000145,25.00 ,x2015adz,x2020arm,5052021,"""762TempleSt.LaPlaineQCJ7M5E7"""
+1073,1000147,25.00 ,x2016bel,x2016axt,6082021,"""HantsCountyNSB0N8H5764SnakeHillDrive"""
+1075,1000151,12.00 ,x2014bhl,x2017bdy,3052021,"""HantsCountyNSB0N8H5764SnakeHillDrive"""
+1077,1000155,28.00 ,x2019acr,x2019awf,14102021,"""8953NorthSpruceSt.Masson-AngersQCJ8M6L5"""
+1080,1000161,38.00 ,x2014bhe,x2018ago,2032021,"""8953NorthSpruceSt.Masson-AngersQCJ8M6L5"""
+1081,1000163,77.00 ,x2016bhc,x2016awp,5062021,"""HamptonNBE5N4X645SheffieldAve."""
+1082,1000165,107.00 ,x2020bax,x2016agj,5022021,"""856FranklinSt.MetchosinBCV9C9G8"""
+1083,1000167,60.00 ,x2014axf,x2020bam,4082021,"""'celes-LavalQCH7Y5B648AndoverStreet"""
+1084,1000169,40.00 ,x2017ave,x2020avs,20002021,"""HantsCountyNSB0N8H5764SnakeHillDrive"""
+1085,1000171,86.00 ,x2019ahh,x2014bkx,5092021,"""Saint-QuentinNBE8A0A261AndoverAve."""
+1086,1000173,37.00 ,x2020bfy,x2020azu,19022021,"""Rivi'e8re-du-LoupQCG5R4V167AirportAve."""
+1089,1000179,13.00 ,x2020asa,x2019bbb,8082021,"""68KetchHarbourSt.DuncanBCV9L4V1"""
+1093,1000187,62.00 ,x2014ajr,x2015anb,15012021,"""JuandeFucaShoreBCV0S8H97707UniversityCourt"""
+1095,1000191,117.00 ,x2015bdn,x2020aft,11092021,"""725CarriageCircleDoaktownNBE9C8T4"""
+1098,1000197,35.00 ,x2015bdw,x2016bie,16062021,"""95EastArcadiaSt.LachuteQCJ8H9G4"""
+1100,1000201,66.00 ,x2014bkx,x2014amn,10062021,"""7526AddisonStreetGagetownNBE5M9S2"""
+1101,1000203,46.00 ,x2014bka,x2015bcl,8012021,"""TourdelaBourseQCH4Z6J4794W.MonroeStreet"""
+1104,1000209,51.00 ,x2015afb,x2016ask,12062021,"""KananaskisCountryABT0L5L530OakMeadowAve."""
+1105,1000211,79.00 ,x2016ahp,x2019asy,15102021,"""QueensCountyNSB0T0L851PiperStreet"""
+1109,1000219,25.00 ,x2020adn,x2020azx,11032021,"""CentrevilleNBE7K8H4564W.PhilmontSt."""
+1112,1000225,106.00 ,x2018bdr,x2014arj,24102021,"""TourdelaBourseQCH4Z6J4794W.MonroeStreet"""
+1113,1000227,56.00 ,x2019atj,x2016bja,13112021,"""ListowelONN4W4G92GlendaleSt."""
+1116,1000233,61.00 ,x2017bii,x2017aic,15082021,"""762TempleSt.LaPlaineQCJ7M5E7"""
+1118,1000237,16.00 ,x2016aat,x2015aqj,5092021,"""972LibertyStreetCobourgONK9A8A7"""
+1119,1000239,114.00 ,x2018art,x2015ato,5022021,"""CarbonearLBA1Y5H172ParkerDr."""
+1120,1000241,72.00 ,x2015aqa,x2018akl,5112021,"""HantsCountyNSB0N8H5764SnakeHillDrive"""
+1122,1000245,83.00 ,x2020bmf,x2015bkh,25012021,"""JolietteQCJ6E6E87905SpringAve."""
+1123,1000247,113.00 ,x2018ajy,x2019bhg,19112021,"""725CarriageCircleDoaktownNBE9C8T4"""
