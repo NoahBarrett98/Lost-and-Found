@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 file io workspace
-
-
+"""
+"""
 #making crns same
 Class = open('class.txt', "r")
 Isbn = open('Isbn.txt', "r")
@@ -26,17 +26,49 @@ for i, l in enumerate(Usedin.readlines()):
     UsedInNew.write(s)
     
 
-        
+         
 Class.close()
 Isbn.close()
 Usedin.close()
 UsedInNew.close()
- 
 """
-
-text = open("Textbook.txt", "r")
-write = open("Textbook.dat", "w")
+"""
+text = open("Inventory.txt", "r")
+write = open("Inventory.dat", "w")
 for line in text.readlines():
-    write.write(line[:-3]+ '\n')
+    line = line.split(',')
+    line[0] = "000" + line[0]
+    s = ''
+    for n in line:
+        s += n +','
+    write.write(s[:-1]+ '\n')
 write.close()
 text.close()
+"""
+
+text = open("Inventory.txt", "r")
+write = open("Inventory.dat", "w")
+for line in text.readlines():
+    line = line.split(',')
+    line[3] =line[3][4:] +'-'+ line[3][2:4] +'-' +  line[3][0:2]
+    s = ''
+    for n in line:
+        s += n +','
+    write.write(s[:-1])
+write.close()
+text.close()
+
+"""
+text = open("Inventory.txt", "r")
+write = open("Inventory.dat", "w")
+for line in text.readlines():
+    line = line.split(',')
+    if line[2][0] == "$":
+        line[2] = line[2][1:]
+    s = ''
+    for n in line:
+        s += n +','
+    write.write(s[:-1])
+write.close()
+text.close()
+"""
