@@ -1,0 +1,321 @@
+Apron,APRO
+BathingSuit,BATH
+Belt,BELT
+Blazer,BLAZ
+Blouse,BLOU
+BowTie,BOWT
+Button-DownShirt,BUTT
+Camisole,CAMI
+Capris,CAPR
+Cape,CAPE
+Cardigan,CARD
+Coat,COAT
+Costume,COST
+CowboyBoots,COWB
+Crown,CROW
+CuffLinks,CUFF
+DressShirt,DRES
+DressPants,DREP
+Earmuffs,EARM
+Earrings,EARR
+FlannelShirt,FLAN
+Flip-Flops,FLIP
+FurCoat,FURC
+Gloves,GLOV
+HandBag,HAND
+Handkerchief,HANK
+HawaianShirt,HAWA
+Helmet,HELM
+HighHeels,HIGH
+Hoodie,HOOD
+Housecoat/Robe,HOUS
+Jacket,JACK
+Jewelry,JEWE
+Jumpsuit,JUMP
+Khakis,KHAK
+LabCoat,LABC
+Leggings,LEGG
+LongJohns,LONG
+Mittens,MITT
+Nightgown,NIGH
+Overalls,OVER
+Pajamas,PAJA
+Pants,PANT
+Parka,PARK
+Raincoat,RAIN
+Sandals,SAND
+Shorts,SHOR
+Slippers,SLIP
+Sneakers,SNEA
+Sombrero,SOMB
+Spacesuit,SPAC
+Sunglasses,SUNG
+Sweatpants,SWEA
+Swimsuit,SWIM
+Tanktop,TANK
+Turtleneck,TURT
+Umbrella,UMBR
+Waistcoat,WAIS
+Windbreaker,WIND
+Technology,TECH
+Homeware,HOME
+Clothing,CLOT
+Sportinggoods,SPOR
+Textbook,TEXT
+Musicalinstruments,MUSI
+Miscellaneous,MISC
+Adidas,ADID
+AdidasbyStellaMcCartney,ADIS
+BananaRepublicWoman,BANA
+Barts,BART
+BossHugoBoss,BOSS
+BossOrange,BOSO
+Burlington,BURL
+CalvinKleinJeans,CALV
+CalvinKleinUnderwear,CALU
+Chantelle,CHAN
+CheekbyLisca,CHEE
+Cocoa,COCO
+ColmarOriginals,COLM
+Comma,COMM
+DesigualAccessories,DESI
+EmmebyMarella,EMME
+EmporioArmaniUnderwearWoman,EMPO
+Etam,ETAM
+Falke,FALK
+FrankLyman,FRAN
+Furla,FURL
+Gap,GAP
+Geox,GEOX
+Gioseppo,GIOS
+Guess,GUES
+HellyHansen,HELL
+Inuovo,INUO
+MarcO´Polo,MARC
+Marella,MARE
+MaxMaraLeisure,MAXM
+Melluso,MELL
+Menbur,MENB
+MichaelKors,MICH
+Monari,MONA
+More&More,MORE
+NancySwimwear,NANC
+NeroGiardini,NERO
+Nike,NIKE
+NorthSails,NORT
+Olsen,OLSE
+Oroblu,OROB
+Ory,ORY
+Palmers,PALM
+Passionata,PASS
+PatriziaPepe,PATR
+PedroMiralles,PEDR
+Pennyblack,PENN
+Pletix,PLET
+Polzela,POLZ
+Promise,PROM
+PuntRoma,PUNT
+Salsa,SALS
+Speedo,SPEE
+TommyHilfiger,TOMM
+Topshop,TOPS
+UGG,UGG
+UnderArmour,UNDE
+Unisa,UNIS
+UnitedNude,UNIT
+VersaceJeansCouture,VERS
+Wallis,WALL
+WeekendMaxMara,WEEK
+Wigglesteps,WIGG
+WomenSecret,WOME
+Red,RED
+Orange,ORAN
+Yellow,YELL
+Green,GREE
+Blue,BLUE
+Purple,PURP
+Brown,BROW
+Olive,OLIV
+Maroon,MARO
+Navy,NAVY
+Aquamarine,AQUA
+Turquoise,TURQ
+Silver,SILV
+Gold,GOLD
+Teal,TEAL
+Indigo,INDI
+Violet,VIOT
+Pink,PINK
+Black,BLAC
+White,WHIT
+Grey,GREY
+new,NEW
+used,USED
+mint,MINT
+decent,DECE
+poor,POOR
+Televisions,TELE
+DVD Player,DVDP
+Cassette Player,CASS
+Laptop,LAPT
+Desktop Computer,DESK
+Mobile Phone,MOBI
+iPod,IPOD
+MP3 Player,MP3P
+Camera,CAME
+Gaming Consoles,GAMI
+Printer,PRIN
+Radio,RADI
+Tablet,TABL
+eReader,EREA
+Moniter,MONI 
+Accordion,ACCO
+Bagpipes,BAGP
+Banjo,BANJ
+Bass guitar,BASG
+Bassoon,BASS
+Berimbau,BERI
+Bongo,BONG
+Cello,CELL
+Clarinet,CLAR
+Clavichord,CLAV
+Cor anglais,CORA
+Cornet,CORN
+Cymbal,CYMB
+Dhime,DHIN
+Didgeridoo,DIDG
+Dizi,DIZI
+Double bass,DOUB
+Drum kit,DRUM
+Erhu,ERHU
+Euphonium,EUPH
+Fiddle,FIDD
+Flute,FLUT
+French horn,FREN
+Glass harmonica,GLAS
+Glockenspiel,GLOC
+Gong,GONG
+Guitar,GUIT
+Harmonica,HARM
+Harmonium,HARN
+Harp,HARP
+Harpsichord,HARD
+Hammered dulcimer,HAMM
+Hulusi,HULU
+Hurdy gurdy,HURD
+Jew'92s harp,JEWS
+Kalimba,KALI
+Lute,LUTE
+Lyre,LYRE
+Mandolin,MAND
+Marimba,MARI
+Melodica,MELO
+Oboe,OBOE
+Organ,ORGA
+Piano,PIAN
+Piccolo,PICC
+Pipa,PIPA
+Pungi,PUNG
+Recorder,RECO
+Santoor,SANT
+Sarod,SARO
+Saxophone,SAXO
+Shehnai,SHEH
+Sheng,SHEN
+Sitar,SITA
+Steelpan,STEE
+Suona,SUON
+Synthesizer,SYNT
+Tambourine,TAMB
+Timpani,TIMP
+Triangle,TRIA
+Trombone,TROM
+Trumpet,TRUM
+Theremin,THER
+Tuba,TUBA
+Ukulele,UKEL
+Viola,VIOA
+Violin,VIOL
+Vocal cords,VOCA
+Whamola,WHAM
+Xylophone,XYLO
+Zither,ZITH
+XXS,XXS
+XS,XS
+S,S
+M,M
+L,L
+XL,XL
+XXL,XXL
+Size 00,00
+Size 1,1
+Size 2,2
+Size 3,3
+Size 4,4
+Size 5,5
+Size 6,6
+Size 7,7
+Size 8,8
+Size 9,9
+Size 10,10
+Size 11,11
+Size 12,12
+Size 13,13
+Size 14,14
+Size 15,15
+Size 16,16
+Archery,ARCH
+Badminton,BADM
+Cricket,CRIK
+Bowling,BOWL
+Boxing,BOXI
+Curling,CURL
+Tennis,TENN
+Skateboarding,SKAT
+Surfing,SURF
+Hockey,HOCK
+Figure skating,FIGU
+Yoga,YOGA
+Fencing,FENC
+Fitness,FITN
+Gymnastics,GYMN
+Karate,KARA
+Volleyball,VOLL
+Weightlifting,WEIG
+Basketball,BASK
+Baseball,BASE
+Rugby,RUGB
+Wrestling,WRES
+High jumping,HJUM
+Hang gliding,HANG
+Car racing,CARR
+Cycling,CYCL
+Running,RUNN
+Table tennis,TTEN
+Fishing,FISH
+Judo,JUDO
+Climbing,CLIM
+Pool,POOL
+Horse racing,HRAC
+Horseback riding,HRID
+Golf,GOLF
+Apple,APPL
+Google,GOOG
+Microsoft,MICR
+Accenture,ACCE
+Alphabet,ALPH
+Huawei,HUAW
+Intel,INTE
+Samsung,SAMS
+Cisco Systems,CICS
+Nokia,NOKI
+Android,ANDR
+Linux,LINU
+Lenovo,LENO
+Hewlett-Packard,HEWL
+Amazon,AMAZ
+Rakuten,RAKU
+IBM,IBM
+Dell,DELL
+Hitachi,HITA
+Panasonic,PANA

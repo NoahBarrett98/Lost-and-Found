@@ -1,0 +1,1462 @@
+APEX,100,Academic Program of Excellence,2015,2877
+APEX,100,Academic Program of Excellence,2018,2579
+ANTH,110,Intro to Anthropology,2014,2433
+ANTH,110,Intro to Anthropology,2020,3231
+ANTH,215,Archaeology & Native Peoples,2015,4436
+ANTH,215,Archaeology & Native Peoples,2018,4843
+ANTH,260,Evolution of Civilization,2017,4976
+ANTH,260,Evolution of Civilization,2018,4554
+ANTH,303,Anthropological Theory,2017,2693
+ANTH,303,Anthropological Theory,2020,1876
+ANTH,304,Principles & Meth of Fieldwork,2015,3850
+ANTH,304,Principles & Meth of Fieldwork,2018,2479
+ANTH,315,Health & Medicine,2016,1851
+ANTH,315,Health & Medicine,2018,4999
+ANTH,335,Cultural & Social Anthropology,2016,4903
+ANTH,335,Cultural & Social Anthropology,2020,4529
+ANTH,360,Archaeology of Anc Near East,2016,1654
+ANTH,360,Archaeology of Anc Near East,2019,3492
+ANTH,383,First Nations/Mi'kmaq Studies,2016,2950
+ANTH,383,First Nations/Mi'kmaq Studies,2018,1640
+ANTH,418,Area & Regional Studies,2014,4610
+ANTH,418,Area & Regional Studies,2019,4297
+AQUA,100,Intro to Aquatic Resources,2014,3036
+AQUA,100,Intro to Aquatic Resources,2019,3979
+AQUA,450,Sen Seminar Aquatic Resources,2014,3618
+AQUA,450,Sen Seminar Aquatic Resources,2018,1876
+ART,100,Drawing,2016,1040
+ART,100,Drawing,2019,3507
+ART,115,Intro to Design,2017,1076
+ART,115,Intro to Design,2018,2279
+ART,125,Materials & Methods,2017,3788
+ART,125,Materials & Methods,2018,3044
+ART,141,History of Art I,2016,2968
+ART,141,History of Art I,2019,2054
+ART,142,History of Art II,2014,3543
+ART,142,History of Art II,2020,4002
+ART,145,Introduction to Color,2015,2262
+ART,145,Introduction to Color,2020,1493
+ART,200,Painting I,2015,1221
+ART,200,Painting I,2019,4009
+ART,202,Scenic Design & Stage Lighting,2017,4366
+ART,202,Scenic Design & Stage Lighting,2020,2848
+ART,203,Stage & Costume Design,2017,4425
+ART,203,Stage & Costume Design,2018,3668
+ART,211,Stained Glass Studio I,2015,2069
+ART,211,Stained Glass Studio I,2020,3233
+ART,212,Stained Glass Studio II,2014,1277
+ART,212,Stained Glass Studio II,2018,4844
+ART,221,Batik Studio,2014,2794
+ART,221,Batik Studio,2020,2457
+ART,222,Weaving Studio,2015,2376
+ART,222,Weaving Studio,2019,4213
+ART,231,Etching Studio I,2014,4434
+ART,231,Etching Studio I,2020,4628
+ART,232,Etching Studio II,2015,1434
+ART,232,Etching Studio II,2019,1409
+ART,240,Pastels,2017,3718
+ART,240,Pastels,2019,3449
+ART,255,L'scape & Floral in Watercolor,2015,3800
+ART,255,L'scape & Floral in Watercolor,2019,2457
+ART,258,Impressionism,2014,2451
+ART,258,Impressionism,2019,3208
+ART,260,20th Century: Modern Art,2014,4517
+ART,260,20th Century: Modern Art,2018,1136
+ART,320,Painting II,2015,2442
+ART,320,Painting II,2020,4148
+ART,343,Issues in Cdn Art Through WWII,2016,1401
+ART,343,Issues in Cdn Art Through WWII,2020,2524
+ART,346,Botanical Arts: Drawing,2016,3279
+ART,346,Botanical Arts: Drawing,2018,2931
+ART,347,Botanical Arts: Painting,2015,1454
+ART,347,Botanical Arts: Painting,2020,1866
+ART,350,Anatomy for the Artist,2017,4795
+ART,350,Anatomy for the Artist,2019,4815
+ART,370,Italian Renaissance Art,2017,1316
+ART,370,Italian Renaissance Art,2020,2258
+ART,372,Northern Renaissance,2016,2680
+ART,372,Northern Renaissance,2019,1626
+ART,385,Advanced Drawing I,2016,3823
+ART,385,Advanced Drawing I,2018,4948
+ART,386,Advanced Drawing III,2016,2499
+ART,386,Advanced Drawing III,2018,1278
+ART,387,Cartooning & Humorous Illustra,2015,4695
+ART,387,Cartooning & Humorous Illustra,2018,3217
+BIOL,105,Basic Cell Biology,2015,4279
+BIOL,105,Basic Cell Biology,2019,3948
+BIOL,111,Intro Cell Biology,2016,3894
+BIOL,111,Intro Cell Biology,2019,3092
+BIOL,112,Diversity of Life,2017,3382
+BIOL,112,Diversity of Life,2019,4321
+BIOL,115,Microbes in Human Biology,2014,2531
+BIOL,115,Microbes in Human Biology,2019,3140
+BIOL,201,Animal Biology,2016,4545
+BIOL,201,Animal Biology,2018,3668
+BIOL,202,Plant Biology,2016,2426
+BIOL,202,Plant Biology,2019,2233
+BIOL,203,Intro Ecology,2016,4615
+BIOL,203,Intro Ecology,2019,2330
+BIOL,204,Intro Genetics,2016,3914
+BIOL,204,Intro Genetics,2019,1176
+BIOL,207,Intro to Natural History,2017,4895
+BIOL,207,Intro to Natural History,2019,2980
+BIOL,220,Current Topics in Biol (Arts),2015,2172
+BIOL,220,Current Topics in Biol (Arts),2019,2804
+BIOL,251,Human Anatomy & Physiology I,2015,1668
+BIOL,251,Human Anatomy & Physiology I,2020,2734
+BIOL,252,Human Anatomy & Physiology II,2016,3456
+BIOL,252,Human Anatomy & Physiology II,2020,2169
+BIOL,285,Paleontology: History of Life,2015,1079
+BIOL,285,Paleontology: History of Life,2020,3349
+BIOL,301,Form & Function in Animals,2017,3843
+BIOL,301,Form & Function in Animals,2018,3027
+BIOL,302,Evolution,2015,3509
+BIOL,302,Evolution,2019,3491
+BIOL,303,Human Biomechanics,2015,1831
+BIOL,303,Human Biomechanics,2020,4151
+BIOL,304,Vertebrate Physiology,2017,1070
+BIOL,304,Vertebrate Physiology,2018,4210
+BIOL,307,Field Biology,2017,3707
+BIOL,307,Field Biology,2019,4792
+BIOL,311,Marine Biology I,2017,4772
+BIOL,311,Marine Biology I,2019,4442
+BIOL,312,Marine Biology II,2014,4275
+BIOL,312,Marine Biology II,2018,2849
+BIOL,315,Intro Microbiology,2016,1531
+BIOL,315,Intro Microbiology,2019,2374
+BIOL,317,Molecular Biology,2017,1014
+BIOL,317,Molecular Biology,2018,3703
+BIOL,320,Biology of Cancer,2016,4886
+BIOL,320,Biology of Cancer,2018,3393
+BIOL,321,Env Ecol of Mariculture,2015,1827
+BIOL,321,Env Ecol of Mariculture,2019,3178
+BIOL,322,Marine Pollution,2015,1096
+BIOL,322,Marine Pollution,2020,3055
+BIOL,325,Physiological Ecology,2016,3118
+BIOL,325,Physiological Ecology,2020,2961
+BIOL,331,Biostatistics,2014,3787
+BIOL,331,Biostatistics,2020,2932
+BIOL,343,Comp Anatomy of Vertebrates,2014,2707
+BIOL,343,Comp Anatomy of Vertebrates,2019,2177
+BIOL,345,Communities & Ecosystems,2017,1974
+BIOL,345,Communities & Ecosystems,2019,1074
+BIOL,373,Wildlife Ecology,2015,2816
+BIOL,373,Wildlife Ecology,2018,3630
+BIOL,385,Animal Behavior,2015,3300
+BIOL,385,Animal Behavior,2018,4330
+BIOL,390,Plant Physiology,2014,1636
+BIOL,390,Plant Physiology,2019,4812
+BIOL,395,Cell Biology,2014,1285
+BIOL,395,Cell Biology,2019,2285
+BIOL,401,Comp Physiology & Biophysics,2014,2017
+BIOL,401,Comp Physiology & Biophysics,2018,2955
+BIOL,403,The Physiology of Sensations,2015,4342
+BIOL,403,The Physiology of Sensations,2019,2486
+BIOL,407,Integrated Resource Management,2014,3940
+BIOL,407,Integrated Resource Management,2018,2193
+BIOL,417,Microbial Pathogenics,2014,2759
+BIOL,417,Microbial Pathogenics,2018,2138
+BIOL,425,Advanced Cell Biology,2016,1455
+BIOL,425,Advanced Cell Biology,2020,1972
+BIOL,435,Advanced Embryology,2015,3240
+BIOL,435,Advanced Embryology,2018,3854
+BIOL,450,Behavioral Neuroscience,2015,4336
+BIOL,450,Behavioral Neuroscience,2020,2893
+BIOL,470,Environmental Microbiology,2015,3524
+BIOL,470,Environmental Microbiology,2020,4875
+BIOL,472,Freshwater Ecology,2016,3786
+BIOL,472,Freshwater Ecology,2018,1733
+BIOL,474,Soil Ecology,2015,4087
+BIOL,474,Soil Ecology,2019,2598
+BIOL,475,Accessing Biological Literatur,2015,3810
+BIOL,475,Accessing Biological Literatur,2018,4968
+BIOL,485,Experimental Research,2015,2509
+BIOL,485,Experimental Research,2019,2874
+BIOL,491,Senior Seminar,2016,3817
+BIOL,491,Senior Seminar,2019,4745
+BIOL,493,Honours Thesis,2014,3002
+BIOL,493,Honours Thesis,2019,1314
+BIOL,499,Applied Biomechanics,2017,3535
+BIOL,499,Applied Biomechanics,2018,4626
+BSAD,101,Intro to Business,2014,3212
+BSAD,101,Intro to Business,2018,3765
+BSAD,102,Business Decision Making,2014,4977
+BSAD,102,Business Decision Making,2018,1288
+BSAD,221,Intro Financial Accounting,2014,4761
+BSAD,221,Intro Financial Accounting,2018,3307
+BSAD,223,Intro Managerial Accounting,2016,1082
+BSAD,223,Intro Managerial Accounting,2020,4103
+BSAD,231,Foundations of Marketing,2016,1033
+BSAD,231,Foundations of Marketing,2020,3107
+BSAD,261,Foundations of Management,2014,1882
+BSAD,261,Foundations of Management,2020,1640
+BSAD,319,Mgmt of Information Technology,2015,2213
+BSAD,319,Mgmt of Information Technology,2020,3026
+BSAD,321,Intermed Managerial Account I,2017,2492
+BSAD,321,Intermed Managerial Account I,2019,4664
+BSAD,322,Intermed Managerial Account II,2015,4891
+BSAD,322,Intermed Managerial Account II,2019,4328
+BSAD,323,Intermed Financ Accounting I,2016,2187
+BSAD,323,Intermed Financ Accounting I,2020,3251
+BSAD,324,Intermed Financ Accounting II,2017,2112
+BSAD,324,Intermed Financ Accounting II,2018,1708
+BSAD,331,Marketing Management,2017,2517
+BSAD,331,Marketing Management,2018,1832
+BSAD,332,Marketing Research,2014,1019
+BSAD,332,Marketing Research,2018,2608
+BSAD,333,Prof Sales: Bldg Relationships,2014,2347
+BSAD,333,Prof Sales: Bldg Relationships,2018,4915
+BSAD,341,Intro Financial Management,2015,4140
+BSAD,341,Intro Financial Management,2020,3569
+BSAD,342,Cases in Financial Management,2014,3125
+BSAD,342,Cases in Financial Management,2020,4757
+BSAD,343,Cdn Securities & Markets,2017,4660
+BSAD,343,Cdn Securities & Markets,2020,3113
+BSAD,345,Personal Financial Management,2014,3703
+BSAD,345,Personal Financial Management,2019,3942
+BSAD,351,Business Law,2017,2539
+BSAD,351,Business Law,2018,1972
+BSAD,356,Entrepre & Venture Creation,2016,3901
+BSAD,356,Entrepre & Venture Creation,2018,2781
+BSAD,357,International Business Mgmt,2017,3910
+BSAD,357,International Business Mgmt,2019,2366
+BSAD,358,Business & Society,2017,3134
+BSAD,358,Business & Society,2020,1991
+BSAD,361,Organizational Analysis,2017,3730
+BSAD,361,Organizational Analysis,2019,1304
+BSAD,362,Career Dynamics,2015,2746
+BSAD,362,Career Dynamics,2019,2441
+BSAD,363,Human Resource Development,2015,1834
+BSAD,363,Human Resource Development,2018,2652
+BSAD,381,Operations Management,2017,1771
+BSAD,381,Operations Management,2019,1445
+BSAD,391,Found of Management Research,2014,1316
+BSAD,391,Found of Management Research,2019,2344
+BSAD,415,Electronic Business,2017,3092
+BSAD,415,Electronic Business,2019,1160
+BSAD,416,Project Management & Practice,2017,4323
+BSAD,416,Project Management & Practice,2018,1220
+BSAD,424,Financial Accounting Theory,2017,2816
+BSAD,424,Financial Accounting Theory,2020,1860
+BSAD,425,Auditing,2015,2547
+BSAD,425,Auditing,2020,2843
+BSAD,426,Adv Financial Accounting I,2017,3614
+BSAD,426,Adv Financial Accounting I,2019,2583
+BSAD,428,Adv Financial Accounting II,2016,4900
+BSAD,428,Adv Financial Accounting II,2020,3313
+BSAD,431,Services & Non-Profit Mrkting,2017,4728
+BSAD,431,Services & Non-Profit Mrkting,2020,4267
+BSAD,432,Retailing,2014,2647
+BSAD,432,Retailing,2020,3834
+BSAD,434,Marketing Communications,2016,2921
+BSAD,434,Marketing Communications,2018,1165
+BSAD,435,Sales Force Management,2015,3460
+BSAD,435,Sales Force Management,2020,2830
+BSAD,443,Investment Management,2017,4679
+BSAD,443,Investment Management,2018,1098
+BSAD,446,Investment Portfolio Mgmt,2016,2477
+BSAD,446,Investment Portfolio Mgmt,2018,4743
+BSAD,448,International Financial Mgmt,2016,2887
+BSAD,448,International Financial Mgmt,2018,3681
+BSAD,454,Taxation,2014,3417
+BSAD,454,Taxation,2018,2123
+BSAD,457,Community Enterprise Develpmnt,2016,4340
+BSAD,457,Community Enterprise Develpmnt,2018,3887
+BSAD,458,Research Proj: Enterprise Dev,2014,4727
+BSAD,458,Research Proj: Enterprise Dev,2019,1626
+BSAD,461,Leadership,2015,1843
+BSAD,461,Leadership,2018,3941
+BSAD,464,Negotiation & Conflict Mgmt,2017,1227
+BSAD,464,Negotiation & Conflict Mgmt,2018,4285
+BSAD,466,Lesson in Leadership,2014,3423
+BSAD,466,Lesson in Leadership,2019,3039
+BSAD,471,Business Policy,2015,2617
+BSAD,471,Business Policy,2019,4169
+BSAD,472,"""Bus",2016,4973
+BSAD,472,"""Bus",2018,3934
+BSAD,492,Consulting Project for Majors,2014,4127
+BSAD,492,Consulting Project for Majors,2020,3558
+BSAD,494,Honours Thesis,2017,2525
+BSAD,494,Honours Thesis,2019,3998
+CATH,200,Intro to Catholic Traditions,2014,3149
+CATH,200,Intro to Catholic Traditions,2018,2321
+CATH,241,Sin & Salvation Catholic Trad,2017,1570
+CATH,241,Sin & Salvation Catholic Trad,2018,4387
+CATH,245,Christ in the Catholic Trad,2014,4202
+CATH,245,Christ in the Catholic Trad,2018,4405
+CELT,100,Scottish Gaelic,2015,4298
+CELT,100,Scottish Gaelic,2018,2959
+CELT,110,Irish Gaelic,2015,4317
+CELT,110,Irish Gaelic,2018,3162
+CELT,120,Celtic Literature,2017,4116
+CELT,120,Celtic Literature,2020,1859
+CELT,131,Celtic Civilization I,2016,1376
+CELT,131,Celtic Civilization I,2020,3709
+CELT,132,Celtic Civilization II,2017,2532
+CELT,132,Celtic Civilization II,2018,4263
+CELT,200,Second Year Scottish Gaelic,2015,1978
+CELT,200,Second Year Scottish Gaelic,2019,2916
+CELT,300,Third Year Gaelic,2015,1729
+CELT,300,Third Year Gaelic,2019,3663
+CELT,333,Scottish Gael: Old World & New,2015,4309
+CELT,333,Scottish Gael: Old World & New,2018,2843
+CELT,340,Scottish Gaelic Bardic Poetry,2015,2229
+CELT,340,Scottish Gaelic Bardic Poetry,2018,4974
+CELT,350,Folklore of Ireland & Scotland,2017,4362
+CELT,350,Folklore of Ireland & Scotland,2018,1350
+CELT,361,Selected Topics I,2016,1102
+CELT,361,Selected Topics I,2019,3437
+CELT,362,Selected Topics II,2014,2007
+CELT,362,Selected Topics II,2019,2562
+CELT,420,Seminar Scott Gaelic Imm Lit,2017,2466
+CELT,420,Seminar Scott Gaelic Imm Lit,2018,1688
+CELT,490,Honours Thesis,2016,2117
+CELT,490,Honours Thesis,2020,2849
+CHEM,100,General Chemistry,2014,1818
+CHEM,100,General Chemistry,2018,4929
+CHEM,120,Principles of Chemistry,2015,1526
+CHEM,120,Principles of Chemistry,2019,1150
+CHEM,150,General & Biological Chemistry,2014,1885
+CHEM,150,General & Biological Chemistry,2020,1697
+CHEM,220,Organic Chemistry,2015,4180
+CHEM,220,Organic Chemistry,2020,2676
+CHEM,222,Organic Chemistry II,2014,1363
+CHEM,222,Organic Chemistry II,2020,4659
+CHEM,225,Principles of Organic Chem,2015,1580
+CHEM,225,Principles of Organic Chem,2019,3604
+CHEM,231,Physical Chemistry I,2016,1232
+CHEM,231,Physical Chemistry I,2019,3394
+CHEM,232,Physical Chemistry II,2015,2121
+CHEM,232,Physical Chemistry II,2020,1196
+CHEM,245,Basic Inorganic Chemistry,2014,1102
+CHEM,245,Basic Inorganic Chemistry,2019,1611
+CHEM,255,Intro Biochemistry,2015,4537
+CHEM,255,Intro Biochemistry,2018,2445
+CHEM,265,Basic Analytical Chemistry,2016,2344
+CHEM,265,Basic Analytical Chemistry,2019,2168
+CHEM,321,Intermediate Organic Chemistry,2017,3148
+CHEM,321,Intermediate Organic Chemistry,2020,3757
+CHEM,322,Heterocyclic Chemistry,2015,4133
+CHEM,322,Heterocyclic Chemistry,2020,1337
+CHEM,330,Physical Chemistry III,2016,2453
+CHEM,330,Physical Chemistry III,2019,2321
+CHEM,341,Inorganic & Theoret Chem I,2016,2666
+CHEM,341,Inorganic & Theoret Chem I,2018,1350
+CHEM,342,Inorganic & Theoret Chem II,2017,1464
+CHEM,342,Inorganic & Theoret Chem II,2019,2969
+CHEM,360,Instrumental Analytical Chem,2016,3368
+CHEM,360,Instrumental Analytical Chem,2019,1850
+CHEM,375,Chemical Informatics,2014,4789
+CHEM,375,Chemical Informatics,2019,3939
+CHEM,381,Industrial Chemistry,2014,4955
+CHEM,381,Industrial Chemistry,2018,3763
+CHEM,391,Chemistry Seminar I,2016,4505
+CHEM,391,Chemistry Seminar I,2020,4509
+CHEM,411,Computational Chemistry,2017,2090
+CHEM,411,Computational Chemistry,2020,3428
+CHEM,420,Phys Organ Chem & Spectroscopy,2016,2980
+CHEM,420,Phys Organ Chem & Spectroscopy,2019,1536
+CHEM,434,Colloids & Interfaces,2017,3168
+CHEM,434,Colloids & Interfaces,2018,4930
+CHEM,442,Bio-Inorganic Chemistry,2016,1478
+CHEM,442,Bio-Inorganic Chemistry,2018,2005
+CHEM,450,Bio-Organic Chemistry,2016,1981
+CHEM,450,Bio-Organic Chemistry,2018,4618
+CHEM,455,Medicinal Chemistry,2017,1489
+CHEM,455,Medicinal Chemistry,2019,4859
+CHEM,461,Topics Instrument & Analysis,2015,4217
+CHEM,461,Topics Instrument & Analysis,2018,1395
+CHEM,491,Chemistry Seminar II,2017,1997
+CHEM,491,Chemistry Seminar II,2020,2748
+CHEM,493,Honours Thesis,2014,3495
+CHEM,493,Honours Thesis,2020,4153
+CLAS,110,Latin I,2017,2463
+CLAS,110,Latin I,2020,2008
+CLAS,240,Greek Lit in Translation,2016,1249
+CLAS,240,Greek Lit in Translation,2018,1652
+CSCI,100,Introduction to Computing,2014,4808
+CSCI,100,Introduction to Computing,2018,1498
+CSCI,125,Computer Programming in C,2017,3875
+CSCI,125,Computer Programming in C,2019,1622
+CSCI,161,Intro to Programming,2016,2339
+CSCI,161,Intro to Programming,2018,2799
+CSCI,162,Programming & Data Structures,2014,2273
+CSCI,162,Programming & Data Structures,2020,2616
+CSCI,235,Micro-Computers in Science,2015,1528
+CSCI,235,Micro-Computers in Science,2020,1907
+CSCI,254,Object-Oriented Methodologies,2017,1163
+CSCI,254,Object-Oriented Methodologies,2020,3469
+CSCI,256,Data Struct & Algorithm Analy,2015,3488
+CSCI,256,Data Struct & Algorithm Analy,2019,3498
+CSCI,275,Database Management Systems,2015,4876
+CSCI,275,Database Management Systems,2018,3806
+CSCI,335,Operations Research,2014,1482
+CSCI,335,Operations Research,2020,4742
+CSCI,356,Theory of Computing,2017,1691
+CSCI,356,Theory of Computing,2018,3184
+CSCI,375,Operating Systems,2015,4362
+CSCI,375,Operating Systems,2019,2176
+CSCI,383,Object-Oriented Prgm & Design,2017,3858
+CSCI,383,Object-Oriented Prgm & Design,2020,4393
+CSCI,455,Parallel Computing,2016,1541
+CSCI,455,Parallel Computing,2018,2408
+CSCI,355,Algorithm Analysis,2014,2565
+CSCI,355,Algorithm Analysis,2020,3793
+CSCI,467,Computer & Network Security,2014,3386
+CSCI,467,Computer & Network Security,2018,4389
+CSCI,483,Interactive Programming Java,2016,3474
+CSCI,483,Interactive Programming Java,2018,4166
+CSCI,485,Software Design,2016,2963
+CSCI,485,Software Design,2018,2038
+CSCI,487,Org of Programming Languages,2014,2966
+CSCI,487,Org of Programming Languages,2019,3281
+CSCI,491,Senior Seminar,2015,3407
+CSCI,491,Senior Seminar,2018,3960
+CSCI,493,Senior Honours Thesis,2014,1413
+CSCI,493,Senior Honours Thesis,2018,3276
+DEVS,200,Intro to International Develop,2017,3767
+DEVS,200,Intro to International Develop,2020,2034
+DEVS,300,Globalization & Development,2017,2181
+DEVS,300,Globalization & Development,2019,1509
+DEVS,310,Internship II,2014,3030
+DEVS,310,Internship II,2020,2144
+DEVS,405,Community-Based Dev,2017,4744
+DEVS,405,Community-Based Dev,2020,4600
+ESCI,170,Understanding the Earth,2016,2237
+ESCI,170,Understanding the Earth,2018,4675
+ESCI,171,Understanding the Earth I,2017,2861
+ESCI,171,Understanding the Earth I,2019,2639
+ESCI,172,Understanding the Earth II,2017,3088
+ESCI,172,Understanding the Earth II,2018,3765
+ESCI,201,Crystal Chem & Mineralogy,2016,1080
+ESCI,201,Crystal Chem & Mineralogy,2019,4519
+ESCI,202,Intro to Igneous & Metamorphic,2017,3929
+ESCI,202,Intro to Igneous & Metamorphic,2020,2220
+ESCI,215,Sedimentology & Stratigraphy,2015,3066
+ESCI,215,Sedimentology & Stratigraphy,2018,1563
+ESCI,216,Earth History,2016,1539
+ESCI,216,Earth History,2018,1629
+ESCI,245,Structural Geology,2015,3333
+ESCI,245,Structural Geology,2020,1738
+ESCI,246,Quantitative Methods Earth Sci,2015,4198
+ESCI,246,Quantitative Methods Earth Sci,2019,2356
+ESCI,271,Environmental Earth Science,2017,2316
+ESCI,271,Environmental Earth Science,2020,3636
+ESCI,272,Global Change & Climate System,2016,4585
+ESCI,272,Global Change & Climate System,2019,4163
+ESCI,273,Health & the Environment,2015,4691
+ESCI,273,Health & the Environment,2019,4012
+ESCI,274,Health Impacts of Global Chng,2016,1646
+ESCI,274,Health Impacts of Global Chng,2018,1125
+ESCI,275,Geological Field Methods,2014,4719
+ESCI,275,Geological Field Methods,2018,1287
+ESCI,276,Envir Earth Sci Field Course,2016,2568
+ESCI,276,Envir Earth Sci Field Course,2020,4911
+ESCI,285,Paleontology: History of Life,2015,2789
+ESCI,285,Paleontology: History of Life,2019,1405
+ESCI,301,Genesis of Igneous Rocks,2017,2442
+ESCI,301,Genesis of Igneous Rocks,2019,1753
+ESCI,305,Geochemistry of Natural Waters,2017,3036
+ESCI,305,Geochemistry of Natural Waters,2019,2533
+ESCI,365,Geomorphol & Quanternary Geol,2016,3122
+ESCI,365,Geomorphol & Quanternary Geol,2018,2923
+ESCI,366,Hydrology,2015,2609
+ESCI,366,Hydrology,2018,4485
+ESCI,386,Oceanography,2015,2863
+ESCI,386,Oceanography,2019,1537
+ESCI,426,Ore Petrogenesis,2016,4075
+ESCI,426,Ore Petrogenesis,2019,1569
+ESCI,435,Adv Structure & Tectonics,2016,4615
+ESCI,435,Adv Structure & Tectonics,2018,3053
+ESCI,446,Adv Sediment & Basin Analysis,2016,2458
+ESCI,446,Adv Sediment & Basin Analysis,2018,1444
+ESCI,465,Hydrogeology,2014,2804
+ESCI,465,Hydrogeology,2018,4357
+ESCI,471,Geographic Info Systems,2016,2521
+ESCI,471,Geographic Info Systems,2019,2502
+ESCI,472,Ocean-Atmosphere Interactions,2017,1199
+ESCI,472,Ocean-Atmosphere Interactions,2018,4707
+ESCI,476,Adv Geological Field Methods,2016,1656
+ESCI,476,Adv Geological Field Methods,2018,2112
+ESCI,491,Senior Seminar,2014,2402
+ESCI,491,Senior Seminar,2019,3735
+ESCI,493,Senior Dissertation,2017,1213
+ESCI,493,Senior Dissertation,2018,4493
+ECON,100,Intro Economics,2016,2427
+ECON,100,Intro Economics,2020,4522
+ECON,102,Intro Economics II,2016,3388
+ECON,102,Intro Economics II,2019,4205
+ECON,221,Intermediate Macroeconomics I,2017,3133
+ECON,221,Intermediate Macroeconomics I,2019,1115
+ECON,222,Intermediate Macroeconomics II,2017,3557
+ECON,222,Intermediate Macroeconomics II,2020,1301
+ECON,241,Cdn Econ Policy & Problems,2015,3695
+ECON,241,Cdn Econ Policy & Problems,2020,4069
+ECON,251,Intermd Microeconomic Theory I,2014,4979
+ECON,251,Intermd Microeconomic Theory I,2020,3705
+ECON,252,Interm Microeconomic Theory II,2014,3315
+ECON,252,Interm Microeconomic Theory II,2018,1874
+ECON,281,Environmental Economics,2016,1319
+ECON,281,Environmental Economics,2019,3186
+ECON,305,Economic Development I,2015,2719
+ECON,305,Economic Development I,2018,4540
+ECON,306,Economic Development II,2016,4337
+ECON,306,Economic Development II,2019,1314
+ECON,312,Industrial Organization,2016,4413
+ECON,312,Industrial Organization,2020,4287
+ECON,315,19-20th Century Cdn Econ Hist,2017,4468
+ECON,315,19-20th Century Cdn Econ Hist,2019,1824
+ECON,330,"""Money",2017,1612
+ECON,330,"""Money",2018,4562
+ECON,370,Econometric Methods,2014,2379
+ECON,370,Econometric Methods,2018,1244
+ECON,391,Public Finance I,2014,1984
+ECON,391,Public Finance I,2020,1904
+ECON,490,Seminar,2016,1297
+ECON,490,Seminar,2018,1410
+ENGR,121,Calculus I for Engineers,2014,2868
+ENGR,121,Calculus I for Engineers,2020,4132
+ENGR,122,Calculus II for Engineers,2015,3119
+ENGR,122,Calculus II for Engineers,2020,1935
+ENGR,133,Engr Design & Graphics I,2016,3323
+ENGR,133,Engr Design & Graphics I,2018,3025
+ENGR,136,Statics,2014,4765
+ENGR,136,Statics,2018,4437
+ENGR,144,Computer Programming for ENGR,2016,4984
+ENGR,144,Computer Programming for ENGR,2019,4855
+ENGR,221,Differential Equation for Engr,2016,3386
+ENGR,221,Differential Equation for Engr,2018,2193
+ENGR,222,Calculus III for Engineers,2016,2479
+ENGR,222,Calculus III for Engineers,2019,2897
+ENGR,223,Linear Algebra for Engineers,2015,1755
+ENGR,223,Linear Algebra for Engineers,2020,3592
+ENGR,224,Probability & Statistics,2014,3684
+ENGR,224,Probability & Statistics,2019,3332
+ENGR,227,Fundamentals of Chem Engr,2015,1125
+ENGR,227,Fundamentals of Chem Engr,2018,3314
+ENGR,228,Industrial Chemistry,2016,3662
+ENGR,228,Industrial Chemistry,2018,4328
+ENGR,231,Dynamics,2016,2011
+ENGR,231,Dynamics,2018,3033
+ENGR,233,Thermodynamics,2014,2799
+ENGR,233,Thermodynamics,2020,4115
+ENGR,234,Fluid Mechanics,2016,4366
+ENGR,234,Fluid Mechanics,2020,3512
+ENGR,235,Strength of Materials,2017,1239
+ENGR,235,Strength of Materials,2019,2984
+ENGR,236,Engr Design & Graphics II,2017,2060
+ENGR,236,Engr Design & Graphics II,2018,2841
+ENGR,237,Basic Electric Circuits Theory,2015,1634
+ENGR,237,Basic Electric Circuits Theory,2020,4473
+ENGR,238,Digital Logic,2015,4528
+ENGR,238,Digital Logic,2020,3557
+ENGR,242,Engineering Economics,2017,3706
+ENGR,242,Engineering Economics,2019,1456
+ENGR,244,Technical Communications,2016,2897
+ENGR,244,Technical Communications,2019,1540
+ENGR,245,Data Structures/Numerical Meth,2017,2830
+ENGR,245,Data Structures/Numerical Meth,2019,3087
+ENGR,246,Circuit Analysis,2015,1808
+ENGR,246,Circuit Analysis,2020,2684
+ENGR,248,Electrical Engineering Design,2015,2083
+ENGR,248,Electrical Engineering Design,2019,1723
+ENGR,252,System Analysis,2017,4472
+ENGR,252,System Analysis,2018,3505
+ENGL,100,Intro Survey Literature in Eng,2017,2173
+ENGL,100,Intro Survey Literature in Eng,2018,3505
+ENGL,202,Intro to Theatre & Acting I,2017,4336
+ENGL,202,Intro to Theatre & Acting I,2019,2301
+ENGL,203,Intro to Theatre & Acting II,2014,3936
+ENGL,203,Intro to Theatre & Acting II,2020,4480
+ENGL,207,World Masterpieces II,2014,3608
+ENGL,207,World Masterpieces II,2018,2015
+ENGL,209,Narrative in Fiction & Film,2015,4641
+ENGL,209,Narrative in Fiction & Film,2020,4365
+ENGL,222,Creative Non-Fiction/Memoir,2015,3285
+ENGL,222,Creative Non-Fiction/Memoir,2018,1529
+ENGL,229,Women in English Literature,2014,1246
+ENGL,229,Women in English Literature,2020,4843
+ENGL,231,Intro to Creative Writing,2015,3346
+ENGL,231,Intro to Creative Writing,2018,2199
+ENGL,247,Post-Colonial Literature,2017,3270
+ENGL,247,Post-Colonial Literature,2019,1569
+ENGL,250,Survey of 20th Century Lit,2015,1551
+ENGL,250,Survey of 20th Century Lit,2018,2816
+ENGL,265,Canadian Poetry & Prose,2014,4205
+ENGL,265,Canadian Poetry & Prose,2019,1705
+ENGL,270,Romantic Gothic: Poetry & Fict,2016,1201
+ENGL,270,Romantic Gothic: Poetry & Fict,2018,1814
+ENGL,271,Gothic Fiction: Novel,2015,4295
+ENGL,271,Gothic Fiction: Novel,2020,4849
+ENGL,305,Later Elizabethan Renaissance,2016,1368
+ENGL,305,Later Elizabethan Renaissance,2018,1154
+ENGL,317,Cultural Theory,2017,4263
+ENGL,317,Cultural Theory,2019,2153
+ENGL,329,Studies in Women Writers,2015,3232
+ENGL,329,Studies in Women Writers,2018,2957
+ENGL,331,Intermediate Creative Writing,2014,4048
+ENGL,331,Intermediate Creative Writing,2019,4226
+ENGL,340,Shakespeare,2014,2893
+ENGL,340,Shakespeare,2019,4156
+ENGL,341,Elizabethan Shakespeare,2017,4871
+ENGL,341,Elizabethan Shakespeare,2019,1832
+ENGL,343,19th-Century American Poetry,2016,1420
+ENGL,343,19th-Century American Poetry,2020,2423
+ENGL,345,Theory & Criticism to 1798,2014,3814
+ENGL,345,Theory & Criticism to 1798,2020,1397
+ENGL,347,African-Canadian Literature,2017,2140
+ENGL,347,African-Canadian Literature,2018,4993
+ENGL,350,Modern British Fiction,2015,1323
+ENGL,350,Modern British Fiction,2019,3681
+ENGL,355,Restor & 18th C Drama & Prose,2017,1044
+ENGL,355,Restor & 18th C Drama & Prose,2020,4854
+ENGL,356,18th Century Novel & Poetry,2016,4170
+ENGL,356,18th Century Novel & Poetry,2020,3495
+ENGL,367,The Canadian Novel,2016,3897
+ENGL,367,The Canadian Novel,2018,4978
+ENGL,370,English Romantic Literature,2016,2679
+ENGL,370,English Romantic Literature,2019,1524
+ENGL,376,Modern American Fiction,2014,2322
+ENGL,376,Modern American Fiction,2020,3919
+ENGL,377,19th-Century Fiction,2015,1874
+ENGL,377,19th-Century Fiction,2019,2412
+ENGL,420,Seminar: Modern Poetry,2014,1382
+ENGL,420,Seminar: Modern Poetry,2020,3858
+ENGL,445,Seminar: Critical Theory,2017,1738
+ENGL,445,Seminar: Critical Theory,2019,2749
+ENGL,480,Seminar: Spenser & Milton,2014,3537
+ENGL,480,Seminar: Spenser & Milton,2018,3166
+ENGL,496,Research Methods in Eng Lit,2014,4298
+ENGL,496,Research Methods in Eng Lit,2019,3251
+ENGL,497,Advanced Major Thesis,2014,3898
+ENGL,497,Advanced Major Thesis,2020,2350
+ENGL,498,Honours Thesis,2015,1710
+ENGL,498,Honours Thesis,2018,1019
+EXEL,100,Excel,2016,1083
+EXEL,100,Excel,2020,1112
+FREN,110,French Language I,2017,3670
+FREN,110,French Language I,2020,4171
+FREN,115,French Language II,2017,1352
+FREN,115,French Language II,2020,1824
+FREN,215,French Language III,2015,4837
+FREN,215,French Language III,2019,2361
+FREN,216,Survey of French Literature,2017,1949
+FREN,216,Survey of French Literature,2020,3130
+FREN,220,Language & Culture,2015,2225
+FREN,220,Language & Culture,2018,3163
+FREN,300,French Humanism,2017,2475
+FREN,300,French Humanism,2019,1676
+FREN,314,Effective Writing in French,2014,2766
+FREN,314,Effective Writing in French,2020,2342
+FREN,316,17th Century French Literature,2017,3646
+FREN,316,17th Century French Literature,2019,4418
+FREN,321,French Cinema,2014,2662
+FREN,321,French Cinema,2019,4078
+FREN,336,19th Century French Literature,2016,4057
+FREN,336,19th Century French Literature,2018,1523
+FREN,346,20th Century French Literature,2016,4566
+FREN,346,20th Century French Literature,2020,2044
+FREN,376,Acadian Literature,2015,2311
+FREN,376,Acadian Literature,2018,2213
+FREN,456,Literary Criticism,2014,4686
+FREN,456,Literary Criticism,2018,2516
+GERM,100,First Year German,2014,3865
+GERM,100,First Year German,2018,2968
+GERM,200,Second Year German,2015,4972
+GERM,200,Second Year German,2018,4498
+HIST,100,Western Civilization,2015,3015
+HIST,100,Western Civilization,2020,2526
+HIST,110,Global History Since 1300,2015,3353
+HIST,110,Global History Since 1300,2020,4109
+HIST,200,History of Canada,2016,2690
+HIST,200,History of Canada,2020,2487
+HIST,202,Western Canada: The Prairies,2016,1064
+HIST,202,Western Canada: The Prairies,2018,3643
+HIST,204,Western Canada: BC,2014,4850
+HIST,204,Western Canada: BC,2020,2966
+HIST,209,Maritimes 1500-1950,2015,2651
+HIST,209,Maritimes 1500-1950,2019,3741
+HIST,230,Growth of Western Society,2017,1276
+HIST,230,Growth of Western Society,2019,1043
+HIST,242,United States to 1865,2015,1204
+HIST,242,United States to 1865,2018,1409
+HIST,244,The United States after 1865,2017,1499
+HIST,244,The United States after 1865,2020,1612
+HIST,255,Colonial Latin America,2017,4904
+HIST,255,Colonial Latin America,2018,1508
+HIST,256,Modern Latin America,2015,4453
+HIST,256,Modern Latin America,2018,4362
+HIST,260,Europe: 19th & 20th Centuries,2015,4068
+HIST,260,Europe: 19th & 20th Centuries,2020,1089
+HIST,308,Canadian Women's History,2014,1619
+HIST,308,Canadian Women's History,2020,2507
+HIST,309,Working Class in Cdn Society,2016,3425
+HIST,309,Working Class in Cdn Society,2019,1188
+HIST,310,Cdn Immigration & Ethnic Hist,2016,3751
+HIST,310,Cdn Immigration & Ethnic Hist,2019,3032
+HIST,314,Canada & The Cold War Era,2014,2276
+HIST,314,Canada & The Cold War Era,2019,2428
+HIST,326,History of Cuba,2015,3035
+HIST,326,History of Cuba,2020,1580
+HIST,330,Medieval Soc & the Individual,2014,1272
+HIST,330,Medieval Soc & the Individual,2020,1372
+HIST,337,Modern Mexico,2017,4778
+HIST,337,Modern Mexico,2018,4264
+HIST,343,Place of Race in United States,2016,3290
+HIST,343,Place of Race in United States,2020,2427
+HIST,351,US Immigration & Ethnicity,2016,4181
+HIST,351,US Immigration & Ethnicity,2020,1498
+HIST,362,European Fascism,2015,2390
+HIST,362,European Fascism,2020,4404
+HIST,364,The Holocaust,2016,2513
+HIST,364,The Holocaust,2019,3776
+HIST,372,Imperial China,2014,2004
+HIST,372,Imperial China,2020,2036
+HIST,374,20th Century China,2016,2190
+HIST,374,20th Century China,2018,2873
+HIST,383,Victorian Britain,2014,1964
+HIST,383,Victorian Britain,2020,1213
+HIST,384,20th Century Britain,2015,1069
+HIST,384,20th Century Britain,2020,3321
+HIST,390,World War I,2016,4052
+HIST,390,World War I,2018,4537
+HIST,398,"""Sexuality",2014,4630
+HIST,398,"""Sexuality",2020,3895
+HIST,400,Seminar on Atlantic Canada,2014,3687
+HIST,400,Seminar on Atlantic Canada,2019,4752
+HIST,460,Seminar: Modern European,2017,3341
+HIST,460,Seminar: Modern European,2020,4879
+HIST,490,Thesis,2016,1607
+HIST,490,Thesis,2018,1183
+HKIN,105,Soccer,2014,2204
+HKIN,105,Soccer,2018,1798
+HKIN,115,Principles of Human Movement,2017,1167
+HKIN,115,Principles of Human Movement,2019,2651
+HKIN,205,Basketball II,2015,3042
+HKIN,205,Basketball II,2019,3798
+HKIN,215,Intro to Motor Learning,2016,1837
+HKIN,215,Intro to Motor Learning,2019,4285
+HKIN,222,Care/Prevent Athletic Injuries,2017,1178
+HKIN,222,Care/Prevent Athletic Injuries,2020,4784
+HKIN,226,Personal Health and Wellness,2016,4941
+HKIN,226,Personal Health and Wellness,2019,4762
+HKIN,236,Foundation Sport/Exercise Psyc,2015,3059
+HKIN,236,Foundation Sport/Exercise Psyc,2020,4923
+HKIN,262,Performance Enhancing Supps,2016,1009
+HKIN,262,Performance Enhancing Supps,2018,1961
+HKIN,301,Elementary Statistics,2014,4408
+HKIN,301,Elementary Statistics,2019,2926
+HKIN,321,Adv Care/Prevent Ath Injuries,2014,4117
+HKIN,321,Adv Care/Prevent Ath Injuries,2018,3089
+HKIN,331,The Sociology of Sport,2017,2960
+HKIN,331,The Sociology of Sport,2020,4709
+HKIN,332,Gender Sport/Physical Activity,2017,2131
+HKIN,332,Gender Sport/Physical Activity,2019,4420
+HKIN,334,Coach Leadership & Planning,2016,1577
+HKIN,334,Coach Leadership & Planning,2019,4237
+HKIN,352,History of Sport,2016,2973
+HKIN,352,History of Sport,2020,2055
+HKIN,353,Metaphysical Foundations,2014,3278
+HKIN,353,Metaphysical Foundations,2018,2482
+HKIN,354,Ethics & Sport,2014,4043
+HKIN,354,Ethics & Sport,2018,1948
+HKIN,365,Exercise Physiology,2014,2420
+HKIN,365,Exercise Physiology,2019,3659
+HKIN,376,Biomechanics,2014,4203
+HKIN,376,Biomechanics,2020,2121
+HKIN,385,Adapted Physical Education,2016,4682
+HKIN,385,Adapted Physical Education,2020,4737
+HKIN,392,Exercise Metabolism,2016,2558
+HKIN,392,Exercise Metabolism,2020,3776
+HKIN,396,Research Methods,2017,4719
+HKIN,396,Research Methods,2020,1757
+HKIN,397,Qualitative Research Methods,2016,4591
+HKIN,397,Qualitative Research Methods,2018,1444
+HKIN,425,Child Growth & Development,2017,1781
+HKIN,425,Child Growth & Development,2020,2041
+HKIN,426,Health Education,2014,3528
+HKIN,426,Health Education,2020,3012
+HKIN,441,Org/Admin Phys Activ/Sport,2016,3265
+HKIN,441,Org/Admin Phys Activ/Sport,2019,4035
+HKIN,445,Instructional Strategies,2014,1805
+HKIN,445,Instructional Strategies,2020,2968
+CSCI,263,Computer Organization,2014,1911
+CSCI,263,Computer Organization,2020,4508
+PSCI,200,History of Political Thought,2017,4671
+PSCI,200,History of Political Thought,2020,2580
+PSCI,210,Comparative Politics,2015,4899
+PSCI,210,Comparative Politics,2019,1413
+PSCI,220,Canadian Politics,2016,3839
+PSCI,220,Canadian Politics,2018,4622
+PSCI,240,Business & Government,2016,4877
+PSCI,240,Business & Government,2018,3068
+PSCI,250,World Politics,2015,2491
+PSCI,250,World Politics,2018,1617
+PSCI,291,"""Violence",2014,3152
+PSCI,291,"""Violence",2018,4834
+PSCI,292,Sel Topics: Mexican Politics,2017,3766
+PSCI,292,Sel Topics: Mexican Politics,2020,4636
+PSCI,301,Liberalism & Its Critics,2014,4377
+PSCI,301,Liberalism & Its Critics,2020,4647
+PSCI,303,Contemp Political Arguments,2017,1659
+PSCI,303,Contemp Political Arguments,2019,3114
+PSCI,310,European Politics,2015,3130
+PSCI,310,European Politics,2019,1912
+PSCI,312,Art & Politics,2017,1159
+PSCI,312,Art & Politics,2020,3254
+PSCI,315,Democratization Around World,2015,1917
+PSCI,315,Democratization Around World,2018,1886
+PSCI,321,Federalism,2015,2047
+PSCI,321,Federalism,2018,3395
+PSCI,341,Canadian Public Administration,2017,2660
+PSCI,341,Canadian Public Administration,2018,3775
+PSCI,342,Canadian Public Policy,2015,3002
+PSCI,342,Canadian Public Policy,2019,4029
+PSCI,343,Law & Politics,2015,1287
+PSCI,343,Law & Politics,2018,1888
+PSCI,346,Politics of Resource Mgmt,2016,4588
+PSCI,346,Politics of Resource Mgmt,2018,4034
+PSCI,354,Int'l Political Economy,2016,4881
+PSCI,354,Int'l Political Economy,2018,2480
+PSCI,355,Global Issues,2015,4712
+PSCI,355,Global Issues,2019,1519
+PSCI,356,War & Peace in Middle East,2017,3839
+PSCI,356,War & Peace in Middle East,2019,1939
+PSCI,362,Contemporary China,2015,2821
+PSCI,362,Contemporary China,2018,1951
+PSCI,363,Japan & East Asia,2015,4969
+PSCI,363,Japan & East Asia,2018,2987
+PSCI,380,African Politics & Society,2016,1661
+PSCI,380,African Politics & Society,2018,3865
+PSCI,399,Research Methods & Stats,2016,1561
+PSCI,399,Research Methods & Stats,2019,1168
+PSCI,401,Seminar: Political Theory,2014,4975
+PSCI,401,Seminar: Political Theory,2020,4965
+PSCI,421,Seminar: Canadian Politics I,2016,1852
+PSCI,421,Seminar: Canadian Politics I,2018,1865
+PSCI,442,Seminar: Public Policy,2017,2778
+PSCI,442,Seminar: Public Policy,2020,1545
+PSCI,452,Seminar: Comparative Politics,2016,2955
+PSCI,452,Seminar: Comparative Politics,2019,2516
+PSCI,499,Directed Study,2015,1934
+PSCI,499,Directed Study,2019,4644
+PSYC,100,Intro Psychology,2017,2194
+PSYC,100,Intro Psychology,2018,4583
+PSYC,210,Learning,2017,1829
+PSYC,210,Learning,2020,2186
+PSYC,220,Cognitive Psychology,2014,3724
+PSYC,220,Cognitive Psychology,2020,2360
+PSYC,225,Sensation & Perception,2016,2454
+PSYC,225,Sensation & Perception,2019,1287
+PSYC,230,Brain & Behavior,2017,2631
+PSYC,230,Brain & Behavior,2019,2448
+PSYC,240,Social Psychology,2014,1191
+PSYC,240,Social Psychology,2018,3731
+PSYC,260,Developmental Psychology,2016,2491
+PSYC,260,Developmental Psychology,2020,1401
+PSYC,290,Research Methods & Statistics,2015,1363
+PSYC,290,Research Methods & Statistics,2020,2525
+PSYC,300,History & Theory of Psychology,2016,4723
+PSYC,300,History & Theory of Psychology,2018,4272
+PSYC,310,Health Psychology,2015,4864
+PSYC,310,Health Psychology,2020,3473
+PSYC,341,The Self,2014,3616
+PSYC,341,The Self,2019,1284
+PSYC,345,Communication & Language,2015,2923
+PSYC,345,Communication & Language,2018,3310
+PSYC,350,Psychology of Personality,2017,2037
+PSYC,350,Psychology of Personality,2019,4260
+PSYC,360,Psychology of Gender,2017,2860
+PSYC,360,Psychology of Gender,2019,2115
+PSYC,370,Abnormal Psychology,2017,4573
+PSYC,370,Abnormal Psychology,2018,3851
+PSYC,375,Applied Psychology,2016,4167
+PSYC,375,Applied Psychology,2018,3990
+PSYC,385,Research in Personality,2015,3267
+PSYC,385,Research in Personality,2020,4804
+PSYC,388,Bio-psychology of Pain,2014,3062
+PSYC,388,Bio-psychology of Pain,2020,1585
+PSYC,390,Data in Psychological Research,2014,3484
+PSYC,390,Data in Psychological Research,2019,4358
+PSYC,391,Junior Seminar,2017,3253
+PSYC,391,Junior Seminar,2018,3661
+PSYC,420,Cognition & Perception,2017,1789
+PSYC,420,Cognition & Perception,2018,4663
+PSYC,430,Behavioral Neuroscience,2017,3557
+PSYC,430,Behavioral Neuroscience,2020,2781
+PSYC,440,Adv Social & Personality Psych,2015,3165
+PSYC,440,Adv Social & Personality Psych,2020,2009
+PSYC,460,Adv Developmental Psychology,2017,3161
+PSYC,460,Adv Developmental Psychology,2018,2890
+PSYC,490,Honours Thesis,2015,1818
+PSYC,490,Honours Thesis,2020,2135
+PSYC,491,Senior Seminar,2014,4907
+PSYC,491,Senior Seminar,2019,3700
+PSYC,499,Cognitive Effects Bilingualism,2015,3674
+PSYC,499,Cognitive Effects Bilingualism,2020,1279
+RELS,100,Intro to Christianity,2015,3481
+RELS,100,Intro to Christianity,2018,1750
+RELS,110,Intro to World Religions,2015,2043
+RELS,110,Intro to World Religions,2018,3297
+RELS,120,"""Religion",2014,3633
+RELS,120,"""Religion",2020,3529
+RELS,210,The Bible and Film,2017,2517
+RELS,210,The Bible and Film,2019,3057
+RELS,215,Sociology of Religion,2016,1666
+RELS,215,Sociology of Religion,2019,4958
+RELS,225,Cults & New Religious Movement,2015,4732
+RELS,225,Cults & New Religious Movement,2018,2685
+RELS,253,Intro Hebrew Bible/Old Test,2014,4295
+RELS,253,Intro Hebrew Bible/Old Test,2019,2878
+RELS,255,Intro to New Testament,2015,2104
+RELS,255,Intro to New Testament,2020,1444
+RELS,275,Intro to Paul's Letters,2017,3890
+RELS,275,Intro to Paul's Letters,2018,3990
+RELS,298,Intro to Hinduism & Buddism,2015,2442
+RELS,298,Intro to Hinduism & Buddism,2020,4485
+RELS,300,Health Care Ethics,2017,2954
+RELS,300,Health Care Ethics,2019,4469
+RELS,310,Religion in Modern India,2017,1024
+RELS,310,Religion in Modern India,2020,4852
+RELS,315,Women in Hinduism & Buddhism,2017,1500
+RELS,315,Women in Hinduism & Buddhism,2018,3034
+RELS,340,Archaeology of Anc Near East,2017,3316
+RELS,340,Archaeology of Anc Near East,2018,1425
+RELS,383,Reformation Christianity,2016,1104
+RELS,383,Reformation Christianity,2018,1692
+RELS,385,Modern Christianity,2017,3765
+RELS,385,Modern Christianity,2019,1726
+RELS,395,Sel Topics: Intro to Mysticism,2017,4558
+RELS,395,Sel Topics: Intro to Mysticism,2019,1683
+RELS,397,Religion & the Paranormal,2014,2155
+RELS,397,Religion & the Paranormal,2019,2810
+RELS,398,Reflections on Death & Dying,2015,1407
+RELS,398,Reflections on Death & Dying,2019,4757
+RELS,400,Religious Appr to Sexuality,2014,3541
+RELS,400,Religious Appr to Sexuality,2019,4513
+RELS,440,Jesus,2015,1841
+RELS,440,Jesus,2019,1239
+RELS,499,Means to Enlightenment,2015,1290
+RELS,499,Means to Enlightenment,2018,2766
+SOCI,100,Intro to Sociology,2015,4126
+SOCI,100,Intro to Sociology,2020,3968
+SOCI,201,Traditions in Social Thought,2016,3895
+SOCI,201,Traditions in Social Thought,2019,2240
+SOCI,202,Research Principles & Practice,2017,2125
+SOCI,202,Research Principles & Practice,2020,1857
+SOCI,212,Social Dissent,2016,3679
+SOCI,212,Social Dissent,2019,4540
+SOCI,217,"""Race",2015,3477
+SOCI,217,"""Race",2020,4362
+SOCI,226,Cults & New Religious Movement,2014,4500
+SOCI,226,Cults & New Religious Movement,2018,1961
+SOCI,227,Sociology of Religion,2016,2885
+SOCI,227,Sociology of Religion,2020,4212
+SOCI,233,Sociology of Sport,2016,1616
+SOCI,233,Sociology of Sport,2018,4924
+SOCI,236,Disability and Society,2015,2320
+SOCI,236,Disability and Society,2019,3892
+SOCI,250,Deviance & Social Control,2015,4204
+SOCI,250,Deviance & Social Control,2019,3038
+SOCI,300,Research Methods,2017,4569
+SOCI,300,Research Methods,2019,4855
+SOCI,301,Classical Social Theory,2017,1738
+SOCI,301,Classical Social Theory,2018,4529
+SOCI,302,Topics in Contemporary Theory,2014,2780
+SOCI,302,Topics in Contemporary Theory,2020,3924
+SOCI,306,Interpretive Methods,2015,1303
+SOCI,306,Interpretive Methods,2020,2851
+SOCI,310,Gender,2015,3481
+SOCI,310,Gender,2019,3900
+SOCI,311,Men & Masculinities,2014,4993
+SOCI,311,Men & Masculinities,2020,1431
+SOCI,312,Social Movements,2014,4997
+SOCI,312,Social Movements,2019,1862
+SOCI,318,First Nations,2014,4731
+SOCI,318,First Nations,2019,4951
+SOCI,320,Black & African Diaspora,2016,1353
+SOCI,320,Black & African Diaspora,2019,1067
+SOCI,322,The Antigonish Movement,2015,3235
+SOCI,322,The Antigonish Movement,2018,3607
+SOCI,325,Sociology of Mass Media,2014,4594
+SOCI,325,Sociology of Mass Media,2019,3065
+SOCI,327,Contemporary Canadian Family,2015,2276
+SOCI,327,Contemporary Canadian Family,2019,3632
+SOCI,328,Social Inequality,2015,2026
+SOCI,328,Social Inequality,2019,4536
+SOCI,364,Food & Development,2016,2284
+SOCI,364,Food & Development,2018,2723
+SOCI,400,Honours Sem & Thesis Research,2017,4323
+SOCI,400,Honours Sem & Thesis Research,2020,4390
+SOCI,417,Social Difference,2017,2319
+SOCI,417,Social Difference,2018,4359
+SOCI,421,"""Ancestry",2015,3677
+SOCI,421,"""Ancestry",2020,2866
+SOCI,426,Consumer Society,2015,1035
+SOCI,426,Consumer Society,2020,2912
+SOCI,491,Senior Seminar,2015,4143
+SOCI,491,Senior Seminar,2019,2351
+SOCI,497,Adv Social Theories of Self,2014,2970
+SOCI,497,Adv Social Theories of Self,2018,2379
+SOCI,498,Theories of Social Inequality,2015,3631
+SOCI,498,Theories of Social Inequality,2019,4006
+SOCI,499,Social Theories of the Commons,2015,1641
+SOCI,499,Social Theories of the Commons,2020,3937
+SPAN,100,First Year Spanish,2017,2906
+SPAN,100,First Year Spanish,2019,2447
+SPAN,200,Second Year Spanish,2016,4628
+SPAN,200,Second Year Spanish,2019,3674
+SPAN,201,Second Year Spanish I,2017,3397
+SPAN,201,Second Year Spanish I,2020,4428
+SPAN,320,Hispanic Civ 1800 to Present,2017,1049
+SPAN,320,Hispanic Civ 1800 to Present,2020,1939
+STAT,201,Elementary Statistics,2015,1766
+STAT,201,Elementary Statistics,2018,3200
+STAT,224,Prob & Stats for Engineers,2015,4547
+STAT,224,Prob & Stats for Engineers,2019,2218
+STAT,231,Stats for Students in Sciences,2017,3471
+STAT,231,Stats for Students in Sciences,2019,1156
+STAT,301,Survey Sampling Design,2016,1657
+STAT,301,Survey Sampling Design,2018,3885
+STAT,331,Statistical Methods,2016,3060
+STAT,331,Statistical Methods,2018,3554
+STAT,333,Intro Probability Theory,2017,3056
+STAT,333,Intro Probability Theory,2018,3850
+STAT,334,Mathematical Statistics,2015,3627
+STAT,334,Mathematical Statistics,2020,3066
+STAT,435,Regression Analysis,2016,3579
+STAT,435,Regression Analysis,2020,4005
+WMNS,200,Intro to Women's Studies,2015,1082
+WMNS,200,Intro to Women's Studies,2018,4098
+WMNS,217,"""Race",2017,1232
+WMNS,217,"""Race",2020,1602
+WMNS,229,Women in English Literature,2014,1843
+WMNS,229,Women in English Literature,2020,1933
+WMNS,303,Feminist Theory,2017,3408
+WMNS,303,Feminist Theory,2018,2632
+WMNS,308,Canadian Women's History,2015,1440
+WMNS,308,Canadian Women's History,2018,2426
+WMNS,310,Gender,2017,4550
+WMNS,310,Gender,2019,1889
+WMNS,311,Men & Masculinities,2017,3169
+WMNS,311,Men & Masculinities,2019,4178
+WMNS,315,Women in Hinduism & Buddhism,2017,4622
+WMNS,315,Women in Hinduism & Buddhism,2019,3419
+WMNS,327,Contemporary Cdn Families,2016,1053
+WMNS,327,Contemporary Cdn Families,2020,2273
+WMNS,329,Women Writers: Feminisms,2016,1513
+WMNS,329,Women Writers: Feminisms,2018,3544
+WMNS,332,Gender Sport/Physical Activ,2014,2744
+WMNS,332,Gender Sport/Physical Activ,2018,1081
+WMNS,360,Psychology of Gender,2015,1976
+WMNS,360,Psychology of Gender,2020,4840
+WMNS,365,Gender & Health,2014,2460
+WMNS,365,Gender & Health,2018,3300
+WMNS,398,"""Sexuality",2016,4144
+WMNS,398,"""Sexuality",2018,1303
+WMNS,400,Research Methods Seminar,2014,3924
+WMNS,400,Research Methods Seminar,2019,3518
+WMNS,410,Religious Appr to Sexuality,2016,3911
+WMNS,410,Religious Appr to Sexuality,2019,1165
+WMNS,417,Social Difference,2017,1685
+WMNS,417,Social Difference,2018,4707
+HKIN,446,Essentials: Personal Training,2017,4054
+HKIN,446,Essentials: Personal Training,2018,1570
+HKIN,456,Exercise & Fitness Evaluation,2017,3468
+HKIN,456,Exercise & Fitness Evaluation,2018,3632
+HKIN,466,Clinical Exercise Physiology,2016,1272
+HKIN,466,Clinical Exercise Physiology,2019,3732
+HKIN,471,Advanced Biomechanics,2015,3536
+HKIN,471,Advanced Biomechanics,2018,2970
+HKIN,491,Senior Seminar,2016,4651
+HKIN,491,Senior Seminar,2019,1572
+HKIN,493,Honours Thesis,2017,3338
+HKIN,493,Honours Thesis,2019,1048
+HNU,145,Intro to Foods,2017,2647
+HNU,145,Intro to Foods,2019,4153
+HNU,146,Intro to Food Science,2015,2873
+HNU,146,Intro to Food Science,2018,1053
+HNU,185,Foundation for the HNU Profess,2014,3865
+HNU,185,Foundation for the HNU Profess,2018,2473
+HNU,200,Nutrit for Healthy Lifestyle,2016,1166
+HNU,200,Nutrit for Healthy Lifestyle,2019,2921
+HNU,261,Intro to Nutrition,2014,2201
+HNU,261,Intro to Nutrition,2018,4154
+HNU,262,Nutrit in Human Metabolism,2017,4278
+HNU,262,Nutrit in Human Metabolism,2019,1853
+HNU,263,Applied Introductory Nutrition,2016,4485
+HNU,263,Applied Introductory Nutrition,2020,2295
+HNU,335,Communications,2015,2081
+HNU,335,Communications,2020,2692
+HNU,361,Clinical Nutrition I,2017,3520
+HNU,361,Clinical Nutrition I,2018,3524
+HNU,362,Clinical Nutrition II,2014,4045
+HNU,362,Clinical Nutrition II,2018,4879
+HNU,363,Sport Nutrition,2016,2599
+HNU,363,Sport Nutrition,2019,1311
+HNU,365,Community Nutrition,2015,3617
+HNU,365,Community Nutrition,2019,4045
+HNU,385,Research Methods,2017,2039
+HNU,385,Research Methods,2020,3542
+HNU,405,Food Availability,2014,2889
+HNU,405,Food Availability,2018,2482
+HNU,425,Geriatric Nutrition,2014,2673
+HNU,425,Geriatric Nutrition,2020,1665
+HNU,445,Advanced Food Study,2017,2867
+HNU,445,Advanced Food Study,2018,1783
+HNU,448,Advanced Experimental Foods,2017,2781
+HNU,448,Advanced Experimental Foods,2018,4421
+HNU,455,Food Service Mgmt & Production,2015,3224
+HNU,455,Food Service Mgmt & Production,2020,4234
+HNU,461,Advanced Clinical Nutrition,2015,1165
+HNU,461,Advanced Clinical Nutrition,2018,3731
+HNU,467,Advanced Nutrition,2017,1177
+HNU,467,Advanced Nutrition,2018,1537
+HNU,471,Entrepreneurial Practices,2015,2874
+HNU,471,Entrepreneurial Practices,2019,2588
+HNU,475,Effecting Change,2016,2680
+HNU,475,Effecting Change,2018,1600
+HNU,482,Internship Practicum II,2015,1645
+HNU,482,Internship Practicum II,2019,2941
+HNU,483,Internship Practicum III,2016,3486
+HNU,483,Internship Practicum III,2019,3214
+HNU,491,Advanced Major & Hon Seminar,2017,2349
+HNU,491,Advanced Major & Hon Seminar,2018,3079
+HNU,493,Senior Thesis (Honours),2015,2007
+HNU,493,Senior Thesis (Honours),2018,2006
+HNU,499,Obesity in Type 2 Diabetes,2017,1673
+HNU,499,Obesity in Type 2 Diabetes,2019,1311
+INFO,131,Comput & Business Applications,2015,3584
+INFO,131,Comput & Business Applications,2018,2838
+INFO,135,Information Systems Concepts,2016,3108
+INFO,135,Information Systems Concepts,2020,3783
+INFO,145,Intro to Elect Commerce & ERP,2016,2595
+INFO,145,Intro to Elect Commerce & ERP,2018,1424
+INFO,151,Intro to Programming Concepts,2015,1052
+INFO,151,Intro to Programming Concepts,2020,2648
+INFO,152,Programming & Data Structures,2016,2161
+INFO,152,Programming & Data Structures,2019,1071
+INFO,245,Intro Ent Resource Planning,2015,3177
+INFO,245,Intro Ent Resource Planning,2018,4374
+INFO,275,Database Management Systems,2015,4778
+INFO,275,Database Management Systems,2018,4758
+INFO,325,Info Sys Hardware & Software,2014,2190
+INFO,325,Info Sys Hardware & Software,2018,4367
+INFO,348,Business Process Integration,2014,3254
+INFO,348,Business Process Integration,2020,1961
+INFO,374,Geographic Info Systems,2014,3319
+INFO,374,Geographic Info Systems,2020,1706
+INFO,375,Adv Database Management System,2017,3789
+INFO,375,Adv Database Management System,2019,1664
+INFO,415,Systems Analysis,2015,3359
+INFO,415,Systems Analysis,2019,1705
+INFO,416,Project Management & Practice,2015,2929
+INFO,416,Project Management & Practice,2018,4459
+INFO,418,Topics in Information Systems,2016,1845
+INFO,418,Topics in Information Systems,2019,3349
+INFO,419,Client/Server & Intranets,2017,4456
+INFO,419,Client/Server & Intranets,2018,4762
+INFO,425,Systems Design,2017,1466
+INFO,425,Systems Design,2018,4832
+INFO,435,Introduction to Multimedia,2017,2122
+INFO,435,Introduction to Multimedia,2020,1268
+INFO,445,Web-Based Programming,2017,1864
+INFO,445,Web-Based Programming,2019,3885
+INFO,446,Electronic Business,2017,4654
+INFO,446,Electronic Business,2019,1711
+INFO,448,Impl Conf & use of ERP,2017,1015
+INFO,448,Impl Conf & use of ERP,2020,1213
+INFO,465,Bus Data Comm Sys & Networks,2015,1096
+INFO,465,Bus Data Comm Sys & Networks,2018,3771
+INFO,496,Research Project for Majors,2014,1709
+INFO,496,Research Project for Majors,2020,1690
+INFO,498,Honours Thesis,2017,1101
+INFO,498,Honours Thesis,2020,1028
+IDS,305,Immersion Service Learning,2016,4469
+IDS,305,Immersion Service Learning,2019,1456
+IDS,306,Service Learning: Th & Prac,2017,3637
+IDS,306,Service Learning: Th & Prac,2019,1451
+LTGY,100,Liturgical Foundations,2016,3472
+LTGY,100,Liturgical Foundations,2020,2207
+MATH,100,Mathematical Concepts,2017,2384
+MATH,100,Mathematical Concepts,2020,2351
+MATH,111,Calculus I,2016,3484
+MATH,111,Calculus I,2019,3646
+MATH,112,Calculus II,2016,4400
+MATH,112,Calculus II,2019,2140
+MATH,121,Calculus I for Engineers,2016,1896
+MATH,121,Calculus I for Engineers,2020,1320
+MATH,122,Calculus II for Engineers,2015,3666
+MATH,122,Calculus II for Engineers,2018,4603
+MATH,205,Business Mathematics,2016,2503
+MATH,205,Business Mathematics,2020,1107
+MATH,221,Differential Equations for Eng,2016,3338
+MATH,221,Differential Equations for Eng,2018,2506
+MATH,222,Calculus III for Engineers,2017,4483
+MATH,222,Calculus III for Engineers,2018,4739
+MATH,223,Linear Algebra for Engineers,2015,1640
+MATH,223,Linear Algebra for Engineers,2020,2911
+MATH,253,Matrix Algebra,2017,3623
+MATH,253,Matrix Algebra,2018,2640
+MATH,254,Linear Algebra,2016,4658
+MATH,254,Linear Algebra,2020,3218
+MATH,267,Calculus III,2014,3662
+MATH,267,Calculus III,2018,4829
+MATH,277,Discrete Structures,2014,2875
+MATH,277,Discrete Structures,2020,3125
+MATH,287,Natural Resource Modeling,2015,4103
+MATH,287,Natural Resource Modeling,2018,2470
+MATH,354,Modern Algebra I,2015,1349
+MATH,354,Modern Algebra I,2018,4101
+MATH,361,Advanced Vector Calculus,2017,2608
+MATH,361,Advanced Vector Calculus,2020,1306
+MATH,366,Real Analysis I,2014,2065
+MATH,366,Real Analysis I,2018,4236
+MATH,367,Differential Equations,2014,4786
+MATH,367,Differential Equations,2018,4994
+MATH,371,Modern Geometries,2015,4485
+MATH,371,Modern Geometries,2019,3983
+MATH,372,Theory of Numbers,2015,4834
+MATH,372,Theory of Numbers,2018,1558
+MATH,384,Numerical Methods,2014,2509
+MATH,384,Numerical Methods,2018,1197
+MATH,454,Modern Algebra II,2015,2275
+MATH,454,Modern Algebra II,2020,2438
+MATH,481,Partial Differential Equations,2016,3431
+MATH,481,Partial Differential Equations,2018,2405
+MATH,491,Senior Seminar,2015,1016
+MATH,491,Senior Seminar,2020,3132
+MATH,493,Senior Thesis (Honours),2015,4796
+MATH,493,Senior Thesis (Honours),2018,2782
+MUSI,101,Structure of Music,2015,1837
+MUSI,101,Structure of Music,2019,2256
+MUSI,103,Jazz Theory I,2015,3224
+MUSI,103,Jazz Theory I,2019,4904
+MUSI,106,Advanced Vocal Ensembles I,2017,1092
+MUSI,106,Advanced Vocal Ensembles I,2018,3192
+MUSI,107,Instrumental Ensemble,2016,2930
+MUSI,107,Instrumental Ensemble,2020,4100
+MUSI,117,History of Popular Music,2014,3729
+MUSI,117,History of Popular Music,2020,1344
+MUSI,118,World Music,2017,4396
+MUSI,118,World Music,2018,1930
+MUSI,165,Jazz Styles & Literature,2015,1505
+MUSI,165,Jazz Styles & Literature,2019,3238
+MUSI,190,Applied Performance I,2017,2185
+MUSI,190,Applied Performance I,2018,2077
+MUSI,195,Applied Performance IA,2014,4470
+MUSI,195,Applied Performance IA,2018,2387
+MUSI,201,Structure of Music II,2014,4426
+MUSI,201,Structure of Music II,2018,1322
+MUSI,203,Jazz Theory & Arranging,2016,4461
+MUSI,203,Jazz Theory & Arranging,2020,4635
+MUSI,206,Advanced Vocal Ensembles II,2014,2519
+MUSI,206,Advanced Vocal Ensembles II,2020,4686
+MUSI,207,Instrumental Ensembles II,2017,4057
+MUSI,207,Instrumental Ensembles II,2019,3801
+MUSI,219,Celtic Music,2016,2522
+MUSI,219,Celtic Music,2019,2980
+MUSI,235,Music Techonology,2015,4173
+MUSI,235,Music Techonology,2018,3898
+MUSI,265,Jazz Styles & Literature,2015,3312
+MUSI,265,Jazz Styles & Literature,2019,1276
+MUSI,290,Applied Performance II,2015,4181
+MUSI,290,Applied Performance II,2020,3311
+MUSI,295,Applied Performance IA,2014,1276
+MUSI,295,Applied Performance IA,2019,3454
+MUSI,304,Small Ensemble Arranging,2017,1413
+MUSI,304,Small Ensemble Arranging,2020,2311
+MUSI,306,Advanced Vocal Ensembles III,2016,3100
+MUSI,306,Advanced Vocal Ensembles III,2019,1600
+MUSI,307,Instrumental Ensembles III,2014,3253
+MUSI,307,Instrumental Ensembles III,2020,3647
+MUSI,315,History of Music I,2014,1064
+MUSI,315,History of Music I,2018,1924
+MUSI,316,History of Music II,2016,3988
+MUSI,316,History of Music II,2020,3215
+MUSI,325,Jazz Composition,2017,4461
+MUSI,325,Jazz Composition,2019,2830
+MUSI,365,Jazz Syles & Literature,2017,4730
+MUSI,365,Jazz Syles & Literature,2019,2770
+MUSI,375,Contemporary Songwriting I,2016,3263
+MUSI,375,Contemporary Songwriting I,2020,2746
+MUSI,376,Contemporary Songwriting II,2017,1104
+MUSI,376,Contemporary Songwriting II,2020,3266
+MUSI,390,Applied Performance III,2017,1719
+MUSI,390,Applied Performance III,2018,3049
+MUSI,391,Minor Instrument III,2016,3866
+MUSI,391,Minor Instrument III,2019,2295
+MUSI,395,Applied Performance III A,2017,3761
+MUSI,395,Applied Performance III A,2018,1925
+MUSI,406,Advanced Vocal Ensembles IV,2014,3784
+MUSI,406,Advanced Vocal Ensembles IV,2020,3835
+MUSI,407,Instrumental Ensembles IV,2015,4700
+MUSI,407,Instrumental Ensembles IV,2020,2162
+MUSI,416,History of Music III,2015,1081
+MUSI,416,History of Music III,2018,4291
+MUSI,420,Adv Arranging/Orchestration,2015,3982
+MUSI,420,Adv Arranging/Orchestration,2018,1152
+MUSI,465,Jazz Styles & Literature,2016,1399
+MUSI,465,Jazz Styles & Literature,2018,1333
+MUSI,490,Applied Performance IV,2017,4905
+MUSI,490,Applied Performance IV,2020,3362
+MUSI,491,Minor Instrument IV,2017,1126
+MUSI,491,Minor Instrument IV,2019,1972
+MUSI,495,Applied Performance IV A,2017,2550
+MUSI,495,Applied Performance IV A,2019,1912
+MUSI,499,Advanced Orchestration,2017,1907
+MUSI,499,Advanced Orchestration,2018,1231
+NURS,105,Conceptual Model for Nursing,2015,3676
+NURS,105,Conceptual Model for Nursing,2020,3923
+NURS,115,Health Promotion & Learning,2017,1484
+NURS,115,Health Promotion & Learning,2018,4100
+NURS,125,Intro to Nursing,2017,4272
+NURS,125,Intro to Nursing,2019,3604
+NURS,145,Nursing Foundations & Health,2016,4043
+NURS,145,Nursing Foundations & Health,2018,1313
+NURS,205,Community Health Nursing,2014,4613
+NURS,205,Community Health Nursing,2019,3961
+NURS,215,Community Mental Health I,2017,1373
+NURS,215,Community Mental Health I,2020,3116
+NURS,225,Community Parent-Child Family,2015,3235
+NURS,225,Community Parent-Child Family,2019,3703
+NURS,235,Intro to Pharmacology,2016,4544
+NURS,235,Intro to Pharmacology,2018,3572
+NURS,245,Healthy Aging,2017,2926
+NURS,245,Healthy Aging,2019,1419
+NURS,250,Nursing Practice I,2016,3256
+NURS,250,Nursing Practice I,2018,1614
+NURS,260,Developmental Psychology,2016,4205
+NURS,260,Developmental Psychology,2020,3293
+NURS,275,Comprehensive Health Assessmnt,2015,1087
+NURS,275,Comprehensive Health Assessmnt,2020,1789
+NURS,280,Health Assessment & Pharmacy,2014,4706
+NURS,280,Health Assessment & Pharmacy,2019,1529
+NURS,300,Research Methods,2017,1812
+NURS,300,Research Methods,2018,4282
+NURS,305,Nursing of Adults I,2017,4513
+NURS,305,Nursing of Adults I,2020,2356
+NURS,310,Nursing Research Methods,2014,3148
+NURS,310,Nursing Research Methods,2020,2915
+NURS,315,Nursing of Children,2017,3373
+NURS,315,Nursing of Children,2018,1484
+NURS,330,Legal & Ethical Issues,2016,1025
+NURS,330,Legal & Ethical Issues,2018,3829
+NURS,336,Ethics in Health & Medicine,2017,4840
+NURS,336,Ethics in Health & Medicine,2020,4005
+NURS,345,Mental Health Nursing,2017,3927
+NURS,345,Mental Health Nursing,2020,1701
+NURS,355,Perinatal Nursing,2015,2242
+NURS,355,Perinatal Nursing,2020,4528
+NURS,365,Gender & Health,2014,3441
+NURS,365,Gender & Health,2020,1238
+NURS,405,Nursing Adults II,2014,1860
+NURS,405,Nursing Adults II,2019,2234
+NURS,415,Nursing Adults III,2016,1946
+NURS,415,Nursing Adults III,2018,4265
+NURS,483,Palliative Care,2014,3429
+NURS,483,Palliative Care,2020,3943
+NURS,486,Int'l Health & Development,2014,3704
+NURS,486,Int'l Health & Development,2019,2837
+NURS,488,Challenges in Aging,2014,1683
+NURS,488,Challenges in Aging,2019,2950
+NURS,491,Trends in Health Care,2017,3904
+NURS,491,Trends in Health Care,2018,3630
+NURS,493,Leadership & Research Nursing,2017,1626
+NURS,493,Leadership & Research Nursing,2018,3744
+NURS,496,Senior Honours Seminar,2015,1095
+NURS,496,Senior Honours Seminar,2020,3554
+NURS,497,Nursing Informatics,2017,1195
+NURS,497,Nursing Informatics,2018,4583
+NURS,498,Honours Thesis,2015,3109
+NURS,498,Honours Thesis,2020,3444
+NURS,499,Directed Study & Practice,2014,2657
+NURS,499,Directed Study & Practice,2018,3940
+PHIL,100,Intro Philosophy,2017,3147
+PHIL,100,Intro Philosophy,2019,4736
+PHIL,101,Intro Philosophy I,2014,3442
+PHIL,101,Intro Philosophy I,2018,2753
+PHIL,210,Philosophy of Science,2015,1800
+PHIL,210,Philosophy of Science,2020,2294
+PHIL,230,Philosophy of Human Nature,2014,2772
+PHIL,230,Philosophy of Human Nature,2019,3157
+PHIL,240,Philosophy of Religion,2014,2836
+PHIL,240,Philosophy of Religion,2018,2526
+PHIL,330,Ethics,2015,2428
+PHIL,330,Ethics,2019,3364
+PHIL,331,Ethical Theories,2017,3638
+PHIL,331,Ethical Theories,2018,4781
+PHIL,332,Contemp Moral & Social Issues,2014,4608
+PHIL,332,Contemp Moral & Social Issues,2020,2955
+PHIL,336,Ethics in Health & Medicine,2014,3381
+PHIL,336,Ethics in Health & Medicine,2018,1711
+PHIL,340,Logic,2015,4441
+PHIL,340,Logic,2018,2132
+PHIL,351,Socrates and Plato,2014,3680
+PHIL,351,Socrates and Plato,2018,2578
+PHIL,352,Aristotle,2017,3399
+PHIL,352,Aristotle,2020,1838
+PHIL,371,Social & Political Philosophy,2016,2969
+PHIL,371,Social & Political Philosophy,2019,2355
+PHIL,372,Philosophy of Law,2016,2851
+PHIL,372,Philosophy of Law,2018,3457
+PHIL,380,Existentialism & Phenomenology,2016,1294
+PHIL,380,Existentialism & Phenomenology,2019,2090
+PHIL,399,Topics in Modern Philosophy,2015,3491
+PHIL,399,Topics in Modern Philosophy,2020,3933
+PHIL,460,Sem Metaphysics & Epistemology,2014,3881
+PHIL,460,Sem Metaphysics & Epistemology,2020,4894
+PHIL,489,Honours Thesis,2015,4458
+PHIL,489,Honours Thesis,2019,3786
+PHYS,100,General Physics,2015,4097
+PHYS,100,General Physics,2020,2200
+PHYS,120,General Physics,2017,1553
+PHYS,120,General Physics,2019,4416
+PHYS,201,Relativity & Quantum Physics,2017,4655
+PHYS,201,Relativity & Quantum Physics,2020,4985
+PHYS,221,Electric Circuits,2017,1710
+PHYS,221,Electric Circuits,2019,2950
+PHYS,223,Digital Electronics,2016,2377
+PHYS,223,Digital Electronics,2018,3160
+PHYS,241,Mathematical Physics,2015,1360
+PHYS,241,Mathematical Physics,2020,4183
+PHYS,242,Classical Mechanics I,2017,2494
+PHYS,242,Classical Mechanics I,2019,2634
+PHYS,271,Astronomy: Solar System,2014,3737
+PHYS,271,Astronomy: Solar System,2020,3734
+PHYS,302,Properties of Matter,2016,1364
+PHYS,302,Properties of Matter,2018,1727
+PHYS,303,Subatomic Physics & Cosmology,2014,1547
+PHYS,303,Subatomic Physics & Cosmology,2020,2603
+PHYS,322,Electromagnetic Theory I,2014,3115
+PHYS,322,Electromagnetic Theory I,2018,1277
+PHYS,323,Electronics,2016,3005
+PHYS,323,Electronics,2018,2108
+PHYS,325,Optics,2017,3854
+PHYS,325,Optics,2018,2301
+PHYS,343,Quantum Mechanics I,2016,4755
+PHYS,343,Quantum Mechanics I,2020,1308
+PHYS,344,Thermal Physics,2017,2063
+PHYS,344,Thermal Physics,2018,1244
+PHYS,422,Electromagnetic Theory II,2016,2877
+PHYS,422,Electromagnetic Theory II,2019,1100
+PHYS,425,Lasers & Modern Optics,2015,2897
+PHYS,425,Lasers & Modern Optics,2019,3768
+PHYS,443,Quantum Mechanics II,2015,2285
+PHYS,443,Quantum Mechanics II,2019,3295
+PHYS,444,Statistical Mechanics,2017,2514
+PHYS,444,Statistical Mechanics,2019,3778
+PHYS,473,Soft Material & Biophysics,2017,4493
+PHYS,473,Soft Material & Biophysics,2019,1090
+PHYS,475,Atomic & Molecular Physics,2015,4758
+PHYS,475,Atomic & Molecular Physics,2020,3936
+PHYS,476,Solid State Physics,2015,4867
+PHYS,476,Solid State Physics,2020,4810
+PHYS,491,Physics Seminar,2014,2602
+PHYS,491,Physics Seminar,2019,3484
+PHYS,493,Honours Thesis,2016,4696
+PHYS,493,Honours Thesis,2020,2411
+PSCI,100,Intro Politics Power & Culture,2015,3365
+PSCI,100,Intro Politics Power & Culture,2019,2268
+CSCI,368,Data Comm Systems & Networks,2016,2492
+CSCI,368,Data Comm Systems & Networks,2020,1089
