@@ -149,14 +149,13 @@ CREATE TABLE Inventory (
         ItemID      NUMBER(7),
         UserID      VARCHAR2(9)            NOT NULL,
         ListPrice   NUMBER(8, 2),
-        PostDate    DATE  "dd/mm/yyyy",
+        PostDate    VARCHAR2(10),
         Category    VARCHAR2(10),
         PostType    CHAR(1),
         Description VARCHAR2(100),
 	Keywords VARCHAR2(100),
         Condition   VARCHAR2(4),
-        PRIMARY KEY (ItemID),
-       
+        PRIMARY KEY (ItemID)       
 );
 GRANT SELECT ON Inventory TO PUBLIC;
 
@@ -177,9 +176,7 @@ CREATE TABLE Technology (
         DeviceType    VARCHAR2(20),    
         SerialNo      NUMBER(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_Tech_ItemID     FOREIGN KEY (ItemID)     REFERENCES Inventory(ItemID),
-        CONSTRAINT FK_Tech_Brand      FOREIGN KEY (Brand)      REFERENCES TBrand(Abbrev),
-        CONSTRAINT FK_Tech_Device     FOREIGN KEY (DeviceType) REFERENCES Device(Abbrev)
+        CONSTRAINT FK_Tech_ItemID     FOREIGN KEY (ItemID)     REFERENCES Inventory(ItemID)     
 );
 GRANT SELECT ON Technology TO PUBLIC;
 
@@ -190,9 +187,7 @@ CREATE TABLE Clothing (
         CSize         VARCHAR2(10),
         Article       VARCHAR2(10),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_Cloth_ItemID  FOREIGN KEY (ItemID)  REFERENCES Inventory(ItemID),
-        CONSTRAINT FK_Cloth_Article FOREIGN KEY (Article) REFERENCES Article(Abbrev),
-        CONSTRAINT FB_Cloth_Size    FOREIGN KEY (CSize)   REFERENCES CSize(Abbrev)
+        CONSTRAINT FK_Cloth_ItemID  FOREIGN KEY (ItemID)  REFERENCES Inventory(ItemID)
 );
 GRANT SELECT ON Clothing TO PUBLIC;
 
@@ -201,8 +196,7 @@ CREATE TABLE MusicalInstrument (
         ItemID        NUMBER(7),
         InstrType     VARCHAR2(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID)    REFERENCES Inventory(ItemID),
-        CONSTRAINT FK_Mus_Type      FOREIGN KEY (InstrType) REFERENCES InstrType(Abbrev)
+        CONSTRAINT FK_MI_ItemID     FOREIGN KEY (ItemID)    REFERENCES Inventory(ItemID) 
 );
 GRANT SELECT ON MusicalInstrument TO PUBLIC;
 
@@ -211,8 +205,7 @@ CREATE TABLE SportingGood (
         ItemID        NUMBER(7),
         Sport         VARCHAR2(20),
         PRIMARY KEY   (ItemID),
-        CONSTRAINT FK_SG_ItemID      FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID),
-        CONSTRAINT FK_Sports_Sport   FOREIGN KEY (Sport) REFERENCES Sports(Abbrev)
+        CONSTRAINT FK_SG_ItemID      FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
 );
 GRANT SELECT ON SportingGood TO PUBLIC;
 
@@ -222,7 +215,7 @@ CREATE TABLE Shipment (
         ItemID        NUMBER(7)      NOT NULL,
         UserAddress   VARCHAR2(40)   NOT NULL,
         RcyclAddress  VARCHAR2(40)   NOT NULL,
-        DateShipped   DATE,
+        DateShipped   VARCHAR2(10),
         PRIMARY KEY   (ShipID),
         CONSTRAINT FB_Ship_ItemID    FOREIGN KEY (ItemID) REFERENCES Inventory(ItemID)
 );
@@ -236,8 +229,7 @@ CREATE TABLE Recycler (
         Email         VARCHAR2(30),
         Address       VARCHAR2(40),
         ItemCategory  VARCHAR2(40)   NOT NULL,
-        PRIMARY KEY   (RcyclID),
-        CONSTRAINT FK_Rcycl_Article FOREIGN KEY (ItemCategory) REFERENCES Category(Abbrev)
+        PRIMARY KEY   (RcyclID)    
 );
 GRANT SELECT ON Recycler TO PUBLIC;
 
@@ -248,7 +240,7 @@ CREATE TABLE Transaction (
         TransPrice    NUMBER(8, 2),
         buyerID       NUMBER(9),
         sellerID    NUMBER(9),
-        TransDate     DATE,
+        TransDate     VARCHAR2(10),
         Address       VARCHAR2(40),
         PRIMARY KEY   (TransID),
         CONSTRAINT FK_Trans_ItemId   FOREIGN KEY (ItemID)     REFERENCES Inventory(ItemID));

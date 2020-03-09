@@ -45,18 +45,25 @@ for line in text.readlines():
 write.close()
 text.close()
 """
+"""
+format dates
+"""
+"""
 
 text = open("Inventory.txt", "r")
+dates = open("dates.txt", "r")
+dates = dates.readlines()
 write = open("Inventory.dat", "w")
-for line in text.readlines():
+for i, line in enumerate(text.readlines()):
     line = line.split(',')
-    line[3] =line[3][4:] +'-'+ line[3][2:4] +'-' +  line[3][0:2]
+    line[3] = dates[i%1000][:-1]
     s = ''
     for n in line:
         s += n +','
     write.write(s[:-1])
 write.close()
 text.close()
+"""
 
 """
 text = open("Inventory.txt", "r")
