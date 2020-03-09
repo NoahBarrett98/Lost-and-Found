@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar  8 11:18:45 2020
+
+@author: hannahmacdonell
+"""
+import random
+import csv
+#Recyclers(recyclerID, companyName, companyNumber, companyEmail, companyAddress, recyclerCategory)
+
+i = []
+for x in range(1000):
+    i.append(str(random.randint(1234567,9999999)))
+
+l = []
+c = open("recyclerName.txt", "r")
+for line in c:
+    l.append(line.strip().split('\n')[0])
+c.close()
+print(len(l))
+n = []
+for x in range(1000):
+    n.append('(902)'+str(random.randint(111,999))+'-'+str(random.randint(1111,9999)))
+
+ad = []
+c = open("adress.txt", "r")
+for line in c:
+    ad.append(line.strip().split('\n')[0])
+c.close()  
+
+cat = []
+c = open("category.txt", "r")
+for line in c:
+    cat.append(line.strip().split('\n')[0])
+c.close()  
+
+
+
+with open('recycler.csv', mode='w') as data_file:
+    data_writer = csv.writer(data_file, delimiter=',')
+    data_writer.writerow(['recyclerID', 'companyName', 'companyNumber', 'companyEmail', 'companyAddress', 'recyclerCategory'])
+    for x in range(49):
+        data_writer.writerow([i[x],l[x],n[x],l[x]+'@email.ca',ad[random.randint(0,99)],cat[random.randint(0,6)]])
+        
+data_file.close()
+
+

@@ -1,0 +1,77 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar  8 11:36:33 2020
+
+@author: hannahmacdonell
+"""
+
+
+#Transaction(transID, itemID, transPrice, buyerID, sellerID, transDate, transAddress)
+
+import csv
+import random
+user = []
+c = open("users.txt", "r")
+for line in c:
+    line = line.split(',')
+    try:
+        line[3] = line[3]+line[4].strip().split('\n')[0]
+    except IndexError:
+        line[3] = line[3].strip().split('\n')[0]
+    user.append([line[0],line[3]]) #user = [BuyerID, transAddy]  
+c.close()
+#x2019aab,Rozalin,Mccauley,"22UnionSt.Louisbourg,NSB1C5K5"
+
+inven = []
+c = open("inventory.txt", "r")
+for line in c:
+    line = line.split(',')
+    if line[5]=='B':
+        line[3] = line[3][:-4] + '2021'
+        inven.append([line[0],line[2],line[1],line[3]]) #inven = [itemID,price, sellerID, date]
+c.close()
+#1000005,x2015awn,$22.00,04012017,TECH,B,descrip,BROW,decent
+
+ship = []
+c = open("shipment.txt", "r")
+for line in c:
+    line = line.split(',')
+    ship.append(line[1]) #ship = item ID's
+c.close()
+#10011,1000770,x2017azg,6553498,725CarriageCircleDoaktownNBE9C8T4,12082018
+print(ship)
+i=0
+with open('transaction.csv', mode='w') as data_file:
+    data_writer = csv.writer(data_file, delimiter=',')
+    data_writer.writerow(['transID', 'itemID','transPrice', 'buyerID', 'sellerID', 'transDate', 'transAddress'])
+    while i<len(inven)-1:
+        if inven[i][0] not in ship:
+            num = random.randint(0,len(user)-1)
+            data_writer.writerow([i+1000, inven[i][0], inven[i][1], user[num][0], inven[i][2], inven[i][3], user[num][1]])
+            i = i+1
+        else:
+            i = i+1
+
+data_file.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
