@@ -1,0 +1,5 @@
+new,NEW
+used,USED
+mint,MINT
+decent,DECE
+poor,POOR

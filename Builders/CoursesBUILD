@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar  3 21:46:27 2020
+
+@author: hannahmacdonell
+"""
+import random
+import csv
+
+l = []
+c = open("courses.txt", "r")
+for line in c:
+    l.append(line.split(','))
+c.close()
+    
+with open('Class.csv', mode='w') as data_file:
+    data_writer = csv.writer(data_file, delimiter=',')
+    data_writer.writerow(['CRN','deptCode','courseNum','courseName'])
+    for x in l:
+        CRN = (str(x[4].strip().split('\n')[0])+str(random.randint(0,9)))
+        data_writer.writerow([CRN,x[0],x[1],x[2]])
+        
+data_file.close()
+
+
+#T: UsedIn(CRN, year, ISBN)
+#N: Class(CRN, deptCode, courseNum, courseName)
+

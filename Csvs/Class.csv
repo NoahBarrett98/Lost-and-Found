@@ -1,0 +1,1463 @@
+CRN,deptCode,courseNum,courseName
+28777,APEX,100,Academic Program of Excellence
+25798,APEX,100,Academic Program of Excellence
+24331,ANTH,110,Intro to Anthropology
+32313,ANTH,110,Intro to Anthropology
+44368,ANTH,215,Archaeology & Native Peoples
+48433,ANTH,215,Archaeology & Native Peoples
+49768,ANTH,260,Evolution of Civilization
+45546,ANTH,260,Evolution of Civilization
+26932,ANTH,303,Anthropological Theory
+18762,ANTH,303,Anthropological Theory
+38500,ANTH,304,Principles & Meth of Fieldwork
+24792,ANTH,304,Principles & Meth of Fieldwork
+18517,ANTH,315,Health & Medicine
+49991,ANTH,315,Health & Medicine
+49034,ANTH,335,Cultural & Social Anthropology
+45299,ANTH,335,Cultural & Social Anthropology
+16545,ANTH,360,Archaeology of Anc Near East
+34926,ANTH,360,Archaeology of Anc Near East
+29500,ANTH,383,First Nations/Mi'kmaq Studies
+16406,ANTH,383,First Nations/Mi'kmaq Studies
+46102,ANTH,418,Area & Regional Studies
+42970,ANTH,418,Area & Regional Studies
+30368,AQUA,100,Intro to Aquatic Resources
+39794,AQUA,100,Intro to Aquatic Resources
+36182,AQUA,450,Sen Seminar Aquatic Resources
+18762,AQUA,450,Sen Seminar Aquatic Resources
+10400,ART,100,Drawing
+35078,ART,100,Drawing
+10766,ART,115,Intro to Design
+22798,ART,115,Intro to Design
+37881,ART,125,Materials & Methods
+30445,ART,125,Materials & Methods
+29681,ART,141,History of Art I
+20541,ART,141,History of Art I
+35431,ART,142,History of Art II
+40023,ART,142,History of Art II
+22623,ART,145,Introduction to Color
+14932,ART,145,Introduction to Color
+12211,ART,200,Painting I
+40093,ART,200,Painting I
+43661,ART,202,Scenic Design & Stage Lighting
+28481,ART,202,Scenic Design & Stage Lighting
+44251,ART,203,Stage & Costume Design
+36682,ART,203,Stage & Costume Design
+20699,ART,211,Stained Glass Studio I
+32331,ART,211,Stained Glass Studio I
+12778,ART,212,Stained Glass Studio II
+48441,ART,212,Stained Glass Studio II
+27947,ART,221,Batik Studio
+24576,ART,221,Batik Studio
+23763,ART,222,Weaving Studio
+42133,ART,222,Weaving Studio
+44346,ART,231,Etching Studio I
+46289,ART,231,Etching Studio I
+14345,ART,232,Etching Studio II
+14099,ART,232,Etching Studio II
+37188,ART,240,Pastels
+34495,ART,240,Pastels
+38007,ART,255,L'scape & Floral in Watercolor
+24578,ART,255,L'scape & Floral in Watercolor
+24511,ART,258,Impressionism
+32084,ART,258,Impressionism
+45173,ART,260,20th Century: Modern Art
+11363,ART,260,20th Century: Modern Art
+24424,ART,320,Painting II
+41481,ART,320,Painting II
+14015,ART,343,Issues in Cdn Art Through WWII
+25244,ART,343,Issues in Cdn Art Through WWII
+32799,ART,346,Botanical Arts: Drawing
+29311,ART,346,Botanical Arts: Drawing
+14543,ART,347,Botanical Arts: Painting
+18668,ART,347,Botanical Arts: Painting
+47956,ART,350,Anatomy for the Artist
+48155,ART,350,Anatomy for the Artist
+13160,ART,370,Italian Renaissance Art
+22580,ART,370,Italian Renaissance Art
+26800,ART,372,Northern Renaissance
+16268,ART,372,Northern Renaissance
+38235,ART,385,Advanced Drawing I
+49486,ART,385,Advanced Drawing I
+24996,ART,386,Advanced Drawing III
+12780,ART,386,Advanced Drawing III
+46958,ART,387,Cartooning & Humorous Illustra
+32176,ART,387,Cartooning & Humorous Illustra
+42797,BIOL,105,Basic Cell Biology
+39481,BIOL,105,Basic Cell Biology
+38949,BIOL,111,Intro Cell Biology
+30922,BIOL,111,Intro Cell Biology
+33821,BIOL,112,Diversity of Life
+43212,BIOL,112,Diversity of Life
+25312,BIOL,115,Microbes in Human Biology
+31407,BIOL,115,Microbes in Human Biology
+45451,BIOL,201,Animal Biology
+36688,BIOL,201,Animal Biology
+24266,BIOL,202,Plant Biology
+22336,BIOL,202,Plant Biology
+46155,BIOL,203,Intro Ecology
+23306,BIOL,203,Intro Ecology
+39146,BIOL,204,Intro Genetics
+11762,BIOL,204,Intro Genetics
+48959,BIOL,207,Intro to Natural History
+29802,BIOL,207,Intro to Natural History
+21726,BIOL,220,Current Topics in Biol (Arts)
+28043,BIOL,220,Current Topics in Biol (Arts)
+16681,BIOL,251,Human Anatomy & Physiology I
+27340,BIOL,251,Human Anatomy & Physiology I
+34560,BIOL,252,Human Anatomy & Physiology II
+21695,BIOL,252,Human Anatomy & Physiology II
+10794,BIOL,285,Paleontology: History of Life
+33492,BIOL,285,Paleontology: History of Life
+38430,BIOL,301,Form & Function in Animals
+30272,BIOL,301,Form & Function in Animals
+35096,BIOL,302,Evolution
+34912,BIOL,302,Evolution
+18316,BIOL,303,Human Biomechanics
+41518,BIOL,303,Human Biomechanics
+10701,BIOL,304,Vertebrate Physiology
+42109,BIOL,304,Vertebrate Physiology
+37077,BIOL,307,Field Biology
+47926,BIOL,307,Field Biology
+47722,BIOL,311,Marine Biology I
+44429,BIOL,311,Marine Biology I
+42750,BIOL,312,Marine Biology II
+28499,BIOL,312,Marine Biology II
+15318,BIOL,315,Intro Microbiology
+23748,BIOL,315,Intro Microbiology
+10146,BIOL,317,Molecular Biology
+37039,BIOL,317,Molecular Biology
+48868,BIOL,320,Biology of Cancer
+33934,BIOL,320,Biology of Cancer
+18273,BIOL,321,Env Ecol of Mariculture
+31786,BIOL,321,Env Ecol of Mariculture
+10967,BIOL,322,Marine Pollution
+30554,BIOL,322,Marine Pollution
+31181,BIOL,325,Physiological Ecology
+29619,BIOL,325,Physiological Ecology
+37876,BIOL,331,Biostatistics
+29323,BIOL,331,Biostatistics
+27072,BIOL,343,Comp Anatomy of Vertebrates
+21777,BIOL,343,Comp Anatomy of Vertebrates
+19746,BIOL,345,Communities & Ecosystems
+10742,BIOL,345,Communities & Ecosystems
+28162,BIOL,373,Wildlife Ecology
+36303,BIOL,373,Wildlife Ecology
+33004,BIOL,385,Animal Behavior
+43303,BIOL,385,Animal Behavior
+16366,BIOL,390,Plant Physiology
+48127,BIOL,390,Plant Physiology
+12857,BIOL,395,Cell Biology
+22853,BIOL,395,Cell Biology
+20173,BIOL,401,Comp Physiology & Biophysics
+29555,BIOL,401,Comp Physiology & Biophysics
+43422,BIOL,403,The Physiology of Sensations
+24862,BIOL,403,The Physiology of Sensations
+39401,BIOL,407,Integrated Resource Management
+21936,BIOL,407,Integrated Resource Management
+27590,BIOL,417,Microbial Pathogenics
+21386,BIOL,417,Microbial Pathogenics
+14553,BIOL,425,Advanced Cell Biology
+19722,BIOL,425,Advanced Cell Biology
+32405,BIOL,435,Advanced Embryology
+38545,BIOL,435,Advanced Embryology
+43365,BIOL,450,Behavioral Neuroscience
+28931,BIOL,450,Behavioral Neuroscience
+35241,BIOL,470,Environmental Microbiology
+48757,BIOL,470,Environmental Microbiology
+37864,BIOL,472,Freshwater Ecology
+17337,BIOL,472,Freshwater Ecology
+40875,BIOL,474,Soil Ecology
+25987,BIOL,474,Soil Ecology
+38101,BIOL,475,Accessing Biological Literatur
+49689,BIOL,475,Accessing Biological Literatur
+25095,BIOL,485,Experimental Research
+28749,BIOL,485,Experimental Research
+38172,BIOL,491,Senior Seminar
+47450,BIOL,491,Senior Seminar
+30029,BIOL,493,Honours Thesis
+13147,BIOL,493,Honours Thesis
+35350,BIOL,499,Applied Biomechanics
+46260,BIOL,499,Applied Biomechanics
+32120,BSAD,101,Intro to Business
+37653,BSAD,101,Intro to Business
+49773,BSAD,102,Business Decision Making
+12887,BSAD,102,Business Decision Making
+47613,BSAD,221,Intro Financial Accounting
+33079,BSAD,221,Intro Financial Accounting
+10826,BSAD,223,Intro Managerial Accounting
+41030,BSAD,223,Intro Managerial Accounting
+10330,BSAD,231,Foundations of Marketing
+31074,BSAD,231,Foundations of Marketing
+18823,BSAD,261,Foundations of Management
+16402,BSAD,261,Foundations of Management
+22136,BSAD,319,Mgmt of Information Technology
+30265,BSAD,319,Mgmt of Information Technology
+24922,BSAD,321,Intermed Managerial Account I
+46640,BSAD,321,Intermed Managerial Account I
+48913,BSAD,322,Intermed Managerial Account II
+43282,BSAD,322,Intermed Managerial Account II
+21872,BSAD,323,Intermed Financ Accounting I
+32519,BSAD,323,Intermed Financ Accounting I
+21125,BSAD,324,Intermed Financ Accounting II
+17086,BSAD,324,Intermed Financ Accounting II
+25178,BSAD,331,Marketing Management
+18322,BSAD,331,Marketing Management
+10198,BSAD,332,Marketing Research
+26086,BSAD,332,Marketing Research
+23477,BSAD,333,Prof Sales: Bldg Relationships
+49152,BSAD,333,Prof Sales: Bldg Relationships
+41404,BSAD,341,Intro Financial Management
+35690,BSAD,341,Intro Financial Management
+31257,BSAD,342,Cases in Financial Management
+47576,BSAD,342,Cases in Financial Management
+46608,BSAD,343,Cdn Securities & Markets
+31133,BSAD,343,Cdn Securities & Markets
+37032,BSAD,345,Personal Financial Management
+39423,BSAD,345,Personal Financial Management
+25397,BSAD,351,Business Law
+19722,BSAD,351,Business Law
+39017,BSAD,356,Entrepre & Venture Creation
+27819,BSAD,356,Entrepre & Venture Creation
+39107,BSAD,357,International Business Mgmt
+23663,BSAD,357,International Business Mgmt
+31349,BSAD,358,Business & Society
+19911,BSAD,358,Business & Society
+37308,BSAD,361,Organizational Analysis
+13040,BSAD,361,Organizational Analysis
+27465,BSAD,362,Career Dynamics
+24413,BSAD,362,Career Dynamics
+18342,BSAD,363,Human Resource Development
+26521,BSAD,363,Human Resource Development
+17716,BSAD,381,Operations Management
+14457,BSAD,381,Operations Management
+13164,BSAD,391,Found of Management Research
+23448,BSAD,391,Found of Management Research
+30927,BSAD,415,Electronic Business
+11602,BSAD,415,Electronic Business
+43230,BSAD,416,Project Management & Practice
+12208,BSAD,416,Project Management & Practice
+28163,BSAD,424,Financial Accounting Theory
+18600,BSAD,424,Financial Accounting Theory
+25475,BSAD,425,Auditing
+28434,BSAD,425,Auditing
+36143,BSAD,426,Adv Financial Accounting I
+25835,BSAD,426,Adv Financial Accounting I
+49008,BSAD,428,Adv Financial Accounting II
+33130,BSAD,428,Adv Financial Accounting II
+47281,BSAD,431,Services & Non-Profit Mrkting
+42671,BSAD,431,Services & Non-Profit Mrkting
+26473,BSAD,432,Retailing
+38343,BSAD,432,Retailing
+29216,BSAD,434,Marketing Communications
+11654,BSAD,434,Marketing Communications
+34608,BSAD,435,Sales Force Management
+28304,BSAD,435,Sales Force Management
+46791,BSAD,443,Investment Management
+10982,BSAD,443,Investment Management
+24775,BSAD,446,Investment Portfolio Mgmt
+47430,BSAD,446,Investment Portfolio Mgmt
+28870,BSAD,448,International Financial Mgmt
+36814,BSAD,448,International Financial Mgmt
+34171,BSAD,454,Taxation
+21230,BSAD,454,Taxation
+43406,BSAD,457,Community Enterprise Develpmnt
+38878,BSAD,457,Community Enterprise Develpmnt
+47273,BSAD,458,Research Proj: Enterprise Dev
+16268,BSAD,458,Research Proj: Enterprise Dev
+18439,BSAD,461,Leadership
+39413,BSAD,461,Leadership
+12277,BSAD,464,Negotiation & Conflict Mgmt
+42852,BSAD,464,Negotiation & Conflict Mgmt
+34237,BSAD,466,Lesson in Leadership
+30390,BSAD,466,Lesson in Leadership
+26175,BSAD,471,Business Policy
+41694,BSAD,471,Business Policy
+49737,BSAD,472,"""""""Bus"""
+39347,BSAD,472,"""""""Bus"""
+41278,BSAD,492,Consulting Project for Majors
+35586,BSAD,492,Consulting Project for Majors
+25251,BSAD,494,Honours Thesis
+39986,BSAD,494,Honours Thesis
+31493,CATH,200,Intro to Catholic Traditions
+23215,CATH,200,Intro to Catholic Traditions
+15702,CATH,241,Sin & Salvation Catholic Trad
+43874,CATH,241,Sin & Salvation Catholic Trad
+42026,CATH,245,Christ in the Catholic Trad
+44051,CATH,245,Christ in the Catholic Trad
+42981,CELT,100,Scottish Gaelic
+29598,CELT,100,Scottish Gaelic
+43178,CELT,110,Irish Gaelic
+31624,CELT,110,Irish Gaelic
+41167,CELT,120,Celtic Literature
+18598,CELT,120,Celtic Literature
+13765,CELT,131,Celtic Civilization I
+37096,CELT,131,Celtic Civilization I
+25327,CELT,132,Celtic Civilization II
+42635,CELT,132,Celtic Civilization II
+19785,CELT,200,Second Year Scottish Gaelic
+29169,CELT,200,Second Year Scottish Gaelic
+17290,CELT,300,Third Year Gaelic
+36638,CELT,300,Third Year Gaelic
+43097,CELT,333,Scottish Gael: Old World & New
+28430,CELT,333,Scottish Gael: Old World & New
+22294,CELT,340,Scottish Gaelic Bardic Poetry
+49746,CELT,340,Scottish Gaelic Bardic Poetry
+43622,CELT,350,Folklore of Ireland & Scotland
+13507,CELT,350,Folklore of Ireland & Scotland
+11023,CELT,361,Selected Topics I
+34374,CELT,361,Selected Topics I
+20070,CELT,362,Selected Topics II
+25626,CELT,362,Selected Topics II
+24666,CELT,420,Seminar Scott Gaelic Imm Lit
+16881,CELT,420,Seminar Scott Gaelic Imm Lit
+21174,CELT,490,Honours Thesis
+28496,CELT,490,Honours Thesis
+18188,CHEM,100,General Chemistry
+49290,CHEM,100,General Chemistry
+15269,CHEM,120,Principles of Chemistry
+11500,CHEM,120,Principles of Chemistry
+18852,CHEM,150,General & Biological Chemistry
+16977,CHEM,150,General & Biological Chemistry
+41807,CHEM,220,Organic Chemistry
+26763,CHEM,220,Organic Chemistry
+13632,CHEM,222,Organic Chemistry II
+46598,CHEM,222,Organic Chemistry II
+15807,CHEM,225,Principles of Organic Chem
+36049,CHEM,225,Principles of Organic Chem
+12325,CHEM,231,Physical Chemistry I
+33940,CHEM,231,Physical Chemistry I
+21212,CHEM,232,Physical Chemistry II
+11967,CHEM,232,Physical Chemistry II
+11029,CHEM,245,Basic Inorganic Chemistry
+16119,CHEM,245,Basic Inorganic Chemistry
+45379,CHEM,255,Intro Biochemistry
+24453,CHEM,255,Intro Biochemistry
+23447,CHEM,265,Basic Analytical Chemistry
+21688,CHEM,265,Basic Analytical Chemistry
+31488,CHEM,321,Intermediate Organic Chemistry
+37579,CHEM,321,Intermediate Organic Chemistry
+41332,CHEM,322,Heterocyclic Chemistry
+13374,CHEM,322,Heterocyclic Chemistry
+24539,CHEM,330,Physical Chemistry III
+23218,CHEM,330,Physical Chemistry III
+26664,CHEM,341,Inorganic & Theoret Chem I
+13500,CHEM,341,Inorganic & Theoret Chem I
+14644,CHEM,342,Inorganic & Theoret Chem II
+29690,CHEM,342,Inorganic & Theoret Chem II
+33689,CHEM,360,Instrumental Analytical Chem
+18502,CHEM,360,Instrumental Analytical Chem
+47891,CHEM,375,Chemical Informatics
+39398,CHEM,375,Chemical Informatics
+49557,CHEM,381,Industrial Chemistry
+37638,CHEM,381,Industrial Chemistry
+45056,CHEM,391,Chemistry Seminar I
+45090,CHEM,391,Chemistry Seminar I
+20908,CHEM,411,Computational Chemistry
+34289,CHEM,411,Computational Chemistry
+29809,CHEM,420,Phys Organ Chem & Spectroscopy
+15366,CHEM,420,Phys Organ Chem & Spectroscopy
+31684,CHEM,434,Colloids & Interfaces
+49302,CHEM,434,Colloids & Interfaces
+14784,CHEM,442,Bio-Inorganic Chemistry
+20050,CHEM,442,Bio-Inorganic Chemistry
+19813,CHEM,450,Bio-Organic Chemistry
+46187,CHEM,450,Bio-Organic Chemistry
+14894,CHEM,455,Medicinal Chemistry
+48597,CHEM,455,Medicinal Chemistry
+42177,CHEM,461,Topics Instrument & Analysis
+13956,CHEM,461,Topics Instrument & Analysis
+19979,CHEM,491,Chemistry Seminar II
+27488,CHEM,491,Chemistry Seminar II
+34951,CHEM,493,Honours Thesis
+41532,CHEM,493,Honours Thesis
+24636,CLAS,110,Latin I
+20084,CLAS,110,Latin I
+12498,CLAS,240,Greek Lit in Translation
+16525,CLAS,240,Greek Lit in Translation
+48080,CSCI,100,Introduction to Computing
+14989,CSCI,100,Introduction to Computing
+38755,CSCI,125,Computer Programming in C
+16223,CSCI,125,Computer Programming in C
+23399,CSCI,161,Intro to Programming
+27996,CSCI,161,Intro to Programming
+22738,CSCI,162,Programming & Data Structures
+26161,CSCI,162,Programming & Data Structures
+15285,CSCI,235,Micro-Computers in Science
+19074,CSCI,235,Micro-Computers in Science
+11635,CSCI,254,Object-Oriented Methodologies
+34694,CSCI,254,Object-Oriented Methodologies
+34889,CSCI,256,Data Struct & Algorithm Analy
+34982,CSCI,256,Data Struct & Algorithm Analy
+48765,CSCI,275,Database Management Systems
+38065,CSCI,275,Database Management Systems
+14824,CSCI,335,Operations Research
+47429,CSCI,335,Operations Research
+16918,CSCI,356,Theory of Computing
+31841,CSCI,356,Theory of Computing
+43628,CSCI,375,Operating Systems
+21760,CSCI,375,Operating Systems
+38580,CSCI,383,Object-Oriented Prgm & Design
+43937,CSCI,383,Object-Oriented Prgm & Design
+15419,CSCI,455,Parallel Computing
+24086,CSCI,455,Parallel Computing
+25652,CSCI,355,Algorithm Analysis
+37934,CSCI,355,Algorithm Analysis
+33869,CSCI,467,Computer & Network Security
+43894,CSCI,467,Computer & Network Security
+34747,CSCI,483,Interactive Programming Java
+41660,CSCI,483,Interactive Programming Java
+29636,CSCI,485,Software Design
+20380,CSCI,485,Software Design
+29669,CSCI,487,Org of Programming Languages
+32811,CSCI,487,Org of Programming Languages
+34078,CSCI,491,Senior Seminar
+39601,CSCI,491,Senior Seminar
+14135,CSCI,493,Senior Honours Thesis
+32767,CSCI,493,Senior Honours Thesis
+37671,DEVS,200,Intro to International Develop
+20349,DEVS,200,Intro to International Develop
+21817,DEVS,300,Globalization & Development
+15090,DEVS,300,Globalization & Development
+30308,DEVS,310,Internship II
+21441,DEVS,310,Internship II
+47448,DEVS,405,Community-Based Dev
+46008,DEVS,405,Community-Based Dev
+22371,ESCI,170,Understanding the Earth
+46757,ESCI,170,Understanding the Earth
+28613,ESCI,171,Understanding the Earth I
+26399,ESCI,171,Understanding the Earth I
+30886,ESCI,172,Understanding the Earth II
+37650,ESCI,172,Understanding the Earth II
+10801,ESCI,201,Crystal Chem & Mineralogy
+45190,ESCI,201,Crystal Chem & Mineralogy
+39299,ESCI,202,Intro to Igneous & Metamorphic
+22209,ESCI,202,Intro to Igneous & Metamorphic
+30669,ESCI,215,Sedimentology & Stratigraphy
+15635,ESCI,215,Sedimentology & Stratigraphy
+15392,ESCI,216,Earth History
+16295,ESCI,216,Earth History
+33339,ESCI,245,Structural Geology
+17388,ESCI,245,Structural Geology
+41981,ESCI,246,Quantitative Methods Earth Sci
+23566,ESCI,246,Quantitative Methods Earth Sci
+23166,ESCI,271,Environmental Earth Science
+36365,ESCI,271,Environmental Earth Science
+45857,ESCI,272,Global Change & Climate System
+41633,ESCI,272,Global Change & Climate System
+46914,ESCI,273,Health & the Environment
+40120,ESCI,273,Health & the Environment
+16468,ESCI,274,Health Impacts of Global Chng
+11252,ESCI,274,Health Impacts of Global Chng
+47191,ESCI,275,Geological Field Methods
+12879,ESCI,275,Geological Field Methods
+25684,ESCI,276,Envir Earth Sci Field Course
+49116,ESCI,276,Envir Earth Sci Field Course
+27899,ESCI,285,Paleontology: History of Life
+14056,ESCI,285,Paleontology: History of Life
+24425,ESCI,301,Genesis of Igneous Rocks
+17535,ESCI,301,Genesis of Igneous Rocks
+30364,ESCI,305,Geochemistry of Natural Waters
+25339,ESCI,305,Geochemistry of Natural Waters
+31220,ESCI,365,Geomorphol & Quanternary Geol
+29237,ESCI,365,Geomorphol & Quanternary Geol
+26092,ESCI,366,Hydrology
+44852,ESCI,366,Hydrology
+28632,ESCI,386,Oceanography
+15374,ESCI,386,Oceanography
+40757,ESCI,426,Ore Petrogenesis
+15690,ESCI,426,Ore Petrogenesis
+46152,ESCI,435,Adv Structure & Tectonics
+30534,ESCI,435,Adv Structure & Tectonics
+24589,ESCI,446,Adv Sediment & Basin Analysis
+14441,ESCI,446,Adv Sediment & Basin Analysis
+28044,ESCI,465,Hydrogeology
+43570,ESCI,465,Hydrogeology
+25212,ESCI,471,Geographic Info Systems
+25029,ESCI,471,Geographic Info Systems
+11995,ESCI,472,Ocean-Atmosphere Interactions
+47074,ESCI,472,Ocean-Atmosphere Interactions
+16565,ESCI,476,Adv Geological Field Methods
+21120,ESCI,476,Adv Geological Field Methods
+24022,ESCI,491,Senior Seminar
+37355,ESCI,491,Senior Seminar
+12137,ESCI,493,Senior Dissertation
+44933,ESCI,493,Senior Dissertation
+24270,ECON,100,Intro Economics
+45228,ECON,100,Intro Economics
+33888,ECON,102,Intro Economics II
+42055,ECON,102,Intro Economics II
+31331,ECON,221,Intermediate Macroeconomics I
+11154,ECON,221,Intermediate Macroeconomics I
+35574,ECON,222,Intermediate Macroeconomics II
+13014,ECON,222,Intermediate Macroeconomics II
+36951,ECON,241,Cdn Econ Policy & Problems
+40691,ECON,241,Cdn Econ Policy & Problems
+49791,ECON,251,Intermd Microeconomic Theory I
+37052,ECON,251,Intermd Microeconomic Theory I
+33152,ECON,252,Interm Microeconomic Theory II
+18742,ECON,252,Interm Microeconomic Theory II
+13194,ECON,281,Environmental Economics
+31866,ECON,281,Environmental Economics
+27198,ECON,305,Economic Development I
+45404,ECON,305,Economic Development I
+43378,ECON,306,Economic Development II
+13145,ECON,306,Economic Development II
+44138,ECON,312,Industrial Organization
+42872,ECON,312,Industrial Organization
+44685,ECON,315,19-20th Century Cdn Econ Hist
+18248,ECON,315,19-20th Century Cdn Econ Hist
+16127,ECON,330,"""""""Money"""
+45629,ECON,330,"""""""Money"""
+23797,ECON,370,Econometric Methods
+12448,ECON,370,Econometric Methods
+19849,ECON,391,Public Finance I
+19043,ECON,391,Public Finance I
+12978,ECON,490,Seminar
+14102,ECON,490,Seminar
+28685,ENGR,121,Calculus I for Engineers
+41324,ENGR,121,Calculus I for Engineers
+31191,ENGR,122,Calculus II for Engineers
+19355,ENGR,122,Calculus II for Engineers
+33234,ENGR,133,Engr Design & Graphics I
+30250,ENGR,133,Engr Design & Graphics I
+47650,ENGR,136,Statics
+44372,ENGR,136,Statics
+49847,ENGR,144,Computer Programming for ENGR
+48558,ENGR,144,Computer Programming for ENGR
+33862,ENGR,221,Differential Equation for Engr
+21936,ENGR,221,Differential Equation for Engr
+24790,ENGR,222,Calculus III for Engineers
+28973,ENGR,222,Calculus III for Engineers
+17553,ENGR,223,Linear Algebra for Engineers
+35925,ENGR,223,Linear Algebra for Engineers
+36849,ENGR,224,Probability & Statistics
+33325,ENGR,224,Probability & Statistics
+11258,ENGR,227,Fundamentals of Chem Engr
+33145,ENGR,227,Fundamentals of Chem Engr
+36629,ENGR,228,Industrial Chemistry
+43283,ENGR,228,Industrial Chemistry
+20115,ENGR,231,Dynamics
+30333,ENGR,231,Dynamics
+27991,ENGR,233,Thermodynamics
+41152,ENGR,233,Thermodynamics
+43668,ENGR,234,Fluid Mechanics
+35123,ENGR,234,Fluid Mechanics
+12393,ENGR,235,Strength of Materials
+29849,ENGR,235,Strength of Materials
+20607,ENGR,236,Engr Design & Graphics II
+28418,ENGR,236,Engr Design & Graphics II
+16349,ENGR,237,Basic Electric Circuits Theory
+44738,ENGR,237,Basic Electric Circuits Theory
+45288,ENGR,238,Digital Logic
+35570,ENGR,238,Digital Logic
+37063,ENGR,242,Engineering Economics
+14568,ENGR,242,Engineering Economics
+28978,ENGR,244,Technical Communications
+15400,ENGR,244,Technical Communications
+28306,ENGR,245,Data Structures/Numerical Meth
+30873,ENGR,245,Data Structures/Numerical Meth
+18083,ENGR,246,Circuit Analysis
+26843,ENGR,246,Circuit Analysis
+20835,ENGR,248,Electrical Engineering Design
+17235,ENGR,248,Electrical Engineering Design
+44729,ENGR,252,System Analysis
+35051,ENGR,252,System Analysis
+21731,ENGL,100,Intro Survey Literature in Eng
+35057,ENGL,100,Intro Survey Literature in Eng
+43360,ENGL,202,Intro to Theatre & Acting I
+23016,ENGL,202,Intro to Theatre & Acting I
+39369,ENGL,203,Intro to Theatre & Acting II
+44805,ENGL,203,Intro to Theatre & Acting II
+36083,ENGL,207,World Masterpieces II
+20151,ENGL,207,World Masterpieces II
+46411,ENGL,209,Narrative in Fiction & Film
+43651,ENGL,209,Narrative in Fiction & Film
+32856,ENGL,222,Creative Non-Fiction/Memoir
+15296,ENGL,222,Creative Non-Fiction/Memoir
+12467,ENGL,229,Women in English Literature
+48436,ENGL,229,Women in English Literature
+33464,ENGL,231,Intro to Creative Writing
+21995,ENGL,231,Intro to Creative Writing
+32704,ENGL,247,Post-Colonial Literature
+15697,ENGL,247,Post-Colonial Literature
+15511,ENGL,250,Survey of 20th Century Lit
+28163,ENGL,250,Survey of 20th Century Lit
+42050,ENGL,265,Canadian Poetry & Prose
+17058,ENGL,265,Canadian Poetry & Prose
+12010,ENGL,270,Romantic Gothic: Poetry & Fict
+18142,ENGL,270,Romantic Gothic: Poetry & Fict
+42951,ENGL,271,Gothic Fiction: Novel
+48491,ENGL,271,Gothic Fiction: Novel
+13685,ENGL,305,Later Elizabethan Renaissance
+11549,ENGL,305,Later Elizabethan Renaissance
+42635,ENGL,317,Cultural Theory
+21535,ENGL,317,Cultural Theory
+32328,ENGL,329,Studies in Women Writers
+29579,ENGL,329,Studies in Women Writers
+40485,ENGL,331,Intermediate Creative Writing
+42266,ENGL,331,Intermediate Creative Writing
+28938,ENGL,340,Shakespeare
+41567,ENGL,340,Shakespeare
+48713,ENGL,341,Elizabethan Shakespeare
+18320,ENGL,341,Elizabethan Shakespeare
+14205,ENGL,343,19th-Century American Poetry
+24234,ENGL,343,19th-Century American Poetry
+38144,ENGL,345,Theory & Criticism to 1798
+13975,ENGL,345,Theory & Criticism to 1798
+21405,ENGL,347,African-Canadian Literature
+49934,ENGL,347,African-Canadian Literature
+13234,ENGL,350,Modern British Fiction
+36812,ENGL,350,Modern British Fiction
+10442,ENGL,355,Restor & 18th C Drama & Prose
+48543,ENGL,355,Restor & 18th C Drama & Prose
+41703,ENGL,356,18th Century Novel & Poetry
+34953,ENGL,356,18th Century Novel & Poetry
+38974,ENGL,367,The Canadian Novel
+49783,ENGL,367,The Canadian Novel
+26790,ENGL,370,English Romantic Literature
+15249,ENGL,370,English Romantic Literature
+23223,ENGL,376,Modern American Fiction
+39197,ENGL,376,Modern American Fiction
+18743,ENGL,377,19th-Century Fiction
+24128,ENGL,377,19th-Century Fiction
+13823,ENGL,420,Seminar: Modern Poetry
+38589,ENGL,420,Seminar: Modern Poetry
+17382,ENGL,445,Seminar: Critical Theory
+27494,ENGL,445,Seminar: Critical Theory
+35373,ENGL,480,Seminar: Spenser & Milton
+31664,ENGL,480,Seminar: Spenser & Milton
+42981,ENGL,496,Research Methods in Eng Lit
+32515,ENGL,496,Research Methods in Eng Lit
+38987,ENGL,497,Advanced Major Thesis
+23500,ENGL,497,Advanced Major Thesis
+17103,ENGL,498,Honours Thesis
+10197,ENGL,498,Honours Thesis
+10832,EXEL,100,Excel
+11124,EXEL,100,Excel
+36707,FREN,110,French Language I
+41712,FREN,110,French Language I
+13525,FREN,115,French Language II
+18245,FREN,115,French Language II
+48375,FREN,215,French Language III
+23618,FREN,215,French Language III
+19494,FREN,216,Survey of French Literature
+31300,FREN,216,Survey of French Literature
+22257,FREN,220,Language & Culture
+31635,FREN,220,Language & Culture
+24750,FREN,300,French Humanism
+16761,FREN,300,French Humanism
+27664,FREN,314,Effective Writing in French
+23423,FREN,314,Effective Writing in French
+36462,FREN,316,17th Century French Literature
+44188,FREN,316,17th Century French Literature
+26628,FREN,321,French Cinema
+40783,FREN,321,French Cinema
+40579,FREN,336,19th Century French Literature
+15238,FREN,336,19th Century French Literature
+45668,FREN,346,20th Century French Literature
+20445,FREN,346,20th Century French Literature
+23110,FREN,376,Acadian Literature
+22136,FREN,376,Acadian Literature
+46868,FREN,456,Literary Criticism
+25160,FREN,456,Literary Criticism
+38652,GERM,100,First Year German
+29680,GERM,100,First Year German
+49729,GERM,200,Second Year German
+44982,GERM,200,Second Year German
+30152,HIST,100,Western Civilization
+25263,HIST,100,Western Civilization
+33536,HIST,110,Global History Since 1300
+41098,HIST,110,Global History Since 1300
+26903,HIST,200,History of Canada
+24874,HIST,200,History of Canada
+10645,HIST,202,Western Canada: The Prairies
+36431,HIST,202,Western Canada: The Prairies
+48503,HIST,204,Western Canada: BC
+29668,HIST,204,Western Canada: BC
+26518,HIST,209,Maritimes 1500-1950
+37411,HIST,209,Maritimes 1500-1950
+12766,HIST,230,Growth of Western Society
+10439,HIST,230,Growth of Western Society
+12043,HIST,242,United States to 1865
+14090,HIST,242,United States to 1865
+14993,HIST,244,The United States after 1865
+16124,HIST,244,The United States after 1865
+49040,HIST,255,Colonial Latin America
+15080,HIST,255,Colonial Latin America
+44530,HIST,256,Modern Latin America
+43623,HIST,256,Modern Latin America
+40687,HIST,260,Europe: 19th & 20th Centuries
+10891,HIST,260,Europe: 19th & 20th Centuries
+16196,HIST,308,Canadian Women's History
+25070,HIST,308,Canadian Women's History
+34259,HIST,309,Working Class in Cdn Society
+11881,HIST,309,Working Class in Cdn Society
+37510,HIST,310,Cdn Immigration & Ethnic Hist
+30328,HIST,310,Cdn Immigration & Ethnic Hist
+22768,HIST,314,Canada & The Cold War Era
+24281,HIST,314,Canada & The Cold War Era
+30359,HIST,326,History of Cuba
+15801,HIST,326,History of Cuba
+12724,HIST,330,Medieval Soc & the Individual
+13725,HIST,330,Medieval Soc & the Individual
+47781,HIST,337,Modern Mexico
+42640,HIST,337,Modern Mexico
+32909,HIST,343,Place of Race in United States
+24273,HIST,343,Place of Race in United States
+41810,HIST,351,US Immigration & Ethnicity
+14986,HIST,351,US Immigration & Ethnicity
+23906,HIST,362,European Fascism
+44048,HIST,362,European Fascism
+25133,HIST,364,The Holocaust
+37766,HIST,364,The Holocaust
+20049,HIST,372,Imperial China
+20366,HIST,372,Imperial China
+21908,HIST,374,20th Century China
+28731,HIST,374,20th Century China
+19644,HIST,383,Victorian Britain
+12130,HIST,383,Victorian Britain
+10692,HIST,384,20th Century Britain
+33210,HIST,384,20th Century Britain
+40521,HIST,390,World War I
+45372,HIST,390,World War I
+46309,HIST,398,"""""""Sexuality"""
+38953,HIST,398,"""""""Sexuality"""
+36871,HIST,400,Seminar on Atlantic Canada
+47523,HIST,400,Seminar on Atlantic Canada
+33418,HIST,460,Seminar: Modern European
+48793,HIST,460,Seminar: Modern European
+16074,HIST,490,Thesis
+11832,HIST,490,Thesis
+22048,HKIN,105,Soccer
+17980,HKIN,105,Soccer
+11670,HKIN,115,Principles of Human Movement
+26511,HKIN,115,Principles of Human Movement
+30423,HKIN,205,Basketball II
+37986,HKIN,205,Basketball II
+18374,HKIN,215,Intro to Motor Learning
+42855,HKIN,215,Intro to Motor Learning
+11780,HKIN,222,Care/Prevent Athletic Injuries
+47841,HKIN,222,Care/Prevent Athletic Injuries
+49413,HKIN,226,Personal Health and Wellness
+47628,HKIN,226,Personal Health and Wellness
+30591,HKIN,236,Foundation Sport/Exercise Psyc
+49233,HKIN,236,Foundation Sport/Exercise Psyc
+10097,HKIN,262,Performance Enhancing Supps
+19618,HKIN,262,Performance Enhancing Supps
+44089,HKIN,301,Elementary Statistics
+29266,HKIN,301,Elementary Statistics
+41174,HKIN,321,Adv Care/Prevent Ath Injuries
+30892,HKIN,321,Adv Care/Prevent Ath Injuries
+29607,HKIN,331,The Sociology of Sport
+47093,HKIN,331,The Sociology of Sport
+21316,HKIN,332,Gender Sport/Physical Activity
+44209,HKIN,332,Gender Sport/Physical Activity
+15777,HKIN,334,Coach Leadership & Planning
+42371,HKIN,334,Coach Leadership & Planning
+29733,HKIN,352,History of Sport
+20555,HKIN,352,History of Sport
+32781,HKIN,353,Metaphysical Foundations
+24822,HKIN,353,Metaphysical Foundations
+40430,HKIN,354,Ethics & Sport
+19480,HKIN,354,Ethics & Sport
+24208,HKIN,365,Exercise Physiology
+36595,HKIN,365,Exercise Physiology
+42037,HKIN,376,Biomechanics
+21217,HKIN,376,Biomechanics
+46828,HKIN,385,Adapted Physical Education
+47372,HKIN,385,Adapted Physical Education
+25580,HKIN,392,Exercise Metabolism
+37764,HKIN,392,Exercise Metabolism
+47193,HKIN,396,Research Methods
+17578,HKIN,396,Research Methods
+45919,HKIN,397,Qualitative Research Methods
+14441,HKIN,397,Qualitative Research Methods
+17814,HKIN,425,Child Growth & Development
+20414,HKIN,425,Child Growth & Development
+35289,HKIN,426,Health Education
+30125,HKIN,426,Health Education
+32656,HKIN,441,Org/Admin Phys Activ/Sport
+40350,HKIN,441,Org/Admin Phys Activ/Sport
+18059,HKIN,445,Instructional Strategies
+29689,HKIN,445,Instructional Strategies
+19112,CSCI,263,Computer Organization
+45081,CSCI,263,Computer Organization
+46719,PSCI,200,History of Political Thought
+25801,PSCI,200,History of Political Thought
+48998,PSCI,210,Comparative Politics
+14135,PSCI,210,Comparative Politics
+38396,PSCI,220,Canadian Politics
+46229,PSCI,220,Canadian Politics
+48774,PSCI,240,Business & Government
+30687,PSCI,240,Business & Government
+24915,PSCI,250,World Politics
+16173,PSCI,250,World Politics
+31524,PSCI,291,"""""""Violence"""
+48349,PSCI,291,"""""""Violence"""
+37660,PSCI,292,Sel Topics: Mexican Politics
+46361,PSCI,292,Sel Topics: Mexican Politics
+43779,PSCI,301,Liberalism & Its Critics
+46477,PSCI,301,Liberalism & Its Critics
+16590,PSCI,303,Contemp Political Arguments
+31149,PSCI,303,Contemp Political Arguments
+31302,PSCI,310,European Politics
+19120,PSCI,310,European Politics
+11596,PSCI,312,Art & Politics
+32544,PSCI,312,Art & Politics
+19174,PSCI,315,Democratization Around World
+18869,PSCI,315,Democratization Around World
+20471,PSCI,321,Federalism
+33956,PSCI,321,Federalism
+26607,PSCI,341,Canadian Public Administration
+37750,PSCI,341,Canadian Public Administration
+30020,PSCI,342,Canadian Public Policy
+40293,PSCI,342,Canadian Public Policy
+12878,PSCI,343,Law & Politics
+18889,PSCI,343,Law & Politics
+45881,PSCI,346,Politics of Resource Mgmt
+40347,PSCI,346,Politics of Resource Mgmt
+48816,PSCI,354,Int'l Political Economy
+24805,PSCI,354,Int'l Political Economy
+47128,PSCI,355,Global Issues
+15197,PSCI,355,Global Issues
+38392,PSCI,356,War & Peace in Middle East
+19390,PSCI,356,War & Peace in Middle East
+28210,PSCI,362,Contemporary China
+19510,PSCI,362,Contemporary China
+49699,PSCI,363,Japan & East Asia
+29873,PSCI,363,Japan & East Asia
+16611,PSCI,380,African Politics & Society
+38659,PSCI,380,African Politics & Society
+15615,PSCI,399,Research Methods & Stats
+11685,PSCI,399,Research Methods & Stats
+49758,PSCI,401,Seminar: Political Theory
+49654,PSCI,401,Seminar: Political Theory
+18523,PSCI,421,Seminar: Canadian Politics I
+18658,PSCI,421,Seminar: Canadian Politics I
+27783,PSCI,442,Seminar: Public Policy
+15450,PSCI,442,Seminar: Public Policy
+29556,PSCI,452,Seminar: Comparative Politics
+25162,PSCI,452,Seminar: Comparative Politics
+19346,PSCI,499,Directed Study
+46449,PSCI,499,Directed Study
+21942,PSYC,100,Intro Psychology
+45838,PSYC,100,Intro Psychology
+18293,PSYC,210,Learning
+21864,PSYC,210,Learning
+37245,PSYC,220,Cognitive Psychology
+23601,PSYC,220,Cognitive Psychology
+24546,PSYC,225,Sensation & Perception
+12872,PSYC,225,Sensation & Perception
+26316,PSYC,230,Brain & Behavior
+24484,PSYC,230,Brain & Behavior
+11917,PSYC,240,Social Psychology
+37318,PSYC,240,Social Psychology
+24913,PSYC,260,Developmental Psychology
+14018,PSYC,260,Developmental Psychology
+13635,PSYC,290,Research Methods & Statistics
+25252,PSYC,290,Research Methods & Statistics
+47234,PSYC,300,History & Theory of Psychology
+42726,PSYC,300,History & Theory of Psychology
+48649,PSYC,310,Health Psychology
+34735,PSYC,310,Health Psychology
+36161,PSYC,341,The Self
+12848,PSYC,341,The Self
+29237,PSYC,345,Communication & Language
+33106,PSYC,345,Communication & Language
+20374,PSYC,350,Psychology of Personality
+42604,PSYC,350,Psychology of Personality
+28605,PSYC,360,Psychology of Gender
+21150,PSYC,360,Psychology of Gender
+45737,PSYC,370,Abnormal Psychology
+38511,PSYC,370,Abnormal Psychology
+41674,PSYC,375,Applied Psychology
+39908,PSYC,375,Applied Psychology
+32676,PSYC,385,Research in Personality
+48048,PSYC,385,Research in Personality
+30624,PSYC,388,Bio-psychology of Pain
+15852,PSYC,388,Bio-psychology of Pain
+34841,PSYC,390,Data in Psychological Research
+43587,PSYC,390,Data in Psychological Research
+32539,PSYC,391,Junior Seminar
+36611,PSYC,391,Junior Seminar
+17891,PSYC,420,Cognition & Perception
+46632,PSYC,420,Cognition & Perception
+35572,PSYC,430,Behavioral Neuroscience
+27818,PSYC,430,Behavioral Neuroscience
+31656,PSYC,440,Adv Social & Personality Psych
+20097,PSYC,440,Adv Social & Personality Psych
+31612,PSYC,460,Adv Developmental Psychology
+28907,PSYC,460,Adv Developmental Psychology
+18183,PSYC,490,Honours Thesis
+21358,PSYC,490,Honours Thesis
+49074,PSYC,491,Senior Seminar
+37008,PSYC,491,Senior Seminar
+36742,PSYC,499,Cognitive Effects Bilingualism
+12798,PSYC,499,Cognitive Effects Bilingualism
+34814,RELS,100,Intro to Christianity
+17508,RELS,100,Intro to Christianity
+20435,RELS,110,Intro to World Religions
+32975,RELS,110,Intro to World Religions
+36337,RELS,120,"""""""Religion"""
+35298,RELS,120,"""""""Religion"""
+25179,RELS,210,The Bible and Film
+30575,RELS,210,The Bible and Film
+16665,RELS,215,Sociology of Religion
+49589,RELS,215,Sociology of Religion
+47320,RELS,225,Cults & New Religious Movement
+26858,RELS,225,Cults & New Religious Movement
+42950,RELS,253,Intro Hebrew Bible/Old Test
+28787,RELS,253,Intro Hebrew Bible/Old Test
+21041,RELS,255,Intro to New Testament
+14447,RELS,255,Intro to New Testament
+38902,RELS,275,Intro to Paul's Letters
+39903,RELS,275,Intro to Paul's Letters
+24429,RELS,298,Intro to Hinduism & Buddism
+44856,RELS,298,Intro to Hinduism & Buddism
+29545,RELS,300,Health Care Ethics
+44698,RELS,300,Health Care Ethics
+10244,RELS,310,Religion in Modern India
+48523,RELS,310,Religion in Modern India
+15003,RELS,315,Women in Hinduism & Buddhism
+30343,RELS,315,Women in Hinduism & Buddhism
+33162,RELS,340,Archaeology of Anc Near East
+14258,RELS,340,Archaeology of Anc Near East
+11047,RELS,383,Reformation Christianity
+16924,RELS,383,Reformation Christianity
+37659,RELS,385,Modern Christianity
+17267,RELS,385,Modern Christianity
+45586,RELS,395,Sel Topics: Intro to Mysticism
+16839,RELS,395,Sel Topics: Intro to Mysticism
+21551,RELS,397,Religion & the Paranormal
+28107,RELS,397,Religion & the Paranormal
+14076,RELS,398,Reflections on Death & Dying
+47572,RELS,398,Reflections on Death & Dying
+35412,RELS,400,Religious Appr to Sexuality
+45136,RELS,400,Religious Appr to Sexuality
+18417,RELS,440,Jesus
+12391,RELS,440,Jesus
+12908,RELS,499,Means to Enlightenment
+27661,RELS,499,Means to Enlightenment
+41263,SOCI,100,Intro to Sociology
+39686,SOCI,100,Intro to Sociology
+38952,SOCI,201,Traditions in Social Thought
+22408,SOCI,201,Traditions in Social Thought
+21251,SOCI,202,Research Principles & Practice
+18573,SOCI,202,Research Principles & Practice
+36791,SOCI,212,Social Dissent
+45409,SOCI,212,Social Dissent
+34777,SOCI,217,"""""""Race"""
+43627,SOCI,217,"""""""Race"""
+45005,SOCI,226,Cults & New Religious Movement
+19617,SOCI,226,Cults & New Religious Movement
+28851,SOCI,227,Sociology of Religion
+42129,SOCI,227,Sociology of Religion
+16169,SOCI,233,Sociology of Sport
+49248,SOCI,233,Sociology of Sport
+23208,SOCI,236,Disability and Society
+38924,SOCI,236,Disability and Society
+42040,SOCI,250,Deviance & Social Control
+30381,SOCI,250,Deviance & Social Control
+45690,SOCI,300,Research Methods
+48559,SOCI,300,Research Methods
+17389,SOCI,301,Classical Social Theory
+45299,SOCI,301,Classical Social Theory
+27803,SOCI,302,Topics in Contemporary Theory
+39244,SOCI,302,Topics in Contemporary Theory
+13032,SOCI,306,Interpretive Methods
+28512,SOCI,306,Interpretive Methods
+34819,SOCI,310,Gender
+39001,SOCI,310,Gender
+49933,SOCI,311,Men & Masculinities
+14312,SOCI,311,Men & Masculinities
+49977,SOCI,312,Social Movements
+18625,SOCI,312,Social Movements
+47317,SOCI,318,First Nations
+49519,SOCI,318,First Nations
+13535,SOCI,320,Black & African Diaspora
+10675,SOCI,320,Black & African Diaspora
+32350,SOCI,322,The Antigonish Movement
+36076,SOCI,322,The Antigonish Movement
+45943,SOCI,325,Sociology of Mass Media
+30654,SOCI,325,Sociology of Mass Media
+22760,SOCI,327,Contemporary Canadian Family
+36326,SOCI,327,Contemporary Canadian Family
+20268,SOCI,328,Social Inequality
+45360,SOCI,328,Social Inequality
+22840,SOCI,364,Food & Development
+27230,SOCI,364,Food & Development
+43237,SOCI,400,Honours Sem & Thesis Research
+43909,SOCI,400,Honours Sem & Thesis Research
+23199,SOCI,417,Social Difference
+43593,SOCI,417,Social Difference
+36774,SOCI,421,"""""""Ancestry"""
+28665,SOCI,421,"""""""Ancestry"""
+10356,SOCI,426,Consumer Society
+29124,SOCI,426,Consumer Society
+41431,SOCI,491,Senior Seminar
+23513,SOCI,491,Senior Seminar
+29707,SOCI,497,Adv Social Theories of Self
+23794,SOCI,497,Adv Social Theories of Self
+36318,SOCI,498,Theories of Social Inequality
+40065,SOCI,498,Theories of Social Inequality
+16418,SOCI,499,Social Theories of the Commons
+39370,SOCI,499,Social Theories of the Commons
+29063,SPAN,100,First Year Spanish
+24474,SPAN,100,First Year Spanish
+46281,SPAN,200,Second Year Spanish
+36746,SPAN,200,Second Year Spanish
+33971,SPAN,201,Second Year Spanish I
+44283,SPAN,201,Second Year Spanish I
+10496,SPAN,320,Hispanic Civ 1800 to Present
+19399,SPAN,320,Hispanic Civ 1800 to Present
+17668,STAT,201,Elementary Statistics
+32008,STAT,201,Elementary Statistics
+45470,STAT,224,Prob & Stats for Engineers
+22189,STAT,224,Prob & Stats for Engineers
+34713,STAT,231,Stats for Students in Sciences
+11565,STAT,231,Stats for Students in Sciences
+16572,STAT,301,Survey Sampling Design
+38854,STAT,301,Survey Sampling Design
+30601,STAT,331,Statistical Methods
+35545,STAT,331,Statistical Methods
+30562,STAT,333,Intro Probability Theory
+38505,STAT,333,Intro Probability Theory
+36275,STAT,334,Mathematical Statistics
+30661,STAT,334,Mathematical Statistics
+35799,STAT,435,Regression Analysis
+40054,STAT,435,Regression Analysis
+10820,WMNS,200,Intro to Women's Studies
+40988,WMNS,200,Intro to Women's Studies
+12320,WMNS,217,"""""""Race"""
+16025,WMNS,217,"""""""Race"""
+18435,WMNS,229,Women in English Literature
+19335,WMNS,229,Women in English Literature
+34084,WMNS,303,Feminist Theory
+26326,WMNS,303,Feminist Theory
+14407,WMNS,308,Canadian Women's History
+24262,WMNS,308,Canadian Women's History
+45503,WMNS,310,Gender
+18896,WMNS,310,Gender
+31693,WMNS,311,Men & Masculinities
+41781,WMNS,311,Men & Masculinities
+46221,WMNS,315,Women in Hinduism & Buddhism
+34199,WMNS,315,Women in Hinduism & Buddhism
+10537,WMNS,327,Contemporary Cdn Families
+22738,WMNS,327,Contemporary Cdn Families
+15135,WMNS,329,Women Writers: Feminisms
+35445,WMNS,329,Women Writers: Feminisms
+27441,WMNS,332,Gender Sport/Physical Activ
+10819,WMNS,332,Gender Sport/Physical Activ
+19769,WMNS,360,Psychology of Gender
+48408,WMNS,360,Psychology of Gender
+24606,WMNS,365,Gender & Health
+33003,WMNS,365,Gender & Health
+41440,WMNS,398,"""""""Sexuality"""
+13036,WMNS,398,"""""""Sexuality"""
+39246,WMNS,400,Research Methods Seminar
+35188,WMNS,400,Research Methods Seminar
+39114,WMNS,410,Religious Appr to Sexuality
+11653,WMNS,410,Religious Appr to Sexuality
+16855,WMNS,417,Social Difference
+47075,WMNS,417,Social Difference
+40545,HKIN,446,Essentials: Personal Training
+15701,HKIN,446,Essentials: Personal Training
+34682,HKIN,456,Exercise & Fitness Evaluation
+36326,HKIN,456,Exercise & Fitness Evaluation
+12720,HKIN,466,Clinical Exercise Physiology
+37324,HKIN,466,Clinical Exercise Physiology
+35366,HKIN,471,Advanced Biomechanics
+29701,HKIN,471,Advanced Biomechanics
+46512,HKIN,491,Senior Seminar
+15720,HKIN,491,Senior Seminar
+33386,HKIN,493,Honours Thesis
+10488,HKIN,493,Honours Thesis
+26479,HNU,145,Intro to Foods
+41534,HNU,145,Intro to Foods
+28739,HNU,146,Intro to Food Science
+10537,HNU,146,Intro to Food Science
+38654,HNU,185,Foundation for the HNU Profess
+24736,HNU,185,Foundation for the HNU Profess
+11661,HNU,200,Nutrit for Healthy Lifestyle
+29217,HNU,200,Nutrit for Healthy Lifestyle
+22017,HNU,261,Intro to Nutrition
+41544,HNU,261,Intro to Nutrition
+42788,HNU,262,Nutrit in Human Metabolism
+18539,HNU,262,Nutrit in Human Metabolism
+44855,HNU,263,Applied Introductory Nutrition
+22957,HNU,263,Applied Introductory Nutrition
+20816,HNU,335,Communications
+26920,HNU,335,Communications
+35201,HNU,361,Clinical Nutrition I
+35244,HNU,361,Clinical Nutrition I
+40453,HNU,362,Clinical Nutrition II
+48791,HNU,362,Clinical Nutrition II
+25996,HNU,363,Sport Nutrition
+13119,HNU,363,Sport Nutrition
+36170,HNU,365,Community Nutrition
+40453,HNU,365,Community Nutrition
+20399,HNU,385,Research Methods
+35425,HNU,385,Research Methods
+28895,HNU,405,Food Availability
+24829,HNU,405,Food Availability
+26738,HNU,425,Geriatric Nutrition
+16657,HNU,425,Geriatric Nutrition
+28675,HNU,445,Advanced Food Study
+17837,HNU,445,Advanced Food Study
+27817,HNU,448,Advanced Experimental Foods
+44210,HNU,448,Advanced Experimental Foods
+32247,HNU,455,Food Service Mgmt & Production
+42347,HNU,455,Food Service Mgmt & Production
+11653,HNU,461,Advanced Clinical Nutrition
+37317,HNU,461,Advanced Clinical Nutrition
+11777,HNU,467,Advanced Nutrition
+15376,HNU,467,Advanced Nutrition
+28741,HNU,471,Entrepreneurial Practices
+25881,HNU,471,Entrepreneurial Practices
+26805,HNU,475,Effecting Change
+16009,HNU,475,Effecting Change
+16457,HNU,482,Internship Practicum II
+29418,HNU,482,Internship Practicum II
+34861,HNU,483,Internship Practicum III
+32147,HNU,483,Internship Practicum III
+23496,HNU,491,Advanced Major & Hon Seminar
+30792,HNU,491,Advanced Major & Hon Seminar
+20070,HNU,493,Senior Thesis (Honours)
+20063,HNU,493,Senior Thesis (Honours)
+16737,HNU,499,Obesity in Type 2 Diabetes
+13111,HNU,499,Obesity in Type 2 Diabetes
+35848,INFO,131,Comput & Business Applications
+28387,INFO,131,Comput & Business Applications
+31083,INFO,135,Information Systems Concepts
+37836,INFO,135,Information Systems Concepts
+25952,INFO,145,Intro to Elect Commerce & ERP
+14248,INFO,145,Intro to Elect Commerce & ERP
+10526,INFO,151,Intro to Programming Concepts
+26485,INFO,151,Intro to Programming Concepts
+21618,INFO,152,Programming & Data Structures
+10716,INFO,152,Programming & Data Structures
+31776,INFO,245,Intro Ent Resource Planning
+43748,INFO,245,Intro Ent Resource Planning
+47787,INFO,275,Database Management Systems
+47582,INFO,275,Database Management Systems
+21901,INFO,325,Info Sys Hardware & Software
+43676,INFO,325,Info Sys Hardware & Software
+32548,INFO,348,Business Process Integration
+19612,INFO,348,Business Process Integration
+33197,INFO,374,Geographic Info Systems
+17065,INFO,374,Geographic Info Systems
+37893,INFO,375,Adv Database Management System
+16641,INFO,375,Adv Database Management System
+33591,INFO,415,Systems Analysis
+17050,INFO,415,Systems Analysis
+29299,INFO,416,Project Management & Practice
+44599,INFO,416,Project Management & Practice
+18457,INFO,418,Topics in Information Systems
+33496,INFO,418,Topics in Information Systems
+44560,INFO,419,Client/Server & Intranets
+47627,INFO,419,Client/Server & Intranets
+14664,INFO,425,Systems Design
+48320,INFO,425,Systems Design
+21229,INFO,435,Introduction to Multimedia
+12680,INFO,435,Introduction to Multimedia
+18649,INFO,445,Web-Based Programming
+38859,INFO,445,Web-Based Programming
+46546,INFO,446,Electronic Business
+17117,INFO,446,Electronic Business
+10154,INFO,448,Impl Conf & use of ERP
+12133,INFO,448,Impl Conf & use of ERP
+10961,INFO,465,Bus Data Comm Sys & Networks
+37717,INFO,465,Bus Data Comm Sys & Networks
+17099,INFO,496,Research Project for Majors
+16900,INFO,496,Research Project for Majors
+11019,INFO,498,Honours Thesis
+10288,INFO,498,Honours Thesis
+44690,IDS,305,Immersion Service Learning
+14565,IDS,305,Immersion Service Learning
+36375,IDS,306,Service Learning: Th & Prac
+14517,IDS,306,Service Learning: Th & Prac
+34726,LTGY,100,Liturgical Foundations
+22074,LTGY,100,Liturgical Foundations
+23847,MATH,100,Mathematical Concepts
+23516,MATH,100,Mathematical Concepts
+34841,MATH,111,Calculus I
+36463,MATH,111,Calculus I
+44000,MATH,112,Calculus II
+21400,MATH,112,Calculus II
+18966,MATH,121,Calculus I for Engineers
+13207,MATH,121,Calculus I for Engineers
+36664,MATH,122,Calculus II for Engineers
+46036,MATH,122,Calculus II for Engineers
+25033,MATH,205,Business Mathematics
+11078,MATH,205,Business Mathematics
+33387,MATH,221,Differential Equations for Eng
+25062,MATH,221,Differential Equations for Eng
+44836,MATH,222,Calculus III for Engineers
+47391,MATH,222,Calculus III for Engineers
+16404,MATH,223,Linear Algebra for Engineers
+29110,MATH,223,Linear Algebra for Engineers
+36230,MATH,253,Matrix Algebra
+26403,MATH,253,Matrix Algebra
+46586,MATH,254,Linear Algebra
+32189,MATH,254,Linear Algebra
+36620,MATH,267,Calculus III
+48298,MATH,267,Calculus III
+28754,MATH,277,Discrete Structures
+31250,MATH,277,Discrete Structures
+41038,MATH,287,Natural Resource Modeling
+24702,MATH,287,Natural Resource Modeling
+13490,MATH,354,Modern Algebra I
+41015,MATH,354,Modern Algebra I
+26080,MATH,361,Advanced Vector Calculus
+13061,MATH,361,Advanced Vector Calculus
+20657,MATH,366,Real Analysis I
+42366,MATH,366,Real Analysis I
+47861,MATH,367,Differential Equations
+49944,MATH,367,Differential Equations
+44857,MATH,371,Modern Geometries
+39834,MATH,371,Modern Geometries
+48342,MATH,372,Theory of Numbers
+15587,MATH,372,Theory of Numbers
+25099,MATH,384,Numerical Methods
+11975,MATH,384,Numerical Methods
+22751,MATH,454,Modern Algebra II
+24388,MATH,454,Modern Algebra II
+34317,MATH,481,Partial Differential Equations
+24052,MATH,481,Partial Differential Equations
+10164,MATH,491,Senior Seminar
+31326,MATH,491,Senior Seminar
+47960,MATH,493,Senior Thesis (Honours)
+27825,MATH,493,Senior Thesis (Honours)
+18372,MUSI,101,Structure of Music
+22568,MUSI,101,Structure of Music
+32246,MUSI,103,Jazz Theory I
+49043,MUSI,103,Jazz Theory I
+10927,MUSI,106,Advanced Vocal Ensembles I
+31925,MUSI,106,Advanced Vocal Ensembles I
+29305,MUSI,107,Instrumental Ensemble
+41002,MUSI,107,Instrumental Ensemble
+37297,MUSI,117,History of Popular Music
+13446,MUSI,117,History of Popular Music
+43969,MUSI,118,World Music
+19304,MUSI,118,World Music
+15055,MUSI,165,Jazz Styles & Literature
+32383,MUSI,165,Jazz Styles & Literature
+21859,MUSI,190,Applied Performance I
+20773,MUSI,190,Applied Performance I
+44704,MUSI,195,Applied Performance IA
+23878,MUSI,195,Applied Performance IA
+44267,MUSI,201,Structure of Music II
+13221,MUSI,201,Structure of Music II
+44613,MUSI,203,Jazz Theory & Arranging
+46354,MUSI,203,Jazz Theory & Arranging
+25192,MUSI,206,Advanced Vocal Ensembles II
+46862,MUSI,206,Advanced Vocal Ensembles II
+40571,MUSI,207,Instrumental Ensembles II
+38010,MUSI,207,Instrumental Ensembles II
+25223,MUSI,219,Celtic Music
+29804,MUSI,219,Celtic Music
+41739,MUSI,235,Music Techonology
+38985,MUSI,235,Music Techonology
+33126,MUSI,265,Jazz Styles & Literature
+12765,MUSI,265,Jazz Styles & Literature
+41814,MUSI,290,Applied Performance II
+33112,MUSI,290,Applied Performance II
+12761,MUSI,295,Applied Performance IA
+34543,MUSI,295,Applied Performance IA
+14136,MUSI,304,Small Ensemble Arranging
+23111,MUSI,304,Small Ensemble Arranging
+31006,MUSI,306,Advanced Vocal Ensembles III
+16004,MUSI,306,Advanced Vocal Ensembles III
+32533,MUSI,307,Instrumental Ensembles III
+36475,MUSI,307,Instrumental Ensembles III
+10644,MUSI,315,History of Music I
+19240,MUSI,315,History of Music I
+39882,MUSI,316,History of Music II
+32156,MUSI,316,History of Music II
+44619,MUSI,325,Jazz Composition
+28306,MUSI,325,Jazz Composition
+47304,MUSI,365,Jazz Syles & Literature
+27705,MUSI,365,Jazz Syles & Literature
+32631,MUSI,375,Contemporary Songwriting I
+27468,MUSI,375,Contemporary Songwriting I
+11042,MUSI,376,Contemporary Songwriting II
+32669,MUSI,376,Contemporary Songwriting II
+17194,MUSI,390,Applied Performance III
+30497,MUSI,390,Applied Performance III
+38665,MUSI,391,Minor Instrument III
+22954,MUSI,391,Minor Instrument III
+37611,MUSI,395,Applied Performance III A
+19253,MUSI,395,Applied Performance III A
+37841,MUSI,406,Advanced Vocal Ensembles IV
+38355,MUSI,406,Advanced Vocal Ensembles IV
+47008,MUSI,407,Instrumental Ensembles IV
+21625,MUSI,407,Instrumental Ensembles IV
+10815,MUSI,416,History of Music III
+42911,MUSI,416,History of Music III
+39825,MUSI,420,Adv Arranging/Orchestration
+11520,MUSI,420,Adv Arranging/Orchestration
+13997,MUSI,465,Jazz Styles & Literature
+13338,MUSI,465,Jazz Styles & Literature
+49058,MUSI,490,Applied Performance IV
+33626,MUSI,490,Applied Performance IV
+11269,MUSI,491,Minor Instrument IV
+19725,MUSI,491,Minor Instrument IV
+25504,MUSI,495,Applied Performance IV A
+19120,MUSI,495,Applied Performance IV A
+19077,MUSI,499,Advanced Orchestration
+12313,MUSI,499,Advanced Orchestration
+36762,NURS,105,Conceptual Model for Nursing
+39230,NURS,105,Conceptual Model for Nursing
+14841,NURS,115,Health Promotion & Learning
+41001,NURS,115,Health Promotion & Learning
+42721,NURS,125,Intro to Nursing
+36045,NURS,125,Intro to Nursing
+40430,NURS,145,Nursing Foundations & Health
+13132,NURS,145,Nursing Foundations & Health
+46135,NURS,205,Community Health Nursing
+39615,NURS,205,Community Health Nursing
+13739,NURS,215,Community Mental Health I
+31168,NURS,215,Community Mental Health I
+32352,NURS,225,Community Parent-Child Family
+37037,NURS,225,Community Parent-Child Family
+45441,NURS,235,Intro to Pharmacology
+35727,NURS,235,Intro to Pharmacology
+29268,NURS,245,Healthy Aging
+14191,NURS,245,Healthy Aging
+32560,NURS,250,Nursing Practice I
+16142,NURS,250,Nursing Practice I
+42055,NURS,260,Developmental Psychology
+32936,NURS,260,Developmental Psychology
+10879,NURS,275,Comprehensive Health Assessmnt
+17893,NURS,275,Comprehensive Health Assessmnt
+47065,NURS,280,Health Assessment & Pharmacy
+15292,NURS,280,Health Assessment & Pharmacy
+18126,NURS,300,Research Methods
+42826,NURS,300,Research Methods
+45132,NURS,305,Nursing of Adults I
+23567,NURS,305,Nursing of Adults I
+31486,NURS,310,Nursing Research Methods
+29157,NURS,310,Nursing Research Methods
+33735,NURS,315,Nursing of Children
+14847,NURS,315,Nursing of Children
+10250,NURS,330,Legal & Ethical Issues
+38298,NURS,330,Legal & Ethical Issues
+48402,NURS,336,Ethics in Health & Medicine
+40055,NURS,336,Ethics in Health & Medicine
+39271,NURS,345,Mental Health Nursing
+17018,NURS,345,Mental Health Nursing
+22429,NURS,355,Perinatal Nursing
+45288,NURS,355,Perinatal Nursing
+34412,NURS,365,Gender & Health
+12380,NURS,365,Gender & Health
+18600,NURS,405,Nursing Adults II
+22347,NURS,405,Nursing Adults II
+19463,NURS,415,Nursing Adults III
+42655,NURS,415,Nursing Adults III
+34290,NURS,483,Palliative Care
+39431,NURS,483,Palliative Care
+37046,NURS,486,Int'l Health & Development
+28377,NURS,486,Int'l Health & Development
+16832,NURS,488,Challenges in Aging
+29503,NURS,488,Challenges in Aging
+39048,NURS,491,Trends in Health Care
+36308,NURS,491,Trends in Health Care
+16267,NURS,493,Leadership & Research Nursing
+37449,NURS,493,Leadership & Research Nursing
+10959,NURS,496,Senior Honours Seminar
+35542,NURS,496,Senior Honours Seminar
+11959,NURS,497,Nursing Informatics
+45834,NURS,497,Nursing Informatics
+31092,NURS,498,Honours Thesis
+34445,NURS,498,Honours Thesis
+26573,NURS,499,Directed Study & Practice
+39400,NURS,499,Directed Study & Practice
+31478,PHIL,100,Intro Philosophy
+47366,PHIL,100,Intro Philosophy
+34425,PHIL,101,Intro Philosophy I
+27530,PHIL,101,Intro Philosophy I
+18004,PHIL,210,Philosophy of Science
+22943,PHIL,210,Philosophy of Science
+27720,PHIL,230,Philosophy of Human Nature
+31571,PHIL,230,Philosophy of Human Nature
+28366,PHIL,240,Philosophy of Religion
+25267,PHIL,240,Philosophy of Religion
+24283,PHIL,330,Ethics
+33644,PHIL,330,Ethics
+36387,PHIL,331,Ethical Theories
+47818,PHIL,331,Ethical Theories
+46087,PHIL,332,Contemp Moral & Social Issues
+29554,PHIL,332,Contemp Moral & Social Issues
+33810,PHIL,336,Ethics in Health & Medicine
+17110,PHIL,336,Ethics in Health & Medicine
+44417,PHIL,340,Logic
+21328,PHIL,340,Logic
+36800,PHIL,351,Socrates and Plato
+25783,PHIL,351,Socrates and Plato
+33993,PHIL,352,Aristotle
+18381,PHIL,352,Aristotle
+29691,PHIL,371,Social & Political Philosophy
+23557,PHIL,371,Social & Political Philosophy
+28511,PHIL,372,Philosophy of Law
+34578,PHIL,372,Philosophy of Law
+12941,PHIL,380,Existentialism & Phenomenology
+20905,PHIL,380,Existentialism & Phenomenology
+34918,PHIL,399,Topics in Modern Philosophy
+39335,PHIL,399,Topics in Modern Philosophy
+38816,PHIL,460,Sem Metaphysics & Epistemology
+48944,PHIL,460,Sem Metaphysics & Epistemology
+44588,PHIL,489,Honours Thesis
+37862,PHIL,489,Honours Thesis
+40972,PHYS,100,General Physics
+22003,PHYS,100,General Physics
+15535,PHYS,120,General Physics
+44161,PHYS,120,General Physics
+46559,PHYS,201,Relativity & Quantum Physics
+49853,PHYS,201,Relativity & Quantum Physics
+17100,PHYS,221,Electric Circuits
+29506,PHYS,221,Electric Circuits
+23774,PHYS,223,Digital Electronics
+31609,PHYS,223,Digital Electronics
+13609,PHYS,241,Mathematical Physics
+41837,PHYS,241,Mathematical Physics
+24941,PHYS,242,Classical Mechanics I
+26342,PHYS,242,Classical Mechanics I
+37376,PHYS,271,Astronomy: Solar System
+37349,PHYS,271,Astronomy: Solar System
+13641,PHYS,302,Properties of Matter
+17277,PHYS,302,Properties of Matter
+15477,PHYS,303,Subatomic Physics & Cosmology
+26035,PHYS,303,Subatomic Physics & Cosmology
+31157,PHYS,322,Electromagnetic Theory I
+12773,PHYS,322,Electromagnetic Theory I
+30052,PHYS,323,Electronics
+21087,PHYS,323,Electronics
+38543,PHYS,325,Optics
+23016,PHYS,325,Optics
+47555,PHYS,343,Quantum Mechanics I
+13088,PHYS,343,Quantum Mechanics I
+20631,PHYS,344,Thermal Physics
+12441,PHYS,344,Thermal Physics
+28771,PHYS,422,Electromagnetic Theory II
+11001,PHYS,422,Electromagnetic Theory II
+28971,PHYS,425,Lasers & Modern Optics
+37688,PHYS,425,Lasers & Modern Optics
+22853,PHYS,443,Quantum Mechanics II
+32952,PHYS,443,Quantum Mechanics II
+25144,PHYS,444,Statistical Mechanics
+37787,PHYS,444,Statistical Mechanics
+44936,PHYS,473,Soft Material & Biophysics
+10904,PHYS,473,Soft Material & Biophysics
+47587,PHYS,475,Atomic & Molecular Physics
+39362,PHYS,475,Atomic & Molecular Physics
+48678,PHYS,476,Solid State Physics
+48107,PHYS,476,Solid State Physics
+26022,PHYS,491,Physics Seminar
+34847,PHYS,491,Physics Seminar
+46961,PHYS,493,Honours Thesis
+24114,PHYS,493,Honours Thesis
+33650,PSCI,100,Intro Politics Power & Culture
+22685,PSCI,100,Intro Politics Power & Culture
+24920,CSCI,368,Data Comm Systems & Networks
+10891,CSCI,368,Data Comm Systems & Networks

@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar  8 09:54:38 2020
+
+@author: hannahmacdonell
+"""
+
+#T: Shipment(shipmentID, itemID, userAddress, recyclerID, recyclerAddress, dateShipped, dateRecieved)
+
+
+#import random
+import csv
+
+l = []
+c = open("items.txt", "r")
+for line in c:
+    line = line.split(',')
+    l.append(line)
+c.close()
+#1000000,x2018bdr,24102017,TECH
+
+
+a=[]
+c = open("recyclerID.txt", "r")
+for line in c:
+    line = line.split(',')
+    try:
+        line[3] = line[3]+line[4]
+    except IndexError:
+        line[3] = line[3]
+    a.append([line[0],line[1],line[2],line[3]])
+c.close()
+#1899180,CLOT,BB&T Corp.,Hamilton,ONL8E6H01AirportStreet
+
+i=0
+li =  []     
+while i <= len(l)-1:
+    for b in a:
+        try:
+            g = l[i][3].strip().split('\n')[0]   #['1006999', 'x2018ajf', '1012018', 'MISC']
+        except IndexError:
+            break
+        if b[1]==g:
+            #li = itemID, userAddy, RecyclerID, reAddy, dateShipped (date+3months)
+            try:
+                date = int(l[i][2])+30000
+                li.append([l[i][0],l[i][1],b[0],b[3].strip().split('\n')[0],date])
+            except IndexError:
+                break
+            i = i + 70
+    
+c.close()
+with open('shipment.csv', mode='w') as data_file:
+    data_writer = csv.writer(data_file, delimiter=',')
+    data_writer.writerow(['shipmentID', 'itemID', 'userAddress', 'recyclerID', 'recyclerAddress', 'dateShipped'])
+    z = 0
+    print(li[1])
+    for x in li:
+        data_writer.writerow([z+10000,x[0],x[1],x[2],x[3],x[4]])
+        z = z + 1
+data_file.close()
+
+
+
+#shipmentID, itemID, userAddress, recyclerID, recyclerAddress, dateShipped
