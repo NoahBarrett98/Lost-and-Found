@@ -1,0 +1,48 @@
+/*1.*/
+
+/*get all users who have items posted with prices listed over $10,000 and show the item and price*/
+
+WITH 
+     	ITEMS_OVER_10000 AS (
+		SELECT UserID, ListPrice, Category, Description, Condition
+		FROM Inventory 
+		WHERE ListPrice > 10,000
+	)
+SELECT First, Last, ListPrice, Category, Description, Condition
+FROM ITEMS_OVER_10000 JOIN StfxUser USING (UserID) 
+
+
+/*Find the user with the highest number of posts on the database and show the total value of items posted and number of items posted*/ 
+WITH 
+	All_Posts AS (
+		SELECT UserID, Sum(ListPrice) as TOTAL_PRICE, count(*) as NUM_POSTS
+		FROM Inventory 
+		GROUP BY UserID
+	)
+
+SELECT First, Last, TOTAL_PRICE, NUM_POSTS
+	FROM All_Posts 
+	WHERE NUM_POSTS = (SELECT max(NUM_POSTS)
+				FROM All_Posts)
+
+
+/*2.*/
+
+/*DELETE ALL TEXTBOOKS FROM Inventory*/
+DELETE FROM Inventory WHERE Category = 'TEXT' 
+
+/*Update the descriptions of the inventory to discourage people to use our services.*/
+UPDATE Inventory
+SET Description = "**Please Practice Social Distancing During this time**"
+WHERE EXTRACT(MONTH FROM PostDate) >= 2
+AND EXTRACT(YEAR FROM PostDate) = 2020;
+
+
+/*3.*/
+/*create user view for all of their posted items, using id (random user selected from insertion). (*NOTE In original table creations, 
+Inventory category name must be changed to "abbrev" for this to work*/
+CREATE OR REPLACE VIEW USER_POSTS AS
+  SELECT ItemID, ListPrice, PostDate, Category, PostType, Description, Condition
+  FROM   Inventory join Category USING (Abbrev)
+  WHERE UserID = x2016aco
+
