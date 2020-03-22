@@ -1,0 +1,90 @@
+-- Queries For StFX Buy and Sell Database Project
+-- Travis MacDonald
+
+
+-----------
+-- QUERIES --
+-----------
+
+-- (1) Get all users who have sold atleast one item, 
+--     but have never bought an item.
+--     (*NULL price denotes a lost and found transaction)
+
+WITH HasSoldItem AS (
+        SELECT DISTINCT sellerID
+        FROM   Transaction
+        WHERE  Price IS NOT NULL
+)
+AND HasBoughtItem AS (
+        SELECT DISTINCT buyerID
+        FROM   Transaction
+        WHERE  Price IS NOT NULL
+)
+SELECT Last, First, UserID
+FROM   StfxUser
+WHERE  UserID IN     HasSoldItem
+AND    UserID NOT IN HasBoughtItem
+;
+        
+
+-- (2) Get the user who has spent the most
+--     money on the buy and sell.
+
+WITH UserSpendings AS (
+        SELECT UserID, SUM(Price) AS UserSpending
+        FROM   StfxUser JOIN Transaction
+        WHERE  UserID = buyerID
+        GROUP BY UserID
+)
+Select Last, First, UserID, SUM(Price) AS TotalSpent
+FROM   StfxUser JOIN Transaction
+WHERE  UserID = buyerID
+GROUP BY UserID, Last, First
+HAVING SUM(Price) = (
+    SELECT MAX(UserSpending)
+    FROM UserSpendings
+)
+;
+
+
+
+-----------------
+-- DATA UPDATES --
+-----------------
+
+-- (1) Set the price of all inventory sell posts 
+--     involving an accordian to $0.01.
+
+UPDATE Inventory
+SET    ListPrice = 0.01
+WHERE  PostType = 'S'
+AND    ItemID IN (
+    SELECT ItemID 
+    FROM   MusicalInstrument
+    WHERE  InstrType = 'Accordian'
+)
+
+
+-- (2) Delete all items in the inventory that were posted before 2020
+
+DELETE from INVENTORY
+WHERE PostDate < 2020-01-01
+;
+
+
+----------
+-- VIEW --
+----------
+
+-- (1) Get all found items that have not yet been claimed
+
+CREATE OR REPLACE VIEW FoundPosts AS
+    SELECT ItemID, PostDate, PostType, Description
+    FROM   Inventory
+    WHERE  PostType = 'F'
+    AND    ItemID NOT IN (
+            SELECT DISTINCT ItemID
+            FROM   Transaction
+    )
+    ORDER BY PostDate
+;
